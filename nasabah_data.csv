@@ -1,0 +1,2401 @@
+ID_Nasabah,Umur,Jenis_Kelamin,Saldo,Produk,Cabang,Tanggal_Pembukaan
+1001,42,Perempuan,2000000,Deposito,Yogyakarta,2022-09-22
+1002,53,Laki-laki,3000000,Deposito,Jakarta Pusat,2022-10-07
+1003,36,Laki-laki,7000000,Tabungan,Jakarta Pusat,2021-06-16
+1004,25,Laki-laki,12000000,Tabungan,Surabaya,2022-05-22
+1005,57,Laki-laki,27000000,Deposito,Jakarta Pusat,2021-03-28
+1006,18,Perempuan,22000000,Deposito,Yogyakarta,2022-11-07
+1007,33,Laki-laki,21000000,Deposito,Bandung,2022-04-28
+1008,44,Perempuan,1000000,Tabungan,Jakarta Pusat,2020-01-05
+1009,31,Perempuan,18000000,Deposito,Surabaya,2020-03-27
+1010,53,Laki-laki,10000000,Tabungan,Bandung,2021-05-05
+1011,28,Perempuan,26000000,Tabungan,Jakarta Pusat,2020-06-22
+1012,30,Laki-laki,16000000,Deposito,Surabaya,2021-02-28
+1013,20,Laki-laki,28000000,Deposito,Yogyakarta,2020-11-15
+1014,52,Perempuan,27000000,Deposito,Bandung,2021-04-23
+1015,49,Laki-laki,22000000,Tabungan,Surabaya,2022-04-22
+1016,42,Perempuan,30000000,Tabungan,Yogyakarta,2021-01-22
+1017,44,Laki-laki,4000000,Deposito,Bali,2020-03-03
+1018,19,Laki-laki,28000000,Tabungan,Bali,2022-07-18
+1019,33,Laki-laki,10000000,Deposito,Bandung,2020-04-04
+1020,31,Perempuan,10000000,Deposito,Jakarta Pusat,2021-01-14
+1021,31,Perempuan,4000000,Deposito,Yogyakarta,2020-11-15
+1022,37,Perempuan,4000000,Tabungan,Bali,2020-05-19
+1023,48,Perempuan,23000000,Deposito,Bandung,2020-05-03
+1024,24,Perempuan,15000000,Deposito,Bandung,2020-12-10
+1025,41,Laki-laki,24000000,Tabungan,Bali,2021-09-01
+1026,45,Laki-laki,20000000,Deposito,Yogyakarta,2021-03-28
+1027,40,Laki-laki,2000000,Deposito,Yogyakarta,2020-05-28
+1028,49,Laki-laki,5000000,Deposito,Surabaya,2021-10-16
+1029,54,Perempuan,8000000,Deposito,Bali,2021-05-06
+1030,32,Perempuan,12000000,Tabungan,Bandung,2020-08-09
+1031,39,Perempuan,22000000,Tabungan,Surabaya,2021-12-05
+1032,27,Perempuan,10000000,Tabungan,Surabaya,2022-04-16
+1033,27,Laki-laki,9000000,Deposito,Bandung,2020-02-25
+1034,25,Perempuan,12000000,Deposito,Jakarta Pusat,2020-02-12
+1035,49,Perempuan,20000000,Deposito,Bali,2020-01-03
+1036,35,Perempuan,18000000,Deposito,Surabaya,2021-01-24
+1037,33,Perempuan,28000000,Tabungan,Bali,2020-12-02
+1038,54,Perempuan,11000000,Tabungan,Bandung,2022-08-28
+1039,26,Laki-laki,30000000,Deposito,Jakarta Pusat,2022-11-30
+1040,57,Laki-laki,26000000,Deposito,Yogyakarta,2020-11-22
+1041,20,Perempuan,21000000,Tabungan,Surabaya,2022-03-08
+1042,19,Laki-laki,13000000,Tabungan,Surabaya,2022-07-23
+1043,58,Laki-laki,29000000,Deposito,Jakarta Pusat,2022-09-16
+1044,50,Laki-laki,2000000,Tabungan,Jakarta Pusat,2020-10-29
+1045,59,Perempuan,13000000,Tabungan,Surabaya,2021-07-18
+1046,28,Perempuan,25000000,Tabungan,Surabaya,2021-12-08
+1047,19,Perempuan,19000000,Deposito,Bandung,2020-06-04
+1048,42,Perempuan,13000000,Deposito,Yogyakarta,2021-09-19
+1049,28,Laki-laki,25000000,Tabungan,Jakarta Pusat,2020-12-07
+1050,34,Laki-laki,8000000,Deposito,Bali,2021-09-11
+1051,40,Perempuan,29043788,Deposito,Yogyakarta,2022-08-24
+1052,56,Laki-laki,22652250,Deposito,Jakarta Pusat,2022-06-15
+1053,57,Laki-laki,27485070,Tabungan,Jakarta Pusat,2022-12-17
+1054,62,Laki-laki,16330635,Tabungan,Surabaya,2021-08-17
+1055,47,Laki-laki,24489561,Deposito,Jakarta Pusat,2021-06-15
+1056,41,Perempuan,14669358,Deposito,Yogyakarta,2021-08-23
+1057,63,Laki-laki,17801302,Deposito,Bandung,2020-08-16
+1058,68,Perempuan,7237877,Tabungan,Jakarta Pusat,2021-05-05
+1059,62,Perempuan,28027918,Deposito,Surabaya,2022-11-19
+1060,26,Laki-laki,13304571,Tabungan,Bandung,2022-10-02
+1061,32,Perempuan,29983541,Tabungan,Jakarta Pusat,2021-03-26
+1062,43,Laki-laki,22918681,Deposito,Surabaya,2021-03-18
+1063,60,Laki-laki,28649362,Deposito,Yogyakarta,2020-09-06
+1064,30,Perempuan,25835228,Deposito,Bandung,2020-04-05
+1065,58,Laki-laki,1040757,Tabungan,Surabaya,2020-05-18
+1066,64,Perempuan,9127334,Tabungan,Yogyakarta,2021-11-26
+1067,68,Laki-laki,20192962,Deposito,Bali,2022-09-12
+1068,50,Laki-laki,2656665,Tabungan,Bali,2021-04-13
+1069,28,Laki-laki,27425839,Deposito,Bandung,2022-12-26
+1070,29,Perempuan,15484656,Deposito,Jakarta Pusat,2021-05-05
+1071,62,Perempuan,1142117,Deposito,Yogyakarta,2021-12-02
+1072,43,Perempuan,17974271,Tabungan,Bali,2020-05-01
+1073,50,Perempuan,4971127,Deposito,Bandung,2021-05-01
+1074,54,Perempuan,2127274,Deposito,Bandung,2022-07-23
+1075,27,Laki-laki,26964365,Tabungan,Bali,2020-04-24
+1076,68,Laki-laki,14601661,Deposito,Yogyakarta,2021-08-21
+1077,46,Laki-laki,28751144,Deposito,Yogyakarta,2021-05-05
+1078,67,Laki-laki,3486291,Deposito,Surabaya,2020-04-02
+1079,31,Perempuan,17749296,Deposito,Bali,2020-06-02
+1080,41,Perempuan,6687170,Tabungan,Bandung,2020-12-15
+1081,22,Perempuan,4130717,Tabungan,Surabaya,2020-07-04
+1082,45,Perempuan,14335073,Tabungan,Surabaya,2021-06-02
+1083,39,Laki-laki,3259902,Deposito,Bandung,2021-05-02
+1084,40,Perempuan,18488034,Deposito,Jakarta Pusat,2021-12-26
+1085,32,Perempuan,7538396,Deposito,Bali,2020-06-19
+1086,59,Perempuan,24406908,Deposito,Surabaya,2021-09-05
+1087,68,Perempuan,27340758,Tabungan,Bali,2021-07-23
+1088,58,Perempuan,7075320,Tabungan,Bandung,2022-09-13
+1089,49,Laki-laki,21470234,Deposito,Jakarta Pusat,2021-07-31
+1090,44,Laki-laki,18989785,Deposito,Yogyakarta,2022-08-21
+1091,57,Perempuan,2588319,Tabungan,Surabaya,2020-06-23
+1092,59,Laki-laki,3335504,Tabungan,Surabaya,2021-01-25
+1093,34,Laki-laki,17106987,Deposito,Jakarta Pusat,2020-04-11
+1094,29,Laki-laki,10313730,Tabungan,Jakarta Pusat,2022-08-09
+1095,67,Perempuan,10564155,Tabungan,Surabaya,2020-02-23
+1096,69,Perempuan,26005446,Tabungan,Surabaya,2022-12-20
+1097,36,Perempuan,14472421,Deposito,Bandung,2022-03-02
+1098,42,Perempuan,25257899,Deposito,Yogyakarta,2020-07-23
+1099,64,Laki-laki,1355471,Tabungan,Jakarta Pusat,2020-11-04
+1100,52,Laki-laki,19686735,Deposito,Bali,2020-06-22
+1101,61,Perempuan,28004462,Deposito,Yogyakarta,2020-03-22
+1102,33,Laki-laki,6009759,Deposito,Jakarta Pusat,2020-10-25
+1103,23,Laki-laki,25328726,Tabungan,Jakarta Pusat,2020-09-01
+1104,52,Laki-laki,29078385,Tabungan,Surabaya,2021-10-26
+1105,49,Laki-laki,21914227,Deposito,Jakarta Pusat,2021-02-05
+1106,36,Perempuan,6229411,Deposito,Yogyakarta,2022-02-19
+1107,65,Laki-laki,18046028,Deposito,Bandung,2020-09-23
+1108,43,Perempuan,14096330,Tabungan,Jakarta Pusat,2021-08-12
+1109,20,Perempuan,6274955,Deposito,Surabaya,2020-01-15
+1110,20,Laki-laki,1394928,Tabungan,Bandung,2022-02-14
+1111,37,Perempuan,25566855,Tabungan,Jakarta Pusat,2020-03-08
+1112,53,Laki-laki,20430628,Deposito,Surabaya,2020-04-21
+1113,55,Laki-laki,28250818,Deposito,Yogyakarta,2021-04-25
+1114,29,Perempuan,14912913,Deposito,Bandung,2021-10-20
+1115,68,Laki-laki,12592232,Tabungan,Surabaya,2020-09-13
+1116,49,Perempuan,4779821,Tabungan,Yogyakarta,2020-09-22
+1117,49,Laki-laki,11192201,Deposito,Bali,2022-04-21
+1118,31,Laki-laki,11737081,Tabungan,Bali,2020-01-07
+1119,58,Laki-laki,10764830,Deposito,Bandung,2021-01-28
+1120,50,Perempuan,26486527,Deposito,Jakarta Pusat,2020-04-02
+1121,29,Perempuan,26639270,Deposito,Yogyakarta,2020-11-17
+1122,68,Perempuan,17792391,Tabungan,Bali,2022-08-25
+1123,39,Perempuan,5721028,Deposito,Bandung,2020-12-15
+1124,24,Perempuan,12138625,Deposito,Bandung,2022-06-02
+1125,46,Laki-laki,1080293,Tabungan,Bali,2020-06-12
+1126,30,Laki-laki,16936242,Deposito,Yogyakarta,2020-03-15
+1127,52,Laki-laki,18806289,Deposito,Yogyakarta,2022-09-01
+1128,47,Laki-laki,11100801,Deposito,Surabaya,2020-11-25
+1129,69,Perempuan,22188651,Deposito,Bali,2020-04-16
+1130,39,Perempuan,12765130,Tabungan,Bandung,2021-05-16
+1131,20,Perempuan,26980255,Tabungan,Surabaya,2022-06-15
+1132,37,Perempuan,5940486,Tabungan,Surabaya,2021-04-04
+1133,55,Laki-laki,21324115,Deposito,Bandung,2021-05-31
+1134,35,Perempuan,4638812,Deposito,Jakarta Pusat,2021-11-13
+1135,33,Perempuan,9011564,Deposito,Bali,2020-09-15
+1136,48,Perempuan,8299626,Deposito,Surabaya,2022-08-10
+1137,67,Perempuan,24153388,Tabungan,Bali,2022-04-07
+1138,64,Perempuan,6084134,Tabungan,Bandung,2021-08-05
+1139,25,Laki-laki,6272638,Deposito,Jakarta Pusat,2021-11-21
+1140,59,Laki-laki,1981677,Deposito,Yogyakarta,2021-06-25
+1141,45,Perempuan,4849000,Tabungan,Surabaya,2020-04-08
+1142,32,Laki-laki,19623119,Tabungan,Surabaya,2020-08-18
+1143,22,Laki-laki,5254322,Deposito,Jakarta Pusat,2022-02-04
+1144,67,Laki-laki,12580535,Tabungan,Jakarta Pusat,2022-08-13
+1145,21,Perempuan,15705261,Tabungan,Surabaya,2021-09-29
+1146,23,Perempuan,24839779,Tabungan,Surabaya,2022-12-28
+1147,48,Perempuan,1098366,Deposito,Bandung,2021-03-11
+1148,46,Perempuan,17054328,Deposito,Yogyakarta,2020-04-13
+1149,55,Laki-laki,25600316,Tabungan,Jakarta Pusat,2022-12-24
+1150,43,Laki-laki,22985155,Deposito,Bali,2020-03-11
+1151,26,Perempuan,15274502,Deposito,Yogyakarta,2020-01-08
+1152,36,Laki-laki,28370175,Deposito,Jakarta Pusat,2020-06-28
+1153,56,Laki-laki,27829153,Tabungan,Jakarta Pusat,2022-06-09
+1154,29,Laki-laki,19747268,Tabungan,Surabaya,2020-07-27
+1155,44,Laki-laki,26954500,Deposito,Jakarta Pusat,2021-07-31
+1156,53,Perempuan,4589247,Deposito,Yogyakarta,2022-02-09
+1157,49,Laki-laki,14589616,Deposito,Bandung,2021-05-07
+1158,66,Perempuan,4900514,Tabungan,Jakarta Pusat,2021-08-04
+1159,43,Perempuan,3661424,Deposito,Surabaya,2022-12-12
+1160,58,Laki-laki,22138806,Tabungan,Bandung,2022-05-27
+1161,52,Perempuan,22426343,Tabungan,Jakarta Pusat,2021-03-31
+1162,42,Laki-laki,12090295,Deposito,Surabaya,2021-10-24
+1163,60,Laki-laki,25801432,Deposito,Yogyakarta,2022-12-25
+1164,37,Perempuan,17243147,Deposito,Bandung,2020-08-24
+1165,37,Laki-laki,11453476,Tabungan,Surabaya,2020-07-04
+1166,45,Perempuan,13289014,Tabungan,Yogyakarta,2021-08-05
+1167,42,Laki-laki,29589065,Deposito,Bali,2020-05-18
+1168,44,Laki-laki,7546722,Tabungan,Bali,2021-11-28
+1169,66,Laki-laki,18242132,Deposito,Bandung,2020-06-05
+1170,52,Perempuan,28011880,Deposito,Jakarta Pusat,2021-07-07
+1171,62,Perempuan,3472369,Deposito,Yogyakarta,2022-01-19
+1172,40,Perempuan,24922271,Tabungan,Bali,2020-10-11
+1173,35,Perempuan,11323658,Deposito,Bandung,2022-10-04
+1174,38,Perempuan,20168500,Deposito,Bandung,2022-07-26
+1175,56,Laki-laki,21979742,Tabungan,Bali,2021-01-07
+1176,22,Laki-laki,27605992,Deposito,Yogyakarta,2021-03-07
+1177,22,Laki-laki,11350003,Deposito,Yogyakarta,2021-05-19
+1178,32,Laki-laki,14696967,Deposito,Surabaya,2020-10-16
+1179,26,Perempuan,17368286,Deposito,Bali,2022-10-02
+1180,28,Perempuan,3842711,Tabungan,Bandung,2021-06-20
+1181,69,Perempuan,18287162,Tabungan,Surabaya,2021-03-16
+1182,25,Perempuan,27324131,Tabungan,Surabaya,2021-10-14
+1183,67,Laki-laki,8753422,Deposito,Bandung,2020-12-02
+1184,67,Perempuan,16308153,Deposito,Jakarta Pusat,2022-03-26
+1185,44,Perempuan,17481453,Deposito,Bali,2021-10-07
+1186,22,Perempuan,22887583,Deposito,Surabaya,2020-03-13
+1187,51,Perempuan,15848769,Tabungan,Bali,2021-08-31
+1188,63,Perempuan,15172115,Tabungan,Bandung,2021-08-07
+1189,37,Laki-laki,3806815,Deposito,Jakarta Pusat,2022-08-22
+1190,33,Laki-laki,8385283,Deposito,Yogyakarta,2020-01-24
+1191,67,Perempuan,26326417,Tabungan,Surabaya,2021-06-16
+1192,32,Laki-laki,17227516,Tabungan,Surabaya,2020-02-22
+1193,28,Laki-laki,27456389,Deposito,Jakarta Pusat,2022-04-16
+1194,68,Laki-laki,16118329,Tabungan,Jakarta Pusat,2022-11-21
+1195,30,Perempuan,19752329,Tabungan,Surabaya,2022-07-13
+1196,26,Perempuan,7098036,Tabungan,Surabaya,2022-10-20
+1197,45,Perempuan,8818362,Deposito,Bandung,2021-06-29
+1198,54,Perempuan,26652694,Deposito,Yogyakarta,2022-10-24
+1199,66,Laki-laki,21421654,Tabungan,Jakarta Pusat,2022-06-02
+1200,67,Laki-laki,11838457,Deposito,Bali,2021-07-30
+1201,47,Perempuan,9931623,Deposito,Yogyakarta,2021-07-13
+1202,47,Laki-laki,7229728,Deposito,Jakarta Pusat,2022-07-08
+1203,25,Laki-laki,12719712,Tabungan,Jakarta Pusat,2022-04-29
+1204,20,Laki-laki,22779512,Tabungan,Surabaya,2020-10-20
+1205,54,Laki-laki,6060625,Deposito,Jakarta Pusat,2022-01-15
+1206,39,Perempuan,23254229,Deposito,Yogyakarta,2021-07-02
+1207,43,Laki-laki,24891408,Deposito,Bandung,2020-11-16
+1208,50,Perempuan,13066821,Tabungan,Jakarta Pusat,2020-12-17
+1209,54,Perempuan,15529744,Deposito,Surabaya,2022-02-21
+1210,33,Laki-laki,6766202,Tabungan,Bandung,2022-04-21
+1211,26,Perempuan,13088397,Tabungan,Jakarta Pusat,2020-10-07
+1212,30,Laki-laki,15078235,Deposito,Surabaya,2020-10-12
+1213,28,Laki-laki,20766871,Deposito,Yogyakarta,2021-02-12
+1214,46,Perempuan,2262057,Deposito,Bandung,2022-02-15
+1215,66,Laki-laki,26260135,Tabungan,Surabaya,2021-03-07
+1216,22,Perempuan,11049069,Tabungan,Yogyakarta,2022-07-06
+1217,62,Laki-laki,21948954,Deposito,Bali,2022-01-28
+1218,47,Laki-laki,19757940,Tabungan,Bali,2021-11-09
+1219,21,Laki-laki,13412234,Deposito,Bandung,2020-04-15
+1220,40,Perempuan,13178763,Deposito,Jakarta Pusat,2020-11-15
+1221,67,Perempuan,24587779,Deposito,Yogyakarta,2020-11-11
+1222,57,Perempuan,21634268,Tabungan,Bali,2021-02-12
+1223,45,Perempuan,1100633,Deposito,Bandung,2021-06-13
+1224,22,Perempuan,28796977,Deposito,Bandung,2020-05-20
+1225,58,Laki-laki,22743787,Tabungan,Bali,2020-12-09
+1226,24,Laki-laki,19164066,Deposito,Yogyakarta,2020-01-22
+1227,40,Laki-laki,15776268,Deposito,Yogyakarta,2021-11-20
+1228,44,Laki-laki,8621336,Deposito,Surabaya,2021-08-21
+1229,27,Perempuan,27450920,Deposito,Bali,2022-05-21
+1230,28,Perempuan,11281765,Tabungan,Bandung,2021-10-25
+1231,30,Perempuan,21443724,Tabungan,Surabaya,2021-03-22
+1232,26,Perempuan,17462935,Tabungan,Surabaya,2021-08-25
+1233,39,Laki-laki,5128523,Deposito,Bandung,2022-06-23
+1234,66,Perempuan,8713467,Deposito,Jakarta Pusat,2021-02-19
+1235,53,Perempuan,18198922,Deposito,Bali,2021-04-07
+1236,28,Perempuan,28426280,Deposito,Surabaya,2020-06-01
+1237,55,Perempuan,12365948,Tabungan,Bali,2022-07-19
+1238,68,Perempuan,22261798,Tabungan,Bandung,2021-10-05
+1239,31,Laki-laki,10164607,Deposito,Jakarta Pusat,2022-02-24
+1240,25,Laki-laki,27121249,Deposito,Yogyakarta,2022-09-25
+1241,66,Perempuan,13554756,Tabungan,Surabaya,2022-04-19
+1242,21,Laki-laki,29707244,Tabungan,Surabaya,2021-05-23
+1243,47,Laki-laki,27511279,Deposito,Jakarta Pusat,2022-03-13
+1244,62,Laki-laki,17999916,Tabungan,Jakarta Pusat,2020-08-07
+1245,55,Perempuan,16648356,Tabungan,Surabaya,2021-03-18
+1246,65,Perempuan,16544146,Tabungan,Surabaya,2021-06-09
+1247,59,Perempuan,24165378,Deposito,Bandung,2021-01-02
+1248,60,Perempuan,13914362,Deposito,Yogyakarta,2022-11-20
+1249,29,Laki-laki,15276402,Tabungan,Jakarta Pusat,2020-02-25
+1250,32,Laki-laki,1311659,Deposito,Bali,2020-02-14
+1251,56,Perempuan,27355766,Deposito,Yogyakarta,2021-05-11
+1252,68,Laki-laki,13007929,Deposito,Jakarta Pusat,2022-09-21
+1253,56,Laki-laki,10208347,Tabungan,Jakarta Pusat,2021-08-15
+1254,35,Laki-laki,11046527,Tabungan,Surabaya,2020-05-28
+1255,20,Laki-laki,29521682,Deposito,Jakarta Pusat,2022-09-22
+1256,58,Perempuan,24601034,Deposito,Yogyakarta,2020-11-30
+1257,34,Laki-laki,8985335,Deposito,Bandung,2020-08-27
+1258,25,Perempuan,25595209,Tabungan,Jakarta Pusat,2021-08-30
+1259,33,Perempuan,14087577,Deposito,Surabaya,2022-05-26
+1260,48,Laki-laki,11139233,Tabungan,Bandung,2020-03-06
+1261,34,Perempuan,14912814,Tabungan,Jakarta Pusat,2022-07-17
+1262,55,Laki-laki,7454522,Deposito,Surabaya,2022-04-25
+1263,45,Laki-laki,13033478,Deposito,Yogyakarta,2020-11-13
+1264,33,Perempuan,15707832,Deposito,Bandung,2021-02-07
+1265,37,Laki-laki,18453893,Tabungan,Surabaya,2020-09-25
+1266,43,Perempuan,3164022,Tabungan,Yogyakarta,2021-03-02
+1267,46,Laki-laki,18801829,Deposito,Bali,2021-03-18
+1268,67,Laki-laki,19036134,Tabungan,Bali,2022-02-25
+1269,36,Laki-laki,19100202,Deposito,Bandung,2022-05-26
+1270,57,Perempuan,28123601,Deposito,Jakarta Pusat,2022-03-19
+1271,51,Perempuan,5276723,Deposito,Yogyakarta,2021-09-11
+1272,47,Perempuan,28118255,Tabungan,Bali,2021-05-18
+1273,62,Perempuan,5266099,Deposito,Bandung,2022-08-19
+1274,26,Perempuan,5606506,Deposito,Bandung,2022-02-19
+1275,42,Laki-laki,28562484,Tabungan,Bali,2021-10-04
+1276,62,Laki-laki,28912369,Deposito,Yogyakarta,2022-01-30
+1277,57,Laki-laki,21023015,Deposito,Yogyakarta,2022-12-25
+1278,58,Laki-laki,2173614,Deposito,Surabaya,2020-08-10
+1279,65,Perempuan,21621220,Deposito,Bali,2021-11-29
+1280,67,Perempuan,1854276,Tabungan,Bandung,2020-03-10
+1281,56,Perempuan,23345072,Tabungan,Surabaya,2020-04-26
+1282,30,Perempuan,11716374,Tabungan,Surabaya,2021-08-28
+1283,63,Laki-laki,1949148,Deposito,Bandung,2022-10-06
+1284,65,Perempuan,18374162,Deposito,Jakarta Pusat,2022-03-02
+1285,20,Perempuan,21225093,Deposito,Bali,2020-12-09
+1286,27,Perempuan,16477453,Deposito,Surabaya,2021-11-02
+1287,57,Perempuan,14982858,Tabungan,Bali,2021-08-19
+1288,60,Perempuan,17683075,Tabungan,Bandung,2020-09-18
+1289,29,Laki-laki,19171139,Deposito,Jakarta Pusat,2020-08-03
+1290,55,Laki-laki,25493615,Deposito,Yogyakarta,2021-09-10
+1291,25,Perempuan,29829049,Tabungan,Surabaya,2021-10-29
+1292,59,Laki-laki,9451591,Tabungan,Surabaya,2020-09-13
+1293,30,Laki-laki,18285125,Deposito,Jakarta Pusat,2021-04-26
+1294,44,Laki-laki,29022530,Tabungan,Jakarta Pusat,2022-06-24
+1295,47,Perempuan,16596848,Tabungan,Surabaya,2021-09-29
+1296,29,Perempuan,10071278,Tabungan,Surabaya,2021-04-21
+1297,38,Perempuan,17517423,Deposito,Bandung,2021-05-01
+1298,22,Perempuan,9878734,Deposito,Yogyakarta,2022-04-06
+1299,57,Laki-laki,6477832,Tabungan,Jakarta Pusat,2022-01-10
+1300,69,Laki-laki,7540409,Deposito,Bali,2022-04-09
+1301,27,Perempuan,13661320,Deposito,Yogyakarta,2022-10-26
+1302,65,Laki-laki,18345198,Deposito,Jakarta Pusat,2022-05-10
+1303,42,Laki-laki,18474868,Tabungan,Jakarta Pusat,2021-06-05
+1304,27,Laki-laki,14507217,Tabungan,Surabaya,2021-08-01
+1305,20,Laki-laki,8193397,Deposito,Jakarta Pusat,2021-05-07
+1306,51,Perempuan,15181486,Deposito,Yogyakarta,2021-06-05
+1307,21,Laki-laki,15502115,Deposito,Bandung,2022-09-23
+1308,69,Perempuan,29690955,Tabungan,Jakarta Pusat,2022-10-02
+1309,50,Perempuan,28725689,Deposito,Surabaya,2021-06-01
+1310,52,Laki-laki,2301979,Tabungan,Bandung,2021-08-03
+1311,51,Perempuan,9177923,Tabungan,Jakarta Pusat,2020-09-17
+1312,25,Laki-laki,29152202,Deposito,Surabaya,2022-10-04
+1313,36,Laki-laki,15479412,Deposito,Yogyakarta,2020-03-22
+1314,21,Perempuan,15551589,Deposito,Bandung,2022-03-29
+1315,56,Laki-laki,7575840,Tabungan,Surabaya,2021-04-18
+1316,68,Perempuan,24839283,Tabungan,Yogyakarta,2022-11-30
+1317,40,Laki-laki,10290125,Deposito,Bali,2021-04-18
+1318,65,Laki-laki,22170727,Tabungan,Bali,2022-05-13
+1319,23,Laki-laki,4232019,Deposito,Bandung,2020-11-08
+1320,32,Perempuan,18253304,Deposito,Jakarta Pusat,2022-10-14
+1321,65,Perempuan,12356553,Deposito,Yogyakarta,2021-11-29
+1322,55,Perempuan,8968233,Tabungan,Bali,2022-01-01
+1323,63,Perempuan,16703322,Deposito,Bandung,2022-01-16
+1324,67,Perempuan,4261941,Deposito,Bandung,2021-03-01
+1325,60,Laki-laki,22731419,Tabungan,Bali,2021-10-13
+1326,60,Laki-laki,7555633,Deposito,Yogyakarta,2022-08-24
+1327,50,Laki-laki,24612579,Deposito,Yogyakarta,2021-04-25
+1328,49,Laki-laki,14846643,Deposito,Surabaya,2022-03-11
+1329,40,Perempuan,8075244,Deposito,Bali,2020-03-21
+1330,22,Perempuan,7519006,Tabungan,Bandung,2022-06-25
+1331,29,Perempuan,11074319,Tabungan,Surabaya,2022-02-18
+1332,45,Perempuan,3208865,Tabungan,Surabaya,2021-10-27
+1333,52,Laki-laki,17037165,Deposito,Bandung,2021-02-03
+1334,45,Perempuan,3064381,Deposito,Jakarta Pusat,2022-03-01
+1335,58,Perempuan,21466662,Deposito,Bali,2020-11-12
+1336,42,Perempuan,7420004,Deposito,Surabaya,2021-06-07
+1337,23,Perempuan,25436556,Tabungan,Bali,2022-08-22
+1338,30,Perempuan,18334534,Tabungan,Bandung,2022-07-02
+1339,53,Laki-laki,29462738,Deposito,Jakarta Pusat,2022-12-08
+1340,49,Laki-laki,22136227,Deposito,Yogyakarta,2020-08-16
+1341,51,Perempuan,24769720,Tabungan,Surabaya,2022-10-12
+1342,54,Laki-laki,22403649,Tabungan,Surabaya,2020-11-30
+1343,56,Laki-laki,8191193,Deposito,Jakarta Pusat,2020-02-26
+1344,28,Laki-laki,2546043,Tabungan,Jakarta Pusat,2021-01-25
+1345,26,Perempuan,29699647,Tabungan,Surabaya,2021-09-24
+1346,57,Perempuan,7070952,Tabungan,Surabaya,2021-03-23
+1347,47,Perempuan,11406434,Deposito,Bandung,2020-04-18
+1348,44,Perempuan,3411354,Deposito,Yogyakarta,2021-04-12
+1349,68,Laki-laki,18493457,Tabungan,Jakarta Pusat,2021-10-14
+1350,28,Laki-laki,16855169,Deposito,Bali,2022-06-11
+1351,58,Perempuan,3780816,Deposito,Yogyakarta,2021-06-25
+1352,52,Laki-laki,11007256,Deposito,Jakarta Pusat,2020-09-25
+1353,25,Laki-laki,18493406,Tabungan,Jakarta Pusat,2021-09-12
+1354,57,Laki-laki,2197963,Tabungan,Surabaya,2021-02-08
+1355,31,Laki-laki,21760615,Deposito,Jakarta Pusat,2022-02-26
+1356,56,Perempuan,22491305,Deposito,Yogyakarta,2020-11-16
+1357,54,Laki-laki,3245974,Deposito,Bandung,2021-04-10
+1358,53,Perempuan,6009301,Tabungan,Jakarta Pusat,2021-07-29
+1359,63,Perempuan,8881942,Deposito,Surabaya,2020-06-04
+1360,35,Laki-laki,10798758,Tabungan,Bandung,2021-01-31
+1361,41,Perempuan,15251054,Tabungan,Jakarta Pusat,2020-04-26
+1362,65,Laki-laki,23977617,Deposito,Surabaya,2022-01-27
+1363,36,Laki-laki,14350766,Deposito,Yogyakarta,2022-10-22
+1364,57,Perempuan,17037473,Deposito,Bandung,2020-10-10
+1365,22,Laki-laki,16048732,Tabungan,Surabaya,2020-11-10
+1366,66,Perempuan,11843321,Tabungan,Yogyakarta,2020-08-17
+1367,22,Laki-laki,23895528,Deposito,Bali,2021-09-05
+1368,30,Laki-laki,19881588,Tabungan,Bali,2022-04-09
+1369,69,Laki-laki,29918396,Deposito,Bandung,2021-03-20
+1370,24,Perempuan,9945519,Deposito,Jakarta Pusat,2020-08-07
+1371,43,Perempuan,25489840,Deposito,Yogyakarta,2022-01-16
+1372,52,Perempuan,2243920,Tabungan,Bali,2020-04-17
+1373,33,Perempuan,26083936,Deposito,Bandung,2020-09-23
+1374,33,Perempuan,9551621,Deposito,Bandung,2022-12-10
+1375,41,Laki-laki,23030483,Tabungan,Bali,2020-06-16
+1376,39,Laki-laki,28312063,Deposito,Yogyakarta,2021-07-31
+1377,62,Laki-laki,14410992,Deposito,Yogyakarta,2021-09-30
+1378,27,Laki-laki,9116320,Deposito,Surabaya,2021-03-12
+1379,67,Perempuan,7549829,Deposito,Bali,2021-08-07
+1380,32,Perempuan,17114445,Tabungan,Bandung,2021-10-19
+1381,34,Perempuan,19996230,Tabungan,Surabaya,2022-03-10
+1382,41,Perempuan,17241053,Tabungan,Surabaya,2020-02-06
+1383,38,Laki-laki,16985917,Deposito,Bandung,2021-02-12
+1384,21,Perempuan,7090700,Deposito,Jakarta Pusat,2021-09-25
+1385,67,Perempuan,11098112,Deposito,Bali,2022-06-24
+1386,28,Perempuan,23119867,Deposito,Surabaya,2021-01-16
+1387,45,Perempuan,9386859,Tabungan,Bali,2021-10-27
+1388,57,Perempuan,7858803,Tabungan,Bandung,2021-10-10
+1389,22,Laki-laki,23537611,Deposito,Jakarta Pusat,2021-01-21
+1390,34,Laki-laki,17968739,Deposito,Yogyakarta,2021-10-17
+1391,40,Perempuan,10559918,Tabungan,Surabaya,2021-08-28
+1392,34,Laki-laki,28524134,Tabungan,Surabaya,2022-04-12
+1393,33,Laki-laki,14148250,Deposito,Jakarta Pusat,2022-10-05
+1394,44,Laki-laki,16285515,Tabungan,Jakarta Pusat,2020-06-24
+1395,63,Perempuan,7108134,Tabungan,Surabaya,2022-05-23
+1396,64,Perempuan,16174063,Tabungan,Surabaya,2021-11-11
+1397,22,Perempuan,5527553,Deposito,Bandung,2020-08-18
+1398,38,Perempuan,12921874,Deposito,Yogyakarta,2020-02-24
+1399,61,Laki-laki,28682085,Tabungan,Jakarta Pusat,2022-07-31
+1400,48,Laki-laki,13858390,Deposito,Bali,2022-10-07
+1401,63,Perempuan,20990726,Deposito,Yogyakarta,2021-12-21
+1402,28,Laki-laki,6374871,Deposito,Jakarta Pusat,2021-04-15
+1403,32,Laki-laki,14185765,Tabungan,Jakarta Pusat,2022-01-31
+1404,43,Laki-laki,6849656,Tabungan,Surabaya,2021-01-08
+1405,67,Laki-laki,11068991,Deposito,Jakarta Pusat,2022-07-14
+1406,66,Perempuan,17721231,Deposito,Yogyakarta,2022-05-25
+1407,21,Laki-laki,28538020,Deposito,Bandung,2020-03-10
+1408,32,Perempuan,14945873,Tabungan,Jakarta Pusat,2022-06-29
+1409,38,Perempuan,5385870,Deposito,Surabaya,2020-04-14
+1410,27,Laki-laki,12871803,Tabungan,Bandung,2021-09-11
+1411,54,Perempuan,19698198,Tabungan,Jakarta Pusat,2020-08-01
+1412,69,Laki-laki,2422315,Deposito,Surabaya,2020-07-04
+1413,49,Laki-laki,4343755,Deposito,Yogyakarta,2020-01-14
+1414,29,Perempuan,29129443,Deposito,Bandung,2022-01-15
+1415,35,Laki-laki,15138599,Tabungan,Surabaya,2021-06-15
+1416,38,Perempuan,25736057,Tabungan,Yogyakarta,2022-03-08
+1417,64,Laki-laki,14417473,Deposito,Bali,2021-05-29
+1418,29,Laki-laki,12543056,Tabungan,Bali,2020-06-04
+1419,69,Laki-laki,3832790,Deposito,Bandung,2020-08-18
+1420,64,Perempuan,17696279,Deposito,Jakarta Pusat,2021-08-24
+1421,55,Perempuan,19719983,Deposito,Yogyakarta,2020-03-22
+1422,36,Perempuan,8361299,Tabungan,Bali,2020-04-04
+1423,36,Perempuan,9656915,Deposito,Bandung,2020-11-22
+1424,40,Perempuan,11559198,Deposito,Bandung,2020-11-30
+1425,44,Laki-laki,19205413,Tabungan,Bali,2020-02-25
+1426,21,Laki-laki,29532208,Deposito,Yogyakarta,2021-11-08
+1427,25,Laki-laki,22128142,Deposito,Yogyakarta,2022-10-25
+1428,50,Laki-laki,2016653,Deposito,Surabaya,2021-05-21
+1429,29,Perempuan,19246822,Deposito,Bali,2020-02-03
+1430,39,Perempuan,26766533,Tabungan,Bandung,2021-08-01
+1431,30,Perempuan,16399588,Tabungan,Surabaya,2021-02-25
+1432,25,Perempuan,22384195,Tabungan,Surabaya,2022-01-15
+1433,28,Laki-laki,15377565,Deposito,Bandung,2020-04-15
+1434,62,Perempuan,22948364,Deposito,Jakarta Pusat,2020-10-21
+1435,34,Perempuan,16475387,Deposito,Bali,2022-05-24
+1436,27,Perempuan,13438315,Deposito,Surabaya,2022-05-31
+1437,61,Perempuan,28282873,Tabungan,Bali,2021-10-11
+1438,57,Perempuan,9638178,Tabungan,Bandung,2020-04-09
+1439,53,Laki-laki,15412636,Deposito,Jakarta Pusat,2022-08-23
+1440,58,Laki-laki,8419349,Deposito,Yogyakarta,2020-06-11
+1441,21,Perempuan,27325045,Tabungan,Surabaya,2021-06-08
+1442,46,Laki-laki,9694566,Tabungan,Surabaya,2020-01-09
+1443,21,Laki-laki,20142441,Deposito,Jakarta Pusat,2022-11-05
+1444,35,Laki-laki,15162840,Tabungan,Jakarta Pusat,2020-05-07
+1445,21,Perempuan,24652242,Tabungan,Surabaya,2021-11-11
+1446,35,Perempuan,22276170,Tabungan,Surabaya,2021-07-21
+1447,56,Perempuan,12273104,Deposito,Bandung,2020-02-03
+1448,30,Perempuan,19478374,Deposito,Yogyakarta,2021-10-14
+1449,38,Laki-laki,27414620,Tabungan,Jakarta Pusat,2021-11-01
+1450,65,Laki-laki,7210433,Deposito,Bali,2022-05-24
+1451,28,Perempuan,27348600,Deposito,Yogyakarta,2022-11-05
+1452,51,Laki-laki,12240179,Deposito,Jakarta Pusat,2022-11-16
+1453,63,Laki-laki,13558751,Tabungan,Jakarta Pusat,2020-04-11
+1454,30,Laki-laki,23584799,Tabungan,Surabaya,2020-08-11
+1455,40,Laki-laki,14536255,Deposito,Jakarta Pusat,2021-09-26
+1456,44,Perempuan,10965430,Deposito,Yogyakarta,2020-04-23
+1457,35,Laki-laki,10000787,Deposito,Bandung,2022-10-14
+1458,50,Perempuan,16287830,Tabungan,Jakarta Pusat,2021-10-04
+1459,63,Perempuan,23267304,Deposito,Surabaya,2021-03-14
+1460,20,Laki-laki,22550842,Tabungan,Bandung,2020-04-18
+1461,39,Perempuan,10056393,Tabungan,Jakarta Pusat,2020-11-16
+1462,53,Laki-laki,21670580,Deposito,Surabaya,2020-02-05
+1463,64,Laki-laki,19726997,Deposito,Yogyakarta,2021-03-19
+1464,59,Perempuan,24841405,Deposito,Bandung,2020-02-19
+1465,55,Laki-laki,29556084,Tabungan,Surabaya,2020-07-31
+1466,52,Perempuan,6254617,Tabungan,Yogyakarta,2021-07-12
+1467,28,Laki-laki,21383398,Deposito,Bali,2022-02-15
+1468,44,Laki-laki,17228406,Tabungan,Bali,2022-09-11
+1469,48,Laki-laki,11594255,Deposito,Bandung,2022-01-31
+1470,22,Perempuan,23196477,Deposito,Jakarta Pusat,2022-04-07
+1471,62,Perempuan,28789181,Deposito,Yogyakarta,2021-07-14
+1472,60,Perempuan,25260193,Tabungan,Bali,2020-04-12
+1473,22,Perempuan,19271062,Deposito,Bandung,2022-09-15
+1474,32,Perempuan,14115398,Deposito,Bandung,2021-09-18
+1475,36,Laki-laki,5559296,Tabungan,Bali,2022-08-27
+1476,22,Laki-laki,29406750,Deposito,Yogyakarta,2020-05-27
+1477,39,Laki-laki,13329787,Deposito,Yogyakarta,2022-09-07
+1478,30,Laki-laki,15187460,Deposito,Surabaya,2022-02-15
+1479,68,Perempuan,29038360,Deposito,Bali,2020-08-08
+1480,46,Perempuan,17218734,Tabungan,Bandung,2021-06-28
+1481,36,Perempuan,20427395,Tabungan,Surabaya,2021-11-15
+1482,20,Perempuan,5375368,Tabungan,Surabaya,2022-11-13
+1483,23,Laki-laki,9879905,Deposito,Bandung,2020-06-22
+1484,32,Perempuan,24582731,Deposito,Jakarta Pusat,2022-11-01
+1485,44,Perempuan,11997853,Deposito,Bali,2022-07-29
+1486,60,Perempuan,12865726,Deposito,Surabaya,2021-12-19
+1487,57,Perempuan,17484729,Tabungan,Bali,2022-06-07
+1488,38,Perempuan,29869188,Tabungan,Bandung,2020-02-29
+1489,58,Laki-laki,8290149,Deposito,Jakarta Pusat,2021-02-24
+1490,52,Laki-laki,19897896,Deposito,Yogyakarta,2022-04-30
+1491,39,Perempuan,15090350,Tabungan,Surabaya,2021-04-06
+1492,36,Laki-laki,17678277,Tabungan,Surabaya,2020-08-14
+1493,66,Laki-laki,10093240,Deposito,Jakarta Pusat,2020-09-13
+1494,22,Laki-laki,2491666,Tabungan,Jakarta Pusat,2020-05-29
+1495,61,Perempuan,27138029,Tabungan,Surabaya,2022-07-07
+1496,64,Perempuan,18418078,Tabungan,Surabaya,2021-04-10
+1497,32,Perempuan,29281016,Deposito,Bandung,2020-03-23
+1498,60,Perempuan,1201532,Deposito,Yogyakarta,2021-05-07
+1499,44,Laki-laki,8023942,Tabungan,Jakarta Pusat,2020-09-17
+1500,23,Laki-laki,22536437,Deposito,Bali,2021-06-12
+1501,22,Perempuan,9693593,Deposito,Yogyakarta,2021-12-05
+1502,64,Laki-laki,27587710,Deposito,Jakarta Pusat,2020-11-19
+1503,40,Laki-laki,10396884,Tabungan,Jakarta Pusat,2022-06-18
+1504,41,Laki-laki,2523319,Tabungan,Surabaya,2021-08-07
+1505,39,Laki-laki,12505268,Deposito,Jakarta Pusat,2020-02-12
+1506,34,Perempuan,9610054,Deposito,Yogyakarta,2020-03-02
+1507,29,Laki-laki,4327044,Deposito,Bandung,2021-09-10
+1508,49,Perempuan,5153852,Tabungan,Jakarta Pusat,2020-01-24
+1509,20,Perempuan,19242211,Deposito,Surabaya,2021-10-17
+1510,66,Laki-laki,24655895,Tabungan,Bandung,2020-02-21
+1511,36,Perempuan,5641736,Tabungan,Jakarta Pusat,2020-12-23
+1512,67,Laki-laki,13165285,Deposito,Surabaya,2020-11-01
+1513,32,Laki-laki,10935894,Deposito,Yogyakarta,2022-06-03
+1514,54,Perempuan,23251542,Deposito,Bandung,2022-04-02
+1515,39,Laki-laki,24646539,Tabungan,Surabaya,2020-07-02
+1516,40,Perempuan,5636768,Tabungan,Yogyakarta,2020-08-20
+1517,69,Laki-laki,8233482,Deposito,Bali,2021-08-01
+1518,30,Laki-laki,23032351,Tabungan,Bali,2021-02-28
+1519,44,Laki-laki,8109751,Deposito,Bandung,2021-02-15
+1520,21,Perempuan,25225912,Deposito,Jakarta Pusat,2020-04-17
+1521,34,Perempuan,13878001,Deposito,Yogyakarta,2020-10-17
+1522,30,Perempuan,16713569,Tabungan,Bali,2020-03-02
+1523,35,Perempuan,11494983,Deposito,Bandung,2022-02-22
+1524,52,Perempuan,24908088,Deposito,Bandung,2022-12-28
+1525,22,Laki-laki,27408497,Tabungan,Bali,2022-11-04
+1526,44,Laki-laki,11412210,Deposito,Yogyakarta,2020-08-30
+1527,43,Laki-laki,8709828,Deposito,Yogyakarta,2020-04-06
+1528,28,Laki-laki,22343510,Deposito,Surabaya,2022-11-04
+1529,36,Perempuan,1809284,Deposito,Bali,2021-02-28
+1530,48,Perempuan,28243634,Tabungan,Bandung,2022-11-11
+1531,35,Perempuan,29025759,Tabungan,Surabaya,2022-01-22
+1532,53,Perempuan,4987628,Tabungan,Surabaya,2022-02-15
+1533,52,Laki-laki,29840957,Deposito,Bandung,2020-07-07
+1534,36,Perempuan,10154526,Deposito,Jakarta Pusat,2022-02-05
+1535,48,Perempuan,3774527,Deposito,Bali,2020-07-07
+1536,37,Perempuan,24308930,Deposito,Surabaya,2021-12-13
+1537,46,Perempuan,3997308,Tabungan,Bali,2022-11-15
+1538,39,Perempuan,13203916,Tabungan,Bandung,2020-01-29
+1539,39,Laki-laki,8317769,Deposito,Jakarta Pusat,2022-11-21
+1540,37,Laki-laki,14135995,Deposito,Yogyakarta,2021-12-07
+1541,48,Perempuan,13576382,Tabungan,Surabaya,2022-10-21
+1542,21,Laki-laki,26804052,Tabungan,Surabaya,2020-09-08
+1543,69,Laki-laki,2767876,Deposito,Jakarta Pusat,2022-01-08
+1544,22,Laki-laki,3831123,Tabungan,Jakarta Pusat,2020-06-16
+1545,24,Perempuan,18997277,Tabungan,Surabaya,2022-08-04
+1546,39,Perempuan,8433953,Tabungan,Surabaya,2021-04-22
+1547,22,Perempuan,14392052,Deposito,Bandung,2022-09-22
+1548,35,Perempuan,28283489,Deposito,Yogyakarta,2020-05-01
+1549,55,Laki-laki,20861110,Tabungan,Jakarta Pusat,2021-06-04
+1550,30,Laki-laki,28839389,Deposito,Bali,2021-09-14
+1551,49,Perempuan,29628966,Deposito,Yogyakarta,2021-08-07
+1552,48,Laki-laki,11710820,Deposito,Jakarta Pusat,2021-02-21
+1553,33,Laki-laki,10250460,Tabungan,Jakarta Pusat,2020-09-12
+1554,68,Laki-laki,29309478,Tabungan,Surabaya,2022-04-05
+1555,36,Laki-laki,24443776,Deposito,Jakarta Pusat,2020-07-03
+1556,66,Perempuan,26775400,Deposito,Yogyakarta,2022-04-08
+1557,41,Laki-laki,16490225,Deposito,Bandung,2022-01-28
+1558,42,Perempuan,7627156,Tabungan,Jakarta Pusat,2020-01-17
+1559,42,Perempuan,4875656,Deposito,Surabaya,2021-03-23
+1560,62,Laki-laki,8953753,Tabungan,Bandung,2022-10-05
+1561,23,Perempuan,12649614,Tabungan,Jakarta Pusat,2021-03-04
+1562,66,Laki-laki,12377322,Deposito,Surabaya,2020-05-07
+1563,29,Laki-laki,26521681,Deposito,Yogyakarta,2020-03-04
+1564,67,Perempuan,10542937,Deposito,Bandung,2020-04-15
+1565,46,Laki-laki,6379668,Tabungan,Surabaya,2020-06-29
+1566,52,Perempuan,23706637,Tabungan,Yogyakarta,2021-03-16
+1567,67,Laki-laki,17825140,Deposito,Bali,2020-09-09
+1568,63,Laki-laki,3841250,Tabungan,Bali,2022-08-27
+1569,22,Laki-laki,1784472,Deposito,Bandung,2022-12-15
+1570,36,Perempuan,1337692,Deposito,Jakarta Pusat,2021-06-15
+1571,42,Perempuan,1202667,Deposito,Yogyakarta,2020-08-23
+1572,44,Perempuan,7760353,Tabungan,Bali,2020-10-04
+1573,50,Perempuan,7415382,Deposito,Bandung,2022-05-30
+1574,46,Perempuan,19572593,Deposito,Bandung,2022-07-15
+1575,63,Laki-laki,3197921,Tabungan,Bali,2021-01-02
+1576,30,Laki-laki,26425615,Deposito,Yogyakarta,2021-12-05
+1577,38,Laki-laki,8027592,Deposito,Yogyakarta,2021-12-12
+1578,61,Laki-laki,3882547,Deposito,Surabaya,2022-07-17
+1579,47,Perempuan,21331682,Deposito,Bali,2021-10-31
+1580,53,Perempuan,24253795,Tabungan,Bandung,2020-03-06
+1581,51,Perempuan,24120065,Tabungan,Surabaya,2021-04-30
+1582,31,Perempuan,8681737,Tabungan,Surabaya,2022-07-04
+1583,45,Laki-laki,19295198,Deposito,Bandung,2021-11-18
+1584,50,Perempuan,1206057,Deposito,Jakarta Pusat,2020-11-14
+1585,53,Perempuan,15457293,Deposito,Bali,2022-05-02
+1586,47,Perempuan,28887394,Deposito,Surabaya,2020-04-08
+1587,54,Perempuan,18014860,Tabungan,Bali,2022-12-04
+1588,43,Perempuan,7943839,Tabungan,Bandung,2022-02-10
+1589,24,Laki-laki,13771491,Deposito,Jakarta Pusat,2021-05-27
+1590,55,Laki-laki,4250930,Deposito,Yogyakarta,2020-12-20
+1591,54,Perempuan,9866934,Tabungan,Surabaya,2020-11-11
+1592,58,Laki-laki,17709206,Tabungan,Surabaya,2022-07-25
+1593,39,Laki-laki,9612639,Deposito,Jakarta Pusat,2020-07-02
+1594,36,Laki-laki,20741729,Tabungan,Jakarta Pusat,2020-01-19
+1595,31,Perempuan,11344327,Tabungan,Surabaya,2022-06-25
+1596,64,Perempuan,19635988,Tabungan,Surabaya,2021-06-24
+1597,52,Perempuan,20145723,Deposito,Bandung,2022-04-18
+1598,46,Perempuan,7364625,Deposito,Yogyakarta,2020-03-08
+1599,40,Laki-laki,27343792,Tabungan,Jakarta Pusat,2021-09-17
+1600,36,Laki-laki,23257511,Deposito,Bali,2021-06-24
+1601,40,Perempuan,21778813,Deposito,Yogyakarta,2020-02-09
+1602,23,Laki-laki,3554569,Deposito,Jakarta Pusat,2022-08-24
+1603,66,Laki-laki,12909177,Tabungan,Jakarta Pusat,2020-07-04
+1604,55,Laki-laki,12188702,Tabungan,Surabaya,2022-12-05
+1605,36,Laki-laki,12157779,Deposito,Jakarta Pusat,2020-07-30
+1606,34,Perempuan,29092820,Deposito,Yogyakarta,2021-06-10
+1607,48,Laki-laki,23177026,Deposito,Bandung,2020-09-18
+1608,62,Perempuan,28066831,Tabungan,Jakarta Pusat,2021-08-01
+1609,45,Perempuan,6586553,Deposito,Surabaya,2022-11-24
+1610,52,Laki-laki,23458867,Tabungan,Bandung,2020-06-19
+1611,33,Perempuan,8982592,Tabungan,Jakarta Pusat,2021-05-23
+1612,25,Laki-laki,13012798,Deposito,Surabaya,2022-09-15
+1613,49,Laki-laki,17302795,Deposito,Yogyakarta,2021-11-22
+1614,34,Perempuan,25909857,Deposito,Bandung,2021-09-10
+1615,55,Laki-laki,4890544,Tabungan,Surabaya,2020-07-03
+1616,44,Perempuan,14238164,Tabungan,Yogyakarta,2021-10-06
+1617,49,Laki-laki,2085519,Deposito,Bali,2022-03-17
+1618,21,Laki-laki,27489640,Tabungan,Bali,2021-03-25
+1619,43,Laki-laki,1260291,Deposito,Bandung,2020-02-20
+1620,56,Perempuan,25927618,Deposito,Jakarta Pusat,2022-12-10
+1621,50,Perempuan,15156203,Deposito,Yogyakarta,2020-08-02
+1622,41,Perempuan,16367078,Tabungan,Bali,2021-11-07
+1623,21,Perempuan,5145451,Deposito,Bandung,2020-04-27
+1624,57,Perempuan,25070003,Deposito,Bandung,2022-09-10
+1625,51,Laki-laki,4893481,Tabungan,Bali,2021-03-18
+1626,61,Laki-laki,21710620,Deposito,Yogyakarta,2020-07-09
+1627,42,Laki-laki,24453640,Deposito,Yogyakarta,2021-08-14
+1628,27,Laki-laki,20305847,Deposito,Surabaya,2021-06-22
+1629,49,Perempuan,10730168,Deposito,Bali,2020-08-28
+1630,36,Perempuan,10084158,Tabungan,Bandung,2020-04-13
+1631,54,Perempuan,18022250,Tabungan,Surabaya,2020-02-06
+1632,39,Perempuan,20978792,Tabungan,Surabaya,2020-09-26
+1633,54,Laki-laki,1615576,Deposito,Bandung,2022-01-12
+1634,57,Perempuan,4001270,Deposito,Jakarta Pusat,2021-07-27
+1635,46,Perempuan,26776918,Deposito,Bali,2020-06-04
+1636,41,Perempuan,29698963,Deposito,Surabaya,2021-08-10
+1637,34,Perempuan,22665038,Tabungan,Bali,2022-01-12
+1638,47,Perempuan,15967777,Tabungan,Bandung,2021-02-04
+1639,47,Laki-laki,20288370,Deposito,Jakarta Pusat,2020-10-26
+1640,23,Laki-laki,16519333,Deposito,Yogyakarta,2022-04-22
+1641,66,Perempuan,24244443,Tabungan,Surabaya,2021-04-30
+1642,33,Laki-laki,27072925,Tabungan,Surabaya,2021-10-18
+1643,52,Laki-laki,3743277,Deposito,Jakarta Pusat,2020-06-27
+1644,59,Laki-laki,13980122,Tabungan,Jakarta Pusat,2022-04-26
+1645,23,Perempuan,12293170,Tabungan,Surabaya,2022-07-02
+1646,21,Perempuan,22392347,Tabungan,Surabaya,2020-02-05
+1647,49,Perempuan,12090286,Deposito,Bandung,2021-07-17
+1648,44,Perempuan,21805205,Deposito,Yogyakarta,2022-08-08
+1649,55,Laki-laki,7840912,Tabungan,Jakarta Pusat,2021-01-26
+1650,68,Laki-laki,4370755,Deposito,Bali,2022-01-22
+1651,42,Perempuan,14714845,Deposito,Yogyakarta,2022-01-19
+1652,58,Laki-laki,14407309,Deposito,Jakarta Pusat,2020-01-27
+1653,57,Laki-laki,15613712,Tabungan,Jakarta Pusat,2020-12-08
+1654,25,Laki-laki,15589631,Tabungan,Surabaya,2020-10-17
+1655,68,Laki-laki,5105471,Deposito,Jakarta Pusat,2021-11-23
+1656,69,Perempuan,9214427,Deposito,Yogyakarta,2021-06-25
+1657,48,Laki-laki,4006064,Deposito,Bandung,2022-07-30
+1658,23,Perempuan,17152287,Tabungan,Jakarta Pusat,2020-02-19
+1659,30,Perempuan,12549417,Deposito,Surabaya,2020-02-18
+1660,42,Laki-laki,27622801,Tabungan,Bandung,2021-01-03
+1661,53,Perempuan,12797039,Tabungan,Jakarta Pusat,2021-03-04
+1662,55,Laki-laki,15886298,Deposito,Surabaya,2022-03-26
+1663,40,Laki-laki,8542988,Deposito,Yogyakarta,2022-01-28
+1664,44,Perempuan,11340514,Deposito,Bandung,2021-05-19
+1665,50,Laki-laki,29777850,Tabungan,Surabaya,2022-09-17
+1666,40,Perempuan,18492726,Tabungan,Yogyakarta,2021-06-05
+1667,32,Laki-laki,1568776,Deposito,Bali,2022-07-28
+1668,47,Laki-laki,1698653,Tabungan,Bali,2021-08-11
+1669,20,Laki-laki,1124528,Deposito,Bandung,2020-01-17
+1670,45,Perempuan,12201894,Deposito,Jakarta Pusat,2022-05-03
+1671,61,Perempuan,12561977,Deposito,Yogyakarta,2020-01-31
+1672,25,Perempuan,10202146,Tabungan,Bali,2021-12-21
+1673,30,Perempuan,5744360,Deposito,Bandung,2021-05-07
+1674,60,Perempuan,3461440,Deposito,Bandung,2022-09-04
+1675,53,Laki-laki,7963900,Tabungan,Bali,2020-10-15
+1676,26,Laki-laki,13033544,Deposito,Yogyakarta,2020-09-27
+1677,61,Laki-laki,7033770,Deposito,Yogyakarta,2021-09-19
+1678,38,Laki-laki,28349444,Deposito,Surabaya,2021-11-11
+1679,40,Perempuan,24662094,Deposito,Bali,2021-01-21
+1680,61,Perempuan,2032356,Tabungan,Bandung,2022-04-23
+1681,68,Perempuan,26901073,Tabungan,Surabaya,2021-04-29
+1682,37,Perempuan,12979367,Tabungan,Surabaya,2021-12-27
+1683,43,Laki-laki,5384223,Deposito,Bandung,2021-08-17
+1684,47,Perempuan,4315988,Deposito,Jakarta Pusat,2020-07-17
+1685,21,Perempuan,29408574,Deposito,Bali,2022-07-21
+1686,66,Perempuan,8702914,Deposito,Surabaya,2022-05-22
+1687,45,Perempuan,4829152,Tabungan,Bali,2021-06-12
+1688,67,Perempuan,18318825,Tabungan,Bandung,2020-12-30
+1689,65,Laki-laki,22987914,Deposito,Jakarta Pusat,2021-02-16
+1690,35,Laki-laki,24042490,Deposito,Yogyakarta,2021-03-19
+1691,33,Perempuan,8299710,Tabungan,Surabaya,2020-01-06
+1692,46,Laki-laki,10684423,Tabungan,Surabaya,2022-03-07
+1693,28,Laki-laki,8743182,Deposito,Jakarta Pusat,2020-09-26
+1694,48,Laki-laki,24329921,Tabungan,Jakarta Pusat,2021-03-29
+1695,67,Perempuan,2785479,Tabungan,Surabaya,2020-10-03
+1696,29,Perempuan,9365647,Tabungan,Surabaya,2020-06-09
+1697,62,Perempuan,27880932,Deposito,Bandung,2020-10-13
+1698,30,Perempuan,16158752,Deposito,Yogyakarta,2021-02-22
+1699,21,Laki-laki,8783886,Tabungan,Jakarta Pusat,2022-01-11
+1700,24,Laki-laki,5996183,Deposito,Bali,2021-12-25
+1701,36,Perempuan,15737974,Deposito,Yogyakarta,2020-03-28
+1702,25,Laki-laki,18937327,Deposito,Jakarta Pusat,2022-01-20
+1703,56,Laki-laki,24349323,Tabungan,Jakarta Pusat,2021-01-02
+1704,51,Laki-laki,14882405,Tabungan,Surabaya,2020-03-13
+1705,22,Laki-laki,21783289,Deposito,Jakarta Pusat,2020-04-01
+1706,51,Perempuan,10258834,Deposito,Yogyakarta,2021-05-07
+1707,69,Laki-laki,11718053,Deposito,Bandung,2022-01-06
+1708,62,Perempuan,11954513,Tabungan,Jakarta Pusat,2020-09-27
+1709,64,Perempuan,23131778,Deposito,Surabaya,2021-10-20
+1710,63,Laki-laki,11972307,Tabungan,Bandung,2022-11-14
+1711,49,Perempuan,27236461,Tabungan,Jakarta Pusat,2022-06-26
+1712,28,Laki-laki,7573923,Deposito,Surabaya,2020-11-25
+1713,25,Laki-laki,20027730,Deposito,Yogyakarta,2022-04-22
+1714,49,Perempuan,2636173,Deposito,Bandung,2021-12-18
+1715,28,Laki-laki,25381653,Tabungan,Surabaya,2020-01-25
+1716,31,Perempuan,15795089,Tabungan,Yogyakarta,2020-08-31
+1717,38,Laki-laki,8707838,Deposito,Bali,2022-04-15
+1718,46,Laki-laki,4898524,Tabungan,Bali,2022-01-06
+1719,64,Laki-laki,28338383,Deposito,Bandung,2022-11-04
+1720,23,Perempuan,22252350,Deposito,Jakarta Pusat,2020-08-29
+1721,34,Perempuan,2864536,Deposito,Yogyakarta,2021-04-15
+1722,49,Perempuan,2934482,Tabungan,Bali,2022-10-02
+1723,59,Perempuan,26962490,Deposito,Bandung,2020-05-20
+1724,49,Perempuan,27805461,Deposito,Bandung,2021-07-15
+1725,45,Laki-laki,14860570,Tabungan,Bali,2021-06-10
+1726,60,Laki-laki,26115437,Deposito,Yogyakarta,2022-11-19
+1727,23,Laki-laki,14139522,Deposito,Yogyakarta,2020-06-01
+1728,47,Laki-laki,14852135,Deposito,Surabaya,2021-05-26
+1729,42,Perempuan,16026698,Deposito,Bali,2022-10-15
+1730,47,Perempuan,6985950,Tabungan,Bandung,2020-11-11
+1731,47,Perempuan,17288178,Tabungan,Surabaya,2021-10-13
+1732,47,Perempuan,11906221,Tabungan,Surabaya,2020-05-22
+1733,21,Laki-laki,6275952,Deposito,Bandung,2022-11-27
+1734,48,Perempuan,16847711,Deposito,Jakarta Pusat,2021-10-11
+1735,60,Perempuan,19818470,Deposito,Bali,2020-06-04
+1736,29,Perempuan,27410194,Deposito,Surabaya,2021-06-26
+1737,21,Perempuan,1700259,Tabungan,Bali,2021-01-09
+1738,53,Perempuan,9545918,Tabungan,Bandung,2022-10-17
+1739,62,Laki-laki,11385997,Deposito,Jakarta Pusat,2022-07-26
+1740,38,Laki-laki,22475631,Deposito,Yogyakarta,2021-02-20
+1741,22,Perempuan,11759827,Tabungan,Surabaya,2020-07-05
+1742,51,Laki-laki,16896825,Tabungan,Surabaya,2021-02-01
+1743,22,Laki-laki,18854625,Deposito,Jakarta Pusat,2020-07-01
+1744,34,Laki-laki,28177027,Tabungan,Jakarta Pusat,2020-12-21
+1745,33,Perempuan,10613752,Tabungan,Surabaya,2022-04-06
+1746,65,Perempuan,16405789,Tabungan,Surabaya,2020-09-02
+1747,47,Perempuan,10470262,Deposito,Bandung,2020-03-20
+1748,61,Perempuan,5326351,Deposito,Yogyakarta,2022-01-12
+1749,63,Laki-laki,16734397,Tabungan,Jakarta Pusat,2022-08-10
+1750,69,Laki-laki,24912363,Deposito,Bali,2022-04-23
+1751,64,Perempuan,4584107,Deposito,Yogyakarta,2020-02-20
+1752,27,Laki-laki,9327215,Deposito,Jakarta Pusat,2021-05-03
+1753,42,Laki-laki,6508583,Tabungan,Jakarta Pusat,2020-10-25
+1754,55,Laki-laki,5850672,Tabungan,Surabaya,2020-09-20
+1755,38,Laki-laki,20708255,Deposito,Jakarta Pusat,2022-08-20
+1756,58,Perempuan,18177462,Deposito,Yogyakarta,2020-03-07
+1757,49,Laki-laki,15721404,Deposito,Bandung,2022-01-18
+1758,51,Perempuan,24996280,Tabungan,Jakarta Pusat,2022-05-06
+1759,68,Perempuan,18381416,Deposito,Surabaya,2022-11-19
+1760,51,Laki-laki,10358151,Tabungan,Bandung,2020-06-10
+1761,38,Perempuan,19953248,Tabungan,Jakarta Pusat,2020-02-15
+1762,23,Laki-laki,14141729,Deposito,Surabaya,2021-11-22
+1763,24,Laki-laki,2424940,Deposito,Yogyakarta,2022-02-20
+1764,42,Perempuan,15451033,Deposito,Bandung,2020-05-16
+1765,24,Laki-laki,20569627,Tabungan,Surabaya,2021-01-14
+1766,43,Perempuan,21857988,Tabungan,Yogyakarta,2021-01-16
+1767,60,Laki-laki,7049826,Deposito,Bali,2021-10-14
+1768,32,Laki-laki,29065221,Tabungan,Bali,2022-03-07
+1769,69,Laki-laki,18955979,Deposito,Bandung,2021-07-20
+1770,67,Perempuan,24056609,Deposito,Jakarta Pusat,2020-10-31
+1771,40,Perempuan,5276235,Deposito,Yogyakarta,2021-04-28
+1772,30,Perempuan,7963588,Tabungan,Bali,2021-06-30
+1773,21,Perempuan,4118143,Deposito,Bandung,2021-02-15
+1774,38,Perempuan,26726909,Deposito,Bandung,2020-03-30
+1775,32,Laki-laki,7779801,Tabungan,Bali,2022-01-14
+1776,65,Laki-laki,28935809,Deposito,Yogyakarta,2021-10-16
+1777,59,Laki-laki,19156102,Deposito,Yogyakarta,2020-11-29
+1778,23,Laki-laki,22171579,Deposito,Surabaya,2020-05-21
+1779,52,Perempuan,13815442,Deposito,Bali,2022-01-13
+1780,33,Perempuan,3732632,Tabungan,Bandung,2020-01-18
+1781,26,Perempuan,15374602,Tabungan,Surabaya,2022-08-16
+1782,38,Perempuan,29221565,Tabungan,Surabaya,2021-04-11
+1783,45,Laki-laki,4505446,Deposito,Bandung,2021-06-10
+1784,61,Perempuan,28005733,Deposito,Jakarta Pusat,2021-12-27
+1785,64,Perempuan,14251425,Deposito,Bali,2021-02-26
+1786,62,Perempuan,21719728,Deposito,Surabaya,2020-11-20
+1787,59,Perempuan,20609590,Tabungan,Bali,2022-04-12
+1788,62,Perempuan,28064066,Tabungan,Bandung,2022-06-03
+1789,22,Laki-laki,6705413,Deposito,Jakarta Pusat,2022-01-20
+1790,29,Laki-laki,1621952,Deposito,Yogyakarta,2022-05-13
+1791,41,Perempuan,16472837,Tabungan,Surabaya,2020-07-02
+1792,68,Laki-laki,16142302,Tabungan,Surabaya,2022-03-16
+1793,34,Laki-laki,15223240,Deposito,Jakarta Pusat,2021-08-31
+1794,51,Laki-laki,28651448,Tabungan,Jakarta Pusat,2020-07-16
+1795,52,Perempuan,10336801,Tabungan,Surabaya,2021-07-20
+1796,39,Perempuan,24778239,Tabungan,Surabaya,2021-01-22
+1797,24,Perempuan,6344063,Deposito,Bandung,2021-06-18
+1798,60,Perempuan,28637398,Deposito,Yogyakarta,2020-09-07
+1799,39,Laki-laki,8674460,Tabungan,Jakarta Pusat,2020-01-11
+1800,65,Laki-laki,17992766,Deposito,Bali,2020-02-05
+1801,43,Perempuan,12660914,Deposito,Yogyakarta,2020-09-01
+1802,42,Laki-laki,8590423,Deposito,Jakarta Pusat,2021-05-03
+1803,35,Laki-laki,6548090,Tabungan,Jakarta Pusat,2020-11-26
+1804,45,Laki-laki,1976149,Tabungan,Surabaya,2021-05-01
+1805,52,Laki-laki,2966566,Deposito,Jakarta Pusat,2022-02-03
+1806,24,Perempuan,21857398,Deposito,Yogyakarta,2021-10-20
+1807,62,Laki-laki,3393598,Deposito,Bandung,2021-10-19
+1808,58,Perempuan,27731680,Tabungan,Jakarta Pusat,2022-06-13
+1809,54,Perempuan,15751853,Deposito,Surabaya,2022-02-16
+1810,27,Laki-laki,15843242,Tabungan,Bandung,2021-12-22
+1811,40,Perempuan,15998504,Tabungan,Jakarta Pusat,2022-10-20
+1812,43,Laki-laki,23731565,Deposito,Surabaya,2020-10-23
+1813,35,Laki-laki,9842458,Deposito,Yogyakarta,2020-11-11
+1814,63,Perempuan,21683315,Deposito,Bandung,2022-11-05
+1815,50,Laki-laki,6372947,Tabungan,Surabaya,2021-08-06
+1816,54,Perempuan,20957576,Tabungan,Yogyakarta,2021-05-10
+1817,32,Laki-laki,6496408,Deposito,Bali,2021-12-05
+1818,44,Laki-laki,28819912,Tabungan,Bali,2022-08-23
+1819,44,Laki-laki,12218409,Deposito,Bandung,2021-04-16
+1820,56,Perempuan,14864814,Deposito,Jakarta Pusat,2022-09-23
+1821,49,Perempuan,17332832,Deposito,Yogyakarta,2022-06-18
+1822,55,Perempuan,3185543,Tabungan,Bali,2022-09-21
+1823,23,Perempuan,26492104,Deposito,Bandung,2022-02-18
+1824,28,Perempuan,15718220,Deposito,Bandung,2022-08-10
+1825,56,Laki-laki,10468816,Tabungan,Bali,2022-09-28
+1826,43,Laki-laki,24077672,Deposito,Yogyakarta,2022-12-11
+1827,37,Laki-laki,17167625,Deposito,Yogyakarta,2021-07-03
+1828,62,Laki-laki,13225997,Deposito,Surabaya,2022-09-26
+1829,27,Perempuan,1135475,Deposito,Bali,2022-09-12
+1830,44,Perempuan,8829653,Tabungan,Bandung,2021-09-20
+1831,21,Perempuan,8460065,Tabungan,Surabaya,2021-07-27
+1832,23,Perempuan,26467397,Tabungan,Surabaya,2021-10-14
+1833,33,Laki-laki,27120974,Deposito,Bandung,2020-09-28
+1834,61,Perempuan,28691820,Deposito,Jakarta Pusat,2022-07-30
+1835,21,Perempuan,4845859,Deposito,Bali,2020-02-19
+1836,57,Perempuan,13099478,Deposito,Surabaya,2022-06-20
+1837,31,Perempuan,24780668,Tabungan,Bali,2022-08-19
+1838,30,Perempuan,1913751,Tabungan,Bandung,2021-01-27
+1839,42,Laki-laki,1704435,Deposito,Jakarta Pusat,2022-09-29
+1840,43,Laki-laki,10174141,Deposito,Yogyakarta,2021-10-28
+1841,32,Perempuan,14877671,Tabungan,Surabaya,2021-04-21
+1842,53,Laki-laki,1979063,Tabungan,Surabaya,2022-01-31
+1843,39,Laki-laki,5370971,Deposito,Jakarta Pusat,2021-12-28
+1844,54,Laki-laki,3385428,Tabungan,Jakarta Pusat,2022-03-14
+1845,59,Perempuan,22545871,Tabungan,Surabaya,2020-09-03
+1846,41,Perempuan,18668042,Tabungan,Surabaya,2020-12-24
+1847,27,Perempuan,14729597,Deposito,Bandung,2022-06-20
+1848,47,Perempuan,9452567,Deposito,Yogyakarta,2021-05-05
+1849,28,Laki-laki,3622262,Tabungan,Jakarta Pusat,2022-10-31
+1850,38,Laki-laki,6776839,Deposito,Bali,2021-08-08
+1851,46,Perempuan,16732173,Deposito,Yogyakarta,2022-02-22
+1852,20,Laki-laki,16974838,Deposito,Jakarta Pusat,2022-01-12
+1853,51,Laki-laki,20536967,Tabungan,Jakarta Pusat,2022-03-03
+1854,36,Laki-laki,12743257,Tabungan,Surabaya,2020-11-09
+1855,45,Laki-laki,20903029,Deposito,Jakarta Pusat,2020-09-30
+1856,66,Perempuan,8123847,Deposito,Yogyakarta,2021-09-29
+1857,29,Laki-laki,16390116,Deposito,Bandung,2020-03-17
+1858,26,Perempuan,18866488,Tabungan,Jakarta Pusat,2021-11-07
+1859,61,Perempuan,10940272,Deposito,Surabaya,2020-12-23
+1860,67,Laki-laki,12362205,Tabungan,Bandung,2020-07-27
+1861,39,Perempuan,17054876,Tabungan,Jakarta Pusat,2022-10-05
+1862,65,Laki-laki,29319531,Deposito,Surabaya,2022-10-17
+1863,27,Laki-laki,23395213,Deposito,Yogyakarta,2020-10-04
+1864,43,Perempuan,2863594,Deposito,Bandung,2022-10-01
+1865,33,Laki-laki,29934754,Tabungan,Surabaya,2020-06-18
+1866,40,Perempuan,9136434,Tabungan,Yogyakarta,2021-09-30
+1867,38,Laki-laki,19695396,Deposito,Bali,2022-01-26
+1868,37,Laki-laki,27490851,Tabungan,Bali,2021-01-28
+1869,22,Laki-laki,22130390,Deposito,Bandung,2021-03-27
+1870,52,Perempuan,11412723,Deposito,Jakarta Pusat,2022-02-13
+1871,33,Perempuan,21618050,Deposito,Yogyakarta,2022-10-02
+1872,37,Perempuan,5265263,Tabungan,Bali,2021-01-05
+1873,26,Perempuan,27741863,Deposito,Bandung,2020-05-11
+1874,28,Perempuan,16001625,Deposito,Bandung,2021-08-23
+1875,35,Laki-laki,15923482,Tabungan,Bali,2020-12-08
+1876,21,Laki-laki,27213910,Deposito,Yogyakarta,2021-10-30
+1877,44,Laki-laki,20308129,Deposito,Yogyakarta,2020-09-27
+1878,37,Laki-laki,15131549,Deposito,Surabaya,2021-12-19
+1879,45,Perempuan,20511487,Deposito,Bali,2022-03-25
+1880,63,Perempuan,1176708,Tabungan,Bandung,2020-07-06
+1881,55,Perempuan,25352132,Tabungan,Surabaya,2020-02-12
+1882,21,Perempuan,8888348,Tabungan,Surabaya,2021-12-05
+1883,64,Laki-laki,2633223,Deposito,Bandung,2020-04-21
+1884,24,Perempuan,24806217,Deposito,Jakarta Pusat,2022-06-30
+1885,62,Perempuan,27265048,Deposito,Bali,2020-05-25
+1886,50,Perempuan,23587099,Deposito,Surabaya,2020-03-28
+1887,42,Perempuan,12646943,Tabungan,Bali,2021-11-11
+1888,68,Perempuan,5590217,Tabungan,Bandung,2021-11-09
+1889,64,Laki-laki,13777595,Deposito,Jakarta Pusat,2020-05-03
+1890,29,Laki-laki,5088327,Deposito,Yogyakarta,2020-12-06
+1891,58,Perempuan,3138878,Tabungan,Surabaya,2020-09-16
+1892,25,Laki-laki,29659352,Tabungan,Surabaya,2022-05-09
+1893,27,Laki-laki,22410385,Deposito,Jakarta Pusat,2020-04-28
+1894,61,Laki-laki,21405691,Tabungan,Jakarta Pusat,2020-02-12
+1895,40,Perempuan,1797549,Tabungan,Surabaya,2021-03-16
+1896,45,Perempuan,15528581,Tabungan,Surabaya,2021-01-22
+1897,61,Perempuan,29727079,Deposito,Bandung,2021-08-27
+1898,66,Perempuan,16873717,Deposito,Yogyakarta,2021-02-01
+1899,32,Laki-laki,16212996,Tabungan,Jakarta Pusat,2021-11-11
+1900,54,Laki-laki,9557005,Deposito,Bali,2021-07-28
+1901,47,Perempuan,20155620,Deposito,Yogyakarta,2020-01-07
+1902,28,Laki-laki,6918905,Deposito,Jakarta Pusat,2020-02-25
+1903,69,Laki-laki,4184561,Tabungan,Jakarta Pusat,2022-06-21
+1904,55,Laki-laki,7486596,Tabungan,Surabaya,2022-07-05
+1905,56,Laki-laki,1140285,Deposito,Jakarta Pusat,2020-02-29
+1906,68,Perempuan,9629825,Deposito,Yogyakarta,2021-09-04
+1907,56,Laki-laki,8782146,Deposito,Bandung,2022-10-21
+1908,44,Perempuan,2431664,Tabungan,Jakarta Pusat,2020-06-07
+1909,61,Perempuan,10387866,Deposito,Surabaya,2022-08-13
+1910,48,Laki-laki,28722210,Tabungan,Bandung,2020-04-17
+1911,47,Perempuan,25140950,Tabungan,Jakarta Pusat,2022-04-01
+1912,65,Laki-laki,9829834,Deposito,Surabaya,2020-01-23
+1913,43,Laki-laki,11607332,Deposito,Yogyakarta,2020-03-24
+1914,53,Perempuan,28198453,Deposito,Bandung,2020-02-17
+1915,44,Laki-laki,5315965,Tabungan,Surabaya,2020-12-03
+1916,63,Perempuan,12863003,Tabungan,Yogyakarta,2021-08-07
+1917,62,Laki-laki,2334768,Deposito,Bali,2022-10-20
+1918,64,Laki-laki,14973591,Tabungan,Bali,2021-02-07
+1919,47,Laki-laki,9407324,Deposito,Bandung,2020-03-01
+1920,43,Perempuan,24550604,Deposito,Jakarta Pusat,2021-08-16
+1921,64,Perempuan,18502563,Deposito,Yogyakarta,2020-03-15
+1922,68,Perempuan,25398718,Tabungan,Bali,2020-03-12
+1923,39,Perempuan,9649687,Deposito,Bandung,2020-07-14
+1924,33,Perempuan,18667754,Deposito,Bandung,2022-06-20
+1925,56,Laki-laki,5794242,Tabungan,Bali,2020-01-03
+1926,65,Laki-laki,14051057,Deposito,Yogyakarta,2020-08-30
+1927,56,Laki-laki,7610664,Deposito,Yogyakarta,2022-06-29
+1928,30,Laki-laki,17417798,Deposito,Surabaya,2020-07-21
+1929,28,Perempuan,25293490,Deposito,Bali,2021-04-22
+1930,67,Perempuan,25249216,Tabungan,Bandung,2020-07-02
+1931,51,Perempuan,13438543,Tabungan,Surabaya,2021-02-20
+1932,60,Perempuan,7587378,Tabungan,Surabaya,2021-09-29
+1933,20,Laki-laki,3075002,Deposito,Bandung,2022-06-25
+1934,35,Perempuan,4574695,Deposito,Jakarta Pusat,2022-03-25
+1935,46,Perempuan,22234199,Deposito,Bali,2020-12-02
+1936,39,Perempuan,28489271,Deposito,Surabaya,2020-07-28
+1937,24,Perempuan,10466788,Tabungan,Bali,2022-05-28
+1938,55,Perempuan,19155848,Tabungan,Bandung,2020-12-12
+1939,39,Laki-laki,15401112,Deposito,Jakarta Pusat,2021-02-10
+1940,59,Laki-laki,22737505,Deposito,Yogyakarta,2020-04-15
+1941,57,Perempuan,25732934,Tabungan,Surabaya,2020-03-20
+1942,54,Laki-laki,7130159,Tabungan,Surabaya,2022-06-24
+1943,46,Laki-laki,5860756,Deposito,Jakarta Pusat,2020-03-20
+1944,40,Laki-laki,26738421,Tabungan,Jakarta Pusat,2021-06-05
+1945,66,Perempuan,10872401,Tabungan,Surabaya,2020-08-31
+1946,41,Perempuan,4953672,Tabungan,Surabaya,2021-09-27
+1947,28,Perempuan,25943288,Deposito,Bandung,2020-11-27
+1948,28,Perempuan,24857668,Deposito,Yogyakarta,2021-04-24
+1949,51,Laki-laki,28471233,Tabungan,Jakarta Pusat,2020-01-02
+1950,52,Laki-laki,19519581,Deposito,Bali,2020-02-20
+1951,44,Perempuan,21644062,Deposito,Yogyakarta,2020-05-08
+1952,58,Laki-laki,7265682,Deposito,Jakarta Pusat,2021-10-30
+1953,32,Laki-laki,9508364,Tabungan,Jakarta Pusat,2022-04-29
+1954,61,Laki-laki,27648869,Tabungan,Surabaya,2020-07-08
+1955,51,Laki-laki,2590952,Deposito,Jakarta Pusat,2021-08-13
+1956,64,Perempuan,17812476,Deposito,Yogyakarta,2022-03-10
+1957,36,Laki-laki,20871669,Deposito,Bandung,2020-12-05
+1958,68,Perempuan,11897048,Tabungan,Jakarta Pusat,2021-06-20
+1959,40,Perempuan,21739227,Deposito,Surabaya,2020-08-10
+1960,43,Laki-laki,16964795,Tabungan,Bandung,2021-06-24
+1961,44,Perempuan,5240898,Tabungan,Jakarta Pusat,2021-06-27
+1962,21,Laki-laki,23383102,Deposito,Surabaya,2021-05-23
+1963,62,Laki-laki,5948295,Deposito,Yogyakarta,2022-07-08
+1964,52,Perempuan,19168662,Deposito,Bandung,2020-09-12
+1965,23,Laki-laki,26697139,Tabungan,Surabaya,2021-07-28
+1966,40,Perempuan,13507311,Tabungan,Yogyakarta,2021-06-29
+1967,38,Laki-laki,7624312,Deposito,Bali,2021-12-06
+1968,31,Laki-laki,28830926,Tabungan,Bali,2021-01-18
+1969,23,Laki-laki,12297779,Deposito,Bandung,2022-04-04
+1970,50,Perempuan,1226350,Deposito,Jakarta Pusat,2021-11-26
+1971,28,Perempuan,16664421,Deposito,Yogyakarta,2022-12-14
+1972,57,Perempuan,27204295,Tabungan,Bali,2020-05-21
+1973,26,Perempuan,20391305,Deposito,Bandung,2022-10-03
+1974,44,Perempuan,9885092,Deposito,Bandung,2020-01-28
+1975,42,Laki-laki,10013624,Tabungan,Bali,2021-10-25
+1976,46,Laki-laki,9470551,Deposito,Yogyakarta,2020-09-18
+1977,37,Laki-laki,21403403,Deposito,Yogyakarta,2020-10-08
+1978,53,Laki-laki,11320003,Deposito,Surabaya,2021-06-13
+1979,53,Perempuan,23556046,Deposito,Bali,2022-02-07
+1980,25,Perempuan,10499325,Tabungan,Bandung,2020-06-18
+1981,27,Perempuan,11013015,Tabungan,Surabaya,2022-02-01
+1982,68,Perempuan,3792867,Tabungan,Surabaya,2020-12-11
+1983,57,Laki-laki,4667244,Deposito,Bandung,2022-04-14
+1984,21,Perempuan,6864479,Deposito,Jakarta Pusat,2021-05-25
+1985,36,Perempuan,4725035,Deposito,Bali,2021-02-10
+1986,31,Perempuan,11624081,Deposito,Surabaya,2020-11-29
+1987,46,Perempuan,3767782,Tabungan,Bali,2021-07-07
+1988,60,Perempuan,12443142,Tabungan,Bandung,2020-11-15
+1989,66,Laki-laki,2626816,Deposito,Jakarta Pusat,2020-06-02
+1990,50,Laki-laki,16541217,Deposito,Yogyakarta,2020-07-02
+1991,45,Perempuan,7975501,Tabungan,Surabaya,2021-03-15
+1992,34,Laki-laki,8944641,Tabungan,Surabaya,2020-02-10
+1993,58,Laki-laki,24017623,Deposito,Jakarta Pusat,2021-06-28
+1994,66,Laki-laki,11602066,Tabungan,Jakarta Pusat,2022-09-07
+1995,56,Perempuan,25745201,Tabungan,Surabaya,2020-11-13
+1996,23,Perempuan,22422739,Tabungan,Surabaya,2021-12-30
+1997,59,Perempuan,28123099,Deposito,Bandung,2021-11-14
+1998,21,Perempuan,1443189,Deposito,Yogyakarta,2021-10-07
+1999,20,Laki-laki,12223935,Tabungan,Jakarta Pusat,2022-04-20
+2000,40,Laki-laki,4781558,Deposito,Bali,2022-08-20
+2001,28,Perempuan,24483738,Deposito,Yogyakarta,2022-11-22
+2002,62,Laki-laki,5364943,Deposito,Jakarta Pusat,2021-12-16
+2003,59,Laki-laki,4949992,Tabungan,Jakarta Pusat,2021-02-18
+2004,31,Laki-laki,12802028,Tabungan,Surabaya,2020-09-09
+2005,60,Laki-laki,29543858,Deposito,Jakarta Pusat,2020-12-23
+2006,45,Perempuan,28989773,Deposito,Yogyakarta,2021-06-15
+2007,66,Laki-laki,22634142,Deposito,Bandung,2020-05-27
+2008,63,Perempuan,1008595,Tabungan,Jakarta Pusat,2022-08-04
+2009,41,Perempuan,10767659,Deposito,Surabaya,2021-09-15
+2010,47,Laki-laki,23313243,Tabungan,Bandung,2021-09-11
+2011,46,Perempuan,2601065,Tabungan,Jakarta Pusat,2020-07-01
+2012,35,Laki-laki,25964749,Deposito,Surabaya,2020-02-24
+2013,25,Laki-laki,10788920,Deposito,Yogyakarta,2022-06-18
+2014,40,Perempuan,21872919,Deposito,Bandung,2022-11-25
+2015,54,Laki-laki,26181078,Tabungan,Surabaya,2022-09-01
+2016,41,Perempuan,7969692,Tabungan,Yogyakarta,2020-01-28
+2017,49,Laki-laki,26449129,Deposito,Bali,2022-03-09
+2018,44,Laki-laki,15879914,Tabungan,Bali,2020-05-08
+2019,66,Laki-laki,23081223,Deposito,Bandung,2021-01-03
+2020,59,Perempuan,22089794,Deposito,Jakarta Pusat,2021-10-13
+2021,31,Perempuan,3905803,Deposito,Yogyakarta,2022-07-02
+2022,40,Perempuan,25260504,Tabungan,Bali,2021-11-15
+2023,64,Perempuan,25895753,Deposito,Bandung,2020-06-06
+2024,57,Perempuan,23632603,Deposito,Bandung,2022-03-26
+2025,63,Laki-laki,18925922,Tabungan,Bali,2021-02-02
+2026,58,Laki-laki,19556866,Deposito,Yogyakarta,2020-12-28
+2027,27,Laki-laki,14424904,Deposito,Yogyakarta,2021-07-01
+2028,22,Laki-laki,1446458,Deposito,Surabaya,2020-04-10
+2029,44,Perempuan,18047118,Deposito,Bali,2022-10-06
+2030,27,Perempuan,14746228,Tabungan,Bandung,2020-03-20
+2031,35,Perempuan,7064295,Tabungan,Surabaya,2022-09-14
+2032,30,Perempuan,6517396,Tabungan,Surabaya,2021-07-29
+2033,53,Laki-laki,29545307,Deposito,Bandung,2022-05-19
+2034,44,Perempuan,21029174,Deposito,Jakarta Pusat,2022-10-20
+2035,58,Perempuan,3114621,Deposito,Bali,2021-08-08
+2036,65,Perempuan,16001196,Deposito,Surabaya,2020-07-10
+2037,65,Perempuan,13087021,Tabungan,Bali,2021-06-17
+2038,26,Perempuan,11928531,Tabungan,Bandung,2021-06-22
+2039,32,Laki-laki,5275825,Deposito,Jakarta Pusat,2022-07-27
+2040,60,Laki-laki,5615823,Deposito,Yogyakarta,2022-02-27
+2041,45,Perempuan,21373942,Tabungan,Surabaya,2022-06-06
+2042,28,Laki-laki,16601088,Tabungan,Surabaya,2021-08-10
+2043,33,Laki-laki,3638021,Deposito,Jakarta Pusat,2021-09-14
+2044,62,Laki-laki,8340408,Tabungan,Jakarta Pusat,2021-04-07
+2045,44,Perempuan,12737264,Tabungan,Surabaya,2021-09-06
+2046,62,Perempuan,26141399,Tabungan,Surabaya,2022-02-01
+2047,26,Perempuan,15881389,Deposito,Bandung,2021-12-05
+2048,49,Perempuan,2707150,Deposito,Yogyakarta,2021-11-11
+2049,66,Laki-laki,13784929,Tabungan,Jakarta Pusat,2021-09-30
+2050,44,Laki-laki,27169532,Deposito,Bali,2022-12-09
+2051,26,Perempuan,10806966,Deposito,Yogyakarta,2020-08-29
+2052,49,Laki-laki,13796263,Deposito,Jakarta Pusat,2021-06-15
+2053,65,Laki-laki,24962488,Tabungan,Jakarta Pusat,2020-08-10
+2054,46,Laki-laki,28416658,Tabungan,Surabaya,2020-02-12
+2055,41,Laki-laki,4366256,Deposito,Jakarta Pusat,2022-01-12
+2056,68,Perempuan,16647711,Deposito,Yogyakarta,2022-01-04
+2057,62,Laki-laki,10984436,Deposito,Bandung,2022-11-29
+2058,64,Perempuan,7854439,Tabungan,Jakarta Pusat,2020-04-04
+2059,22,Perempuan,1328103,Deposito,Surabaya,2020-01-12
+2060,29,Laki-laki,19791822,Tabungan,Bandung,2021-03-17
+2061,50,Perempuan,20046436,Tabungan,Jakarta Pusat,2021-01-21
+2062,24,Laki-laki,6971890,Deposito,Surabaya,2020-09-09
+2063,29,Laki-laki,15908094,Deposito,Yogyakarta,2022-05-09
+2064,52,Perempuan,8493078,Deposito,Bandung,2022-04-26
+2065,44,Laki-laki,9129966,Tabungan,Surabaya,2021-10-13
+2066,51,Perempuan,21364662,Tabungan,Yogyakarta,2020-05-05
+2067,20,Laki-laki,26899200,Deposito,Bali,2020-12-02
+2068,55,Laki-laki,10001465,Tabungan,Bali,2022-01-12
+2069,53,Laki-laki,4227499,Deposito,Bandung,2021-10-08
+2070,22,Perempuan,16406024,Deposito,Jakarta Pusat,2022-04-12
+2071,66,Perempuan,10935459,Deposito,Yogyakarta,2022-12-25
+2072,30,Perempuan,13589233,Tabungan,Bali,2020-11-09
+2073,22,Perempuan,12344860,Deposito,Bandung,2022-10-17
+2074,21,Perempuan,27782972,Deposito,Bandung,2022-01-09
+2075,51,Laki-laki,14647998,Tabungan,Bali,2020-09-03
+2076,36,Laki-laki,7128490,Deposito,Yogyakarta,2022-09-27
+2077,28,Laki-laki,4799339,Deposito,Yogyakarta,2022-08-13
+2078,43,Laki-laki,22598936,Deposito,Surabaya,2021-11-22
+2079,25,Perempuan,18178124,Deposito,Bali,2020-01-14
+2080,21,Perempuan,25534307,Tabungan,Bandung,2022-02-04
+2081,34,Perempuan,2401376,Tabungan,Surabaya,2021-05-16
+2082,22,Perempuan,16483477,Tabungan,Surabaya,2020-03-21
+2083,39,Laki-laki,27758816,Deposito,Bandung,2020-02-09
+2084,48,Perempuan,16852068,Deposito,Jakarta Pusat,2020-06-15
+2085,31,Perempuan,18441339,Deposito,Bali,2020-10-26
+2086,50,Perempuan,1830199,Deposito,Surabaya,2022-03-12
+2087,54,Perempuan,22415163,Tabungan,Bali,2021-04-03
+2088,25,Perempuan,11836625,Tabungan,Bandung,2022-09-06
+2089,33,Laki-laki,15777905,Deposito,Jakarta Pusat,2021-03-31
+2090,38,Laki-laki,19840515,Deposito,Yogyakarta,2021-08-10
+2091,25,Perempuan,18440848,Tabungan,Surabaya,2022-06-05
+2092,20,Laki-laki,27265596,Tabungan,Surabaya,2021-01-09
+2093,60,Laki-laki,26608766,Deposito,Jakarta Pusat,2022-09-18
+2094,69,Laki-laki,2046269,Tabungan,Jakarta Pusat,2022-04-25
+2095,40,Perempuan,12137944,Tabungan,Surabaya,2021-02-19
+2096,58,Perempuan,3660122,Tabungan,Surabaya,2021-08-15
+2097,60,Perempuan,16293468,Deposito,Bandung,2021-03-31
+2098,24,Perempuan,20192969,Deposito,Yogyakarta,2020-04-27
+2099,31,Laki-laki,14207845,Tabungan,Jakarta Pusat,2021-11-04
+2100,64,Laki-laki,24668040,Deposito,Bali,2021-06-21
+2101,31,Perempuan,1495093,Deposito,Yogyakarta,2020-04-13
+2102,43,Laki-laki,18483976,Deposito,Jakarta Pusat,2020-07-09
+2103,41,Laki-laki,13240063,Tabungan,Jakarta Pusat,2020-12-01
+2104,57,Laki-laki,28914993,Tabungan,Surabaya,2021-02-12
+2105,36,Laki-laki,1368142,Deposito,Jakarta Pusat,2020-06-05
+2106,45,Perempuan,21543892,Deposito,Yogyakarta,2020-06-19
+2107,36,Laki-laki,22049952,Deposito,Bandung,2022-09-18
+2108,50,Perempuan,15994997,Tabungan,Jakarta Pusat,2021-02-03
+2109,37,Perempuan,9862066,Deposito,Surabaya,2022-04-28
+2110,60,Laki-laki,22834234,Tabungan,Bandung,2022-06-09
+2111,58,Perempuan,23150279,Tabungan,Jakarta Pusat,2020-01-21
+2112,66,Laki-laki,1086372,Deposito,Surabaya,2020-10-26
+2113,56,Laki-laki,25530366,Deposito,Yogyakarta,2022-06-07
+2114,52,Perempuan,29874675,Deposito,Bandung,2021-03-23
+2115,68,Laki-laki,6217653,Tabungan,Surabaya,2020-05-26
+2116,55,Perempuan,8849405,Tabungan,Yogyakarta,2021-09-24
+2117,36,Laki-laki,27211671,Deposito,Bali,2020-06-13
+2118,68,Laki-laki,13525683,Tabungan,Bali,2020-02-23
+2119,43,Laki-laki,18647163,Deposito,Bandung,2021-10-24
+2120,24,Perempuan,24517007,Deposito,Jakarta Pusat,2021-12-08
+2121,68,Perempuan,15389183,Deposito,Yogyakarta,2022-07-30
+2122,28,Perempuan,10838516,Tabungan,Bali,2021-10-10
+2123,42,Perempuan,22552620,Deposito,Bandung,2021-05-19
+2124,21,Perempuan,6260836,Deposito,Bandung,2022-09-12
+2125,63,Laki-laki,12725003,Tabungan,Bali,2021-05-31
+2126,21,Laki-laki,14622013,Deposito,Yogyakarta,2020-06-11
+2127,20,Laki-laki,8909935,Deposito,Yogyakarta,2022-06-10
+2128,35,Laki-laki,11555729,Deposito,Surabaya,2020-09-15
+2129,23,Perempuan,1605565,Deposito,Bali,2022-01-29
+2130,63,Perempuan,18874353,Tabungan,Bandung,2020-05-23
+2131,29,Perempuan,27851297,Tabungan,Surabaya,2021-07-17
+2132,33,Perempuan,24127872,Tabungan,Surabaya,2021-01-05
+2133,57,Laki-laki,11398916,Deposito,Bandung,2021-03-03
+2134,40,Perempuan,2249782,Deposito,Jakarta Pusat,2021-02-13
+2135,57,Perempuan,4707709,Deposito,Bali,2020-04-23
+2136,51,Perempuan,12236230,Deposito,Surabaya,2020-05-31
+2137,67,Perempuan,9470560,Tabungan,Bali,2021-06-16
+2138,41,Perempuan,5790851,Tabungan,Bandung,2020-11-26
+2139,21,Laki-laki,29543265,Deposito,Jakarta Pusat,2021-12-06
+2140,65,Laki-laki,9935814,Deposito,Yogyakarta,2022-11-22
+2141,40,Perempuan,3058520,Tabungan,Surabaya,2022-12-04
+2142,54,Laki-laki,21821285,Tabungan,Surabaya,2020-01-13
+2143,50,Laki-laki,16720175,Deposito,Jakarta Pusat,2020-12-26
+2144,35,Laki-laki,2699311,Tabungan,Jakarta Pusat,2022-07-03
+2145,35,Perempuan,26754245,Tabungan,Surabaya,2021-02-28
+2146,37,Perempuan,8993440,Tabungan,Surabaya,2022-05-16
+2147,37,Perempuan,17509329,Deposito,Bandung,2022-08-04
+2148,31,Perempuan,15764403,Deposito,Yogyakarta,2022-10-23
+2149,21,Laki-laki,13844763,Tabungan,Jakarta Pusat,2022-06-14
+2150,58,Laki-laki,25655006,Deposito,Bali,2022-01-22
+2151,59,Perempuan,6837850,Deposito,Yogyakarta,2020-11-03
+2152,24,Laki-laki,12101471,Deposito,Jakarta Pusat,2020-07-03
+2153,67,Laki-laki,26442826,Tabungan,Jakarta Pusat,2021-03-04
+2154,53,Laki-laki,8479580,Tabungan,Surabaya,2021-09-23
+2155,54,Laki-laki,16907885,Deposito,Jakarta Pusat,2021-07-11
+2156,27,Perempuan,18194189,Deposito,Yogyakarta,2020-03-21
+2157,45,Laki-laki,1613139,Deposito,Bandung,2020-06-14
+2158,45,Perempuan,9415397,Tabungan,Jakarta Pusat,2020-11-19
+2159,44,Perempuan,14435051,Deposito,Surabaya,2021-08-29
+2160,66,Laki-laki,13915039,Tabungan,Bandung,2022-06-23
+2161,27,Perempuan,16652342,Tabungan,Jakarta Pusat,2020-02-22
+2162,37,Laki-laki,23740403,Deposito,Surabaya,2021-04-22
+2163,58,Laki-laki,14040467,Deposito,Yogyakarta,2022-06-28
+2164,66,Perempuan,12896581,Deposito,Bandung,2020-05-16
+2165,62,Laki-laki,14600825,Tabungan,Surabaya,2022-03-13
+2166,56,Perempuan,24591390,Tabungan,Yogyakarta,2020-02-19
+2167,45,Laki-laki,6920240,Deposito,Bali,2020-06-01
+2168,41,Laki-laki,10826440,Tabungan,Bali,2021-11-30
+2169,31,Laki-laki,10768719,Deposito,Bandung,2021-05-23
+2170,36,Perempuan,1461262,Deposito,Jakarta Pusat,2022-08-29
+2171,64,Perempuan,24902187,Deposito,Yogyakarta,2022-01-01
+2172,62,Perempuan,23259393,Tabungan,Bali,2020-12-15
+2173,60,Perempuan,11290738,Deposito,Bandung,2022-07-09
+2174,21,Perempuan,22424618,Deposito,Bandung,2020-08-07
+2175,68,Laki-laki,23034336,Tabungan,Bali,2021-05-28
+2176,51,Laki-laki,17139430,Deposito,Yogyakarta,2021-04-04
+2177,39,Laki-laki,17770993,Deposito,Yogyakarta,2020-07-17
+2178,49,Laki-laki,25241540,Deposito,Surabaya,2022-10-23
+2179,50,Perempuan,16873573,Deposito,Bali,2022-09-28
+2180,24,Perempuan,25713302,Tabungan,Bandung,2021-09-18
+2181,63,Perempuan,10016575,Tabungan,Surabaya,2022-09-07
+2182,28,Perempuan,24118454,Tabungan,Surabaya,2021-10-16
+2183,42,Laki-laki,21338883,Deposito,Bandung,2022-04-09
+2184,62,Perempuan,5114490,Deposito,Jakarta Pusat,2021-08-15
+2185,32,Perempuan,21076671,Deposito,Bali,2021-11-14
+2186,47,Perempuan,13651541,Deposito,Surabaya,2022-09-01
+2187,47,Perempuan,21956821,Tabungan,Bali,2021-05-15
+2188,32,Perempuan,3096349,Tabungan,Bandung,2020-10-03
+2189,59,Laki-laki,9200300,Deposito,Jakarta Pusat,2021-04-11
+2190,48,Laki-laki,10939160,Deposito,Yogyakarta,2022-05-12
+2191,69,Perempuan,15974549,Tabungan,Surabaya,2020-08-09
+2192,20,Laki-laki,16713771,Tabungan,Surabaya,2021-05-17
+2193,62,Laki-laki,6190816,Deposito,Jakarta Pusat,2021-02-27
+2194,37,Laki-laki,7484283,Tabungan,Jakarta Pusat,2021-09-29
+2195,47,Perempuan,16454480,Tabungan,Surabaya,2021-05-04
+2196,54,Perempuan,29420434,Tabungan,Surabaya,2021-10-20
+2197,44,Perempuan,27258510,Deposito,Bandung,2022-11-11
+2198,31,Perempuan,7268056,Deposito,Yogyakarta,2022-08-28
+2199,68,Laki-laki,17111845,Tabungan,Jakarta Pusat,2020-06-09
+2200,66,Laki-laki,9694498,Deposito,Bali,2022-01-03
+2201,31,Perempuan,20983673,Deposito,Yogyakarta,2020-09-22
+2202,23,Laki-laki,23428166,Deposito,Jakarta Pusat,2020-12-15
+2203,51,Laki-laki,29096880,Tabungan,Jakarta Pusat,2022-02-11
+2204,68,Laki-laki,19176991,Tabungan,Surabaya,2021-01-27
+2205,41,Laki-laki,25574025,Deposito,Jakarta Pusat,2021-09-03
+2206,35,Perempuan,5039579,Deposito,Yogyakarta,2021-06-16
+2207,38,Laki-laki,23864052,Deposito,Bandung,2022-11-22
+2208,38,Perempuan,12935627,Tabungan,Jakarta Pusat,2021-08-27
+2209,31,Perempuan,18215948,Deposito,Surabaya,2021-11-02
+2210,28,Laki-laki,4988210,Tabungan,Bandung,2020-04-06
+2211,57,Perempuan,16168182,Tabungan,Jakarta Pusat,2022-02-05
+2212,61,Laki-laki,15347930,Deposito,Surabaya,2020-07-18
+2213,64,Laki-laki,26891005,Deposito,Yogyakarta,2020-07-02
+2214,42,Perempuan,10372899,Deposito,Bandung,2022-09-09
+2215,44,Laki-laki,15474137,Tabungan,Surabaya,2020-02-22
+2216,55,Perempuan,11402330,Tabungan,Yogyakarta,2021-11-28
+2217,48,Laki-laki,2124626,Deposito,Bali,2020-07-06
+2218,50,Laki-laki,16476633,Tabungan,Bali,2020-12-27
+2219,47,Laki-laki,8382731,Deposito,Bandung,2020-07-05
+2220,20,Perempuan,6029854,Deposito,Jakarta Pusat,2020-11-08
+2221,66,Perempuan,29935685,Deposito,Yogyakarta,2020-06-11
+2222,38,Perempuan,27242813,Tabungan,Bali,2020-06-14
+2223,58,Perempuan,15249244,Deposito,Bandung,2021-08-15
+2224,24,Perempuan,19139650,Deposito,Bandung,2020-12-21
+2225,61,Laki-laki,22805949,Tabungan,Bali,2021-11-21
+2226,21,Laki-laki,18043392,Deposito,Yogyakarta,2022-09-13
+2227,57,Laki-laki,5308760,Deposito,Yogyakarta,2021-09-07
+2228,23,Laki-laki,24717321,Deposito,Surabaya,2020-09-18
+2229,67,Perempuan,19254526,Deposito,Bali,2021-02-05
+2230,61,Perempuan,11893799,Tabungan,Bandung,2020-04-22
+2231,56,Perempuan,15050580,Tabungan,Surabaya,2020-02-10
+2232,61,Perempuan,15589889,Tabungan,Surabaya,2022-01-28
+2233,63,Laki-laki,15169441,Deposito,Bandung,2020-09-25
+2234,47,Perempuan,5195832,Deposito,Jakarta Pusat,2020-08-22
+2235,40,Perempuan,29517452,Deposito,Bali,2022-06-12
+2236,49,Perempuan,18520260,Deposito,Surabaya,2020-10-17
+2237,38,Perempuan,9817911,Tabungan,Bali,2021-05-10
+2238,34,Perempuan,10847750,Tabungan,Bandung,2021-07-16
+2239,56,Laki-laki,13957571,Deposito,Jakarta Pusat,2022-01-28
+2240,35,Laki-laki,8860015,Deposito,Yogyakarta,2022-08-26
+2241,25,Perempuan,16374123,Tabungan,Surabaya,2020-04-09
+2242,33,Laki-laki,23867092,Tabungan,Surabaya,2022-10-10
+2243,68,Laki-laki,13525856,Deposito,Jakarta Pusat,2021-01-08
+2244,40,Laki-laki,21863271,Tabungan,Jakarta Pusat,2022-09-09
+2245,22,Perempuan,25206679,Tabungan,Surabaya,2020-05-14
+2246,51,Perempuan,12440556,Tabungan,Surabaya,2020-12-05
+2247,67,Perempuan,24641979,Deposito,Bandung,2021-08-27
+2248,58,Perempuan,17045344,Deposito,Yogyakarta,2022-09-23
+2249,40,Laki-laki,10637463,Tabungan,Jakarta Pusat,2022-06-19
+2250,68,Laki-laki,21601894,Deposito,Bali,2020-11-26
+2251,51,Perempuan,17308368,Deposito,Yogyakarta,2020-05-04
+2252,37,Laki-laki,21426326,Deposito,Jakarta Pusat,2020-12-09
+2253,21,Laki-laki,17814175,Tabungan,Jakarta Pusat,2020-06-28
+2254,22,Laki-laki,25065355,Tabungan,Surabaya,2020-10-05
+2255,60,Laki-laki,17204556,Deposito,Jakarta Pusat,2022-10-21
+2256,37,Perempuan,16964025,Deposito,Yogyakarta,2022-10-07
+2257,66,Laki-laki,9634539,Deposito,Bandung,2020-10-19
+2258,68,Perempuan,9908592,Tabungan,Jakarta Pusat,2021-07-20
+2259,58,Perempuan,25985480,Deposito,Surabaya,2022-03-01
+2260,20,Laki-laki,29685671,Tabungan,Bandung,2022-10-23
+2261,33,Perempuan,7382672,Tabungan,Jakarta Pusat,2020-07-13
+2262,28,Laki-laki,23857538,Deposito,Surabaya,2022-05-20
+2263,26,Laki-laki,2609079,Deposito,Yogyakarta,2020-04-21
+2264,44,Perempuan,16841432,Deposito,Bandung,2022-10-02
+2265,51,Laki-laki,11101924,Tabungan,Surabaya,2022-06-18
+2266,28,Perempuan,20311833,Tabungan,Yogyakarta,2021-08-04
+2267,41,Laki-laki,16204753,Deposito,Bali,2020-04-20
+2268,28,Laki-laki,10816831,Tabungan,Bali,2020-02-20
+2269,49,Laki-laki,9091099,Deposito,Bandung,2022-02-16
+2270,51,Perempuan,15165349,Deposito,Jakarta Pusat,2021-06-20
+2271,27,Perempuan,11409531,Deposito,Yogyakarta,2022-01-25
+2272,23,Perempuan,27631410,Tabungan,Bali,2022-09-03
+2273,49,Perempuan,1877541,Deposito,Bandung,2020-03-23
+2274,34,Perempuan,13221649,Deposito,Bandung,2022-06-20
+2275,47,Laki-laki,7502639,Tabungan,Bali,2021-07-09
+2276,55,Laki-laki,28453916,Deposito,Yogyakarta,2020-01-10
+2277,40,Laki-laki,22445887,Deposito,Yogyakarta,2021-01-25
+2278,59,Laki-laki,22881191,Deposito,Surabaya,2022-11-23
+2279,45,Perempuan,23039920,Deposito,Bali,2022-09-23
+2280,59,Perempuan,20967689,Tabungan,Bandung,2021-11-03
+2281,50,Perempuan,23900518,Tabungan,Surabaya,2020-10-24
+2282,55,Perempuan,20386684,Tabungan,Surabaya,2021-04-23
+2283,46,Laki-laki,18375819,Deposito,Bandung,2020-06-18
+2284,51,Perempuan,27426139,Deposito,Jakarta Pusat,2021-04-11
+2285,66,Perempuan,15432838,Deposito,Bali,2020-03-31
+2286,23,Perempuan,4208417,Deposito,Surabaya,2020-12-05
+2287,67,Perempuan,28546717,Tabungan,Bali,2021-11-26
+2288,36,Perempuan,19433613,Tabungan,Bandung,2020-03-28
+2289,33,Laki-laki,23850049,Deposito,Jakarta Pusat,2021-09-19
+2290,35,Laki-laki,9270044,Deposito,Yogyakarta,2020-04-18
+2291,26,Perempuan,14460663,Tabungan,Surabaya,2020-11-29
+2292,57,Laki-laki,23277731,Tabungan,Surabaya,2021-02-04
+2293,42,Laki-laki,11698170,Deposito,Jakarta Pusat,2022-08-05
+2294,49,Laki-laki,5525210,Tabungan,Jakarta Pusat,2022-06-18
+2295,69,Perempuan,21179308,Tabungan,Surabaya,2020-05-17
+2296,65,Perempuan,11992518,Tabungan,Surabaya,2022-06-23
+2297,23,Perempuan,20600650,Deposito,Bandung,2020-04-30
+2298,24,Perempuan,9159683,Deposito,Yogyakarta,2021-01-29
+2299,45,Laki-laki,23953663,Tabungan,Jakarta Pusat,2020-05-07
+2300,21,Laki-laki,9770870,Deposito,Bali,2022-10-04
+2301,29,Perempuan,9873299,Deposito,Yogyakarta,2022-06-14
+2302,22,Laki-laki,29457112,Deposito,Jakarta Pusat,2022-02-17
+2303,47,Laki-laki,2249681,Tabungan,Jakarta Pusat,2021-09-05
+2304,47,Laki-laki,27123059,Tabungan,Surabaya,2020-08-04
+2305,22,Laki-laki,16971633,Deposito,Jakarta Pusat,2022-11-22
+2306,61,Perempuan,26078216,Deposito,Yogyakarta,2022-04-26
+2307,48,Laki-laki,13448576,Deposito,Bandung,2022-05-27
+2308,55,Perempuan,4137915,Tabungan,Jakarta Pusat,2022-11-01
+2309,56,Perempuan,25600009,Deposito,Surabaya,2021-09-16
+2310,57,Laki-laki,27828961,Tabungan,Bandung,2020-01-23
+2311,43,Perempuan,10531982,Tabungan,Jakarta Pusat,2022-10-10
+2312,21,Laki-laki,17216143,Deposito,Surabaya,2021-09-04
+2313,58,Laki-laki,2945016,Deposito,Yogyakarta,2021-07-21
+2314,67,Perempuan,16738688,Deposito,Bandung,2020-09-14
+2315,24,Laki-laki,27732322,Tabungan,Surabaya,2020-08-20
+2316,67,Perempuan,9099020,Tabungan,Yogyakarta,2021-01-03
+2317,55,Laki-laki,28861404,Deposito,Bali,2020-03-06
+2318,47,Laki-laki,25602631,Tabungan,Bali,2021-03-12
+2319,68,Laki-laki,25976537,Deposito,Bandung,2021-03-12
+2320,48,Perempuan,13724013,Deposito,Jakarta Pusat,2020-11-30
+2321,38,Perempuan,28592424,Deposito,Yogyakarta,2022-02-24
+2322,60,Perempuan,1746452,Tabungan,Bali,2022-08-08
+2323,57,Perempuan,25155508,Deposito,Bandung,2022-09-16
+2324,59,Perempuan,20655437,Deposito,Bandung,2020-10-31
+2325,52,Laki-laki,21344903,Tabungan,Bali,2022-08-05
+2326,25,Laki-laki,5546916,Deposito,Yogyakarta,2020-07-03
+2327,52,Laki-laki,24274146,Deposito,Yogyakarta,2022-07-10
+2328,33,Laki-laki,13757330,Deposito,Surabaya,2022-07-04
+2329,28,Perempuan,28193588,Deposito,Bali,2021-07-30
+2330,20,Perempuan,1926702,Tabungan,Bandung,2021-05-17
+2331,43,Perempuan,17491887,Tabungan,Surabaya,2021-07-29
+2332,58,Perempuan,6838100,Tabungan,Surabaya,2022-05-27
+2333,20,Laki-laki,14610251,Deposito,Bandung,2022-07-16
+2334,64,Perempuan,8297417,Deposito,Jakarta Pusat,2021-10-16
+2335,49,Perempuan,28926780,Deposito,Bali,2020-01-09
+2336,32,Perempuan,14876977,Deposito,Surabaya,2021-03-19
+2337,28,Perempuan,6737322,Tabungan,Bali,2021-12-16
+2338,59,Perempuan,9360392,Tabungan,Bandung,2020-09-14
+2339,39,Laki-laki,23970417,Deposito,Jakarta Pusat,2021-04-05
+2340,51,Laki-laki,27794366,Deposito,Yogyakarta,2021-04-15
+2341,38,Perempuan,24483557,Tabungan,Surabaya,2022-12-05
+2342,25,Laki-laki,2328075,Tabungan,Surabaya,2020-03-18
+2343,29,Laki-laki,26732895,Deposito,Jakarta Pusat,2020-08-19
+2344,62,Laki-laki,11295986,Tabungan,Jakarta Pusat,2021-12-05
+2345,25,Perempuan,13891153,Tabungan,Surabaya,2022-04-15
+2346,41,Perempuan,27231708,Tabungan,Surabaya,2021-05-25
+2347,41,Perempuan,21201693,Deposito,Bandung,2021-02-21
+2348,39,Perempuan,25441145,Deposito,Yogyakarta,2022-10-28
+2349,45,Laki-laki,19454784,Tabungan,Jakarta Pusat,2022-11-08
+2350,60,Laki-laki,5426057,Deposito,Bali,2020-05-23
+2351,67,Perempuan,16514410,Deposito,Yogyakarta,2020-11-02
+2352,68,Laki-laki,3469789,Deposito,Jakarta Pusat,2022-11-26
+2353,52,Laki-laki,16321225,Tabungan,Jakarta Pusat,2022-09-16
+2354,67,Laki-laki,3744785,Tabungan,Surabaya,2022-12-04
+2355,27,Laki-laki,27319322,Deposito,Jakarta Pusat,2021-05-11
+2356,56,Perempuan,19505703,Deposito,Yogyakarta,2020-10-30
+2357,24,Laki-laki,17821274,Deposito,Bandung,2020-12-24
+2358,23,Perempuan,10940014,Tabungan,Jakarta Pusat,2021-09-05
+2359,50,Perempuan,8010144,Deposito,Surabaya,2021-03-17
+2360,50,Laki-laki,5871552,Tabungan,Bandung,2021-10-06
+2361,59,Perempuan,2752426,Tabungan,Jakarta Pusat,2022-04-16
+2362,22,Laki-laki,27779746,Deposito,Surabaya,2020-02-29
+2363,64,Laki-laki,12810214,Deposito,Yogyakarta,2022-12-30
+2364,25,Perempuan,19187777,Deposito,Bandung,2020-03-28
+2365,50,Laki-laki,6497822,Tabungan,Surabaya,2021-09-06
+2366,63,Perempuan,15697714,Tabungan,Yogyakarta,2022-10-16
+2367,57,Laki-laki,16003488,Deposito,Bali,2020-11-14
+2368,23,Laki-laki,4483721,Tabungan,Bali,2020-09-29
+2369,41,Laki-laki,8345792,Deposito,Bandung,2022-01-21
+2370,60,Perempuan,24453203,Deposito,Jakarta Pusat,2020-04-27
+2371,67,Perempuan,1013913,Deposito,Yogyakarta,2021-05-13
+2372,25,Perempuan,18639632,Tabungan,Bali,2022-07-19
+2373,25,Perempuan,16377844,Deposito,Bandung,2021-05-24
+2374,29,Perempuan,22973255,Deposito,Bandung,2022-05-16
+2375,64,Laki-laki,5515791,Tabungan,Bali,2020-03-09
+2376,44,Laki-laki,2838453,Deposito,Yogyakarta,2022-08-08
+2377,69,Laki-laki,11679297,Deposito,Yogyakarta,2021-07-31
+2378,68,Laki-laki,29244786,Deposito,Surabaya,2022-07-11
+2379,56,Perempuan,25306265,Deposito,Bali,2020-06-12
+2380,50,Perempuan,9044864,Tabungan,Bandung,2020-12-11
+2381,63,Perempuan,5348309,Tabungan,Surabaya,2020-01-25
+2382,48,Perempuan,29369780,Tabungan,Surabaya,2022-11-13
+2383,58,Laki-laki,29440755,Deposito,Bandung,2022-10-28
+2384,27,Perempuan,9185224,Deposito,Jakarta Pusat,2020-05-17
+2385,68,Perempuan,9543919,Deposito,Bali,2021-12-10
+2386,28,Perempuan,24765135,Deposito,Surabaya,2020-07-25
+2387,42,Perempuan,12708270,Tabungan,Bali,2022-11-26
+2388,20,Perempuan,25788680,Tabungan,Bandung,2021-12-14
+2389,39,Laki-laki,10348660,Deposito,Jakarta Pusat,2022-02-12
+2390,56,Laki-laki,17407759,Deposito,Yogyakarta,2021-04-16
+2391,46,Perempuan,11214105,Tabungan,Surabaya,2022-01-01
+2392,54,Laki-laki,19914506,Tabungan,Surabaya,2020-04-09
+2393,59,Laki-laki,1495652,Deposito,Jakarta Pusat,2022-11-28
+2394,42,Laki-laki,23442346,Tabungan,Jakarta Pusat,2021-09-15
+2395,32,Perempuan,4718564,Tabungan,Surabaya,2020-08-28
+2396,40,Perempuan,28508774,Tabungan,Surabaya,2020-07-13
+2397,60,Perempuan,18588403,Deposito,Bandung,2020-10-02
+2398,44,Perempuan,5516714,Deposito,Yogyakarta,2022-04-13
+2399,31,Laki-laki,11235377,Tabungan,Jakarta Pusat,2021-12-31
+2400,26,Laki-laki,6118988,Deposito,Bali,2021-11-17
+2401,55,Perempuan,28059998,Deposito,Yogyakarta,2021-02-26
+2402,30,Laki-laki,12460165,Deposito,Jakarta Pusat,2022-10-13
+2403,37,Laki-laki,7089679,Tabungan,Jakarta Pusat,2022-12-26
+2404,35,Laki-laki,13454770,Tabungan,Surabaya,2022-02-13
+2405,55,Laki-laki,26982049,Deposito,Jakarta Pusat,2022-12-19
+2406,24,Perempuan,4840801,Deposito,Yogyakarta,2021-08-23
+2407,37,Laki-laki,13635652,Deposito,Bandung,2022-11-03
+2408,56,Perempuan,7962385,Tabungan,Jakarta Pusat,2020-02-01
+2409,33,Perempuan,23711463,Deposito,Surabaya,2020-08-12
+2410,66,Laki-laki,3711923,Tabungan,Bandung,2022-05-09
+2411,68,Perempuan,16020022,Tabungan,Jakarta Pusat,2021-07-25
+2412,21,Laki-laki,23683710,Deposito,Surabaya,2020-11-24
+2413,42,Laki-laki,3360392,Deposito,Yogyakarta,2020-01-17
+2414,27,Perempuan,8603920,Deposito,Bandung,2021-09-05
+2415,48,Laki-laki,3944977,Tabungan,Surabaya,2020-12-03
+2416,27,Perempuan,9107882,Tabungan,Yogyakarta,2021-11-09
+2417,60,Laki-laki,2279771,Deposito,Bali,2022-07-07
+2418,45,Laki-laki,3253067,Tabungan,Bali,2020-02-15
+2419,24,Laki-laki,21026746,Deposito,Bandung,2021-07-03
+2420,63,Perempuan,20050547,Deposito,Jakarta Pusat,2020-04-28
+2421,41,Perempuan,7739041,Deposito,Yogyakarta,2020-06-23
+2422,51,Perempuan,28099836,Tabungan,Bali,2022-06-19
+2423,55,Perempuan,23031335,Deposito,Bandung,2021-01-28
+2424,55,Perempuan,9200597,Deposito,Bandung,2020-04-09
+2425,26,Laki-laki,2115714,Tabungan,Bali,2020-03-07
+2426,62,Laki-laki,13635886,Deposito,Yogyakarta,2022-06-13
+2427,30,Laki-laki,3575275,Deposito,Yogyakarta,2022-11-21
+2428,37,Laki-laki,22555205,Deposito,Surabaya,2020-03-02
+2429,30,Perempuan,1691877,Deposito,Bali,2021-10-26
+2430,55,Perempuan,5995434,Tabungan,Bandung,2022-03-04
+2431,26,Perempuan,22389770,Tabungan,Surabaya,2020-03-08
+2432,68,Perempuan,11954276,Tabungan,Surabaya,2020-12-02
+2433,27,Laki-laki,17097722,Deposito,Bandung,2020-03-02
+2434,65,Perempuan,14539623,Deposito,Jakarta Pusat,2022-06-05
+2435,22,Perempuan,11774344,Deposito,Bali,2022-06-24
+2436,52,Perempuan,5237846,Deposito,Surabaya,2020-06-26
+2437,26,Perempuan,28297344,Tabungan,Bali,2022-06-14
+2438,53,Perempuan,3345068,Tabungan,Bandung,2021-03-24
+2439,64,Laki-laki,13631845,Deposito,Jakarta Pusat,2020-02-21
+2440,28,Laki-laki,13891800,Deposito,Yogyakarta,2021-07-17
+2441,32,Perempuan,28147428,Tabungan,Surabaya,2020-02-04
+2442,48,Laki-laki,27514995,Tabungan,Surabaya,2020-02-18
+2443,66,Laki-laki,1467415,Deposito,Jakarta Pusat,2022-02-28
+2444,25,Laki-laki,23339930,Tabungan,Jakarta Pusat,2021-10-26
+2445,25,Perempuan,3095365,Tabungan,Surabaya,2020-06-15
+2446,32,Perempuan,8594748,Tabungan,Surabaya,2020-10-10
+2447,51,Perempuan,20293859,Deposito,Bandung,2020-10-08
+2448,36,Perempuan,7453131,Deposito,Yogyakarta,2022-01-24
+2449,33,Laki-laki,29193199,Tabungan,Jakarta Pusat,2021-07-05
+2450,45,Laki-laki,19733762,Deposito,Bali,2022-08-06
+2451,46,Perempuan,20225659,Deposito,Yogyakarta,2020-11-09
+2452,64,Laki-laki,17009088,Deposito,Jakarta Pusat,2020-04-10
+2453,63,Laki-laki,8315222,Tabungan,Jakarta Pusat,2021-11-04
+2454,21,Laki-laki,11387575,Tabungan,Surabaya,2020-11-26
+2455,42,Laki-laki,6840686,Deposito,Jakarta Pusat,2022-08-11
+2456,46,Perempuan,20835323,Deposito,Yogyakarta,2022-07-25
+2457,48,Laki-laki,1743111,Deposito,Bandung,2020-05-30
+2458,30,Perempuan,8285207,Tabungan,Jakarta Pusat,2022-02-07
+2459,43,Perempuan,6241984,Deposito,Surabaya,2022-09-23
+2460,38,Laki-laki,28655950,Tabungan,Bandung,2022-04-18
+2461,23,Perempuan,16228572,Tabungan,Jakarta Pusat,2021-01-08
+2462,43,Laki-laki,16188946,Deposito,Surabaya,2020-01-08
+2463,42,Laki-laki,3141688,Deposito,Yogyakarta,2022-01-21
+2464,69,Perempuan,23985000,Deposito,Bandung,2021-11-10
+2465,57,Laki-laki,4088079,Tabungan,Surabaya,2020-05-21
+2466,47,Perempuan,22471803,Tabungan,Yogyakarta,2020-02-13
+2467,64,Laki-laki,4400671,Deposito,Bali,2020-05-03
+2468,31,Laki-laki,24644894,Tabungan,Bali,2021-02-28
+2469,69,Laki-laki,28499890,Deposito,Bandung,2022-12-02
+2470,23,Perempuan,10015471,Deposito,Jakarta Pusat,2021-09-29
+2471,27,Perempuan,28102590,Deposito,Yogyakarta,2022-08-14
+2472,31,Perempuan,22336953,Tabungan,Bali,2022-01-21
+2473,48,Perempuan,22413422,Deposito,Bandung,2020-10-29
+2474,45,Perempuan,3132068,Deposito,Bandung,2020-11-27
+2475,45,Laki-laki,8916546,Tabungan,Bali,2022-01-22
+2476,24,Laki-laki,18323019,Deposito,Yogyakarta,2020-09-24
+2477,40,Laki-laki,26709553,Deposito,Yogyakarta,2022-09-11
+2478,61,Laki-laki,25294938,Deposito,Surabaya,2021-10-07
+2479,37,Perempuan,1139958,Deposito,Bali,2021-11-07
+2480,56,Perempuan,15998516,Tabungan,Bandung,2020-05-22
+2481,62,Perempuan,22523357,Tabungan,Surabaya,2020-01-06
+2482,67,Perempuan,25690557,Tabungan,Surabaya,2021-10-22
+2483,40,Laki-laki,16691369,Deposito,Bandung,2021-11-09
+2484,61,Perempuan,17180377,Deposito,Jakarta Pusat,2020-02-11
+2485,52,Perempuan,5777422,Deposito,Bali,2020-01-03
+2486,56,Perempuan,25130560,Deposito,Surabaya,2020-03-13
+2487,66,Perempuan,12283628,Tabungan,Bali,2020-04-27
+2488,66,Perempuan,5321126,Tabungan,Bandung,2020-07-07
+2489,54,Laki-laki,26319392,Deposito,Jakarta Pusat,2022-02-23
+2490,50,Laki-laki,26217370,Deposito,Yogyakarta,2021-09-25
+2491,27,Perempuan,1284313,Tabungan,Surabaya,2021-05-06
+2492,62,Laki-laki,12341393,Tabungan,Surabaya,2022-10-19
+2493,34,Laki-laki,18609054,Deposito,Jakarta Pusat,2021-11-21
+2494,51,Laki-laki,20793638,Tabungan,Jakarta Pusat,2021-09-11
+2495,67,Perempuan,20563109,Tabungan,Surabaya,2022-02-08
+2496,51,Perempuan,10537345,Tabungan,Surabaya,2021-09-13
+2497,22,Perempuan,24764333,Deposito,Bandung,2022-04-10
+2498,25,Perempuan,18082113,Deposito,Yogyakarta,2021-07-13
+2499,65,Laki-laki,10710878,Tabungan,Jakarta Pusat,2020-04-14
+2500,40,Laki-laki,29624064,Deposito,Bali,2022-03-11
+2501,21,Perempuan,23448542,Deposito,Yogyakarta,2020-08-17
+2502,47,Laki-laki,22036145,Deposito,Jakarta Pusat,2020-11-23
+2503,66,Laki-laki,4125635,Tabungan,Jakarta Pusat,2020-10-31
+2504,50,Laki-laki,7230296,Tabungan,Surabaya,2021-05-04
+2505,43,Laki-laki,10446736,Deposito,Jakarta Pusat,2022-06-23
+2506,40,Perempuan,17839450,Deposito,Yogyakarta,2022-10-29
+2507,29,Laki-laki,6868828,Deposito,Bandung,2022-08-12
+2508,60,Perempuan,8386579,Tabungan,Jakarta Pusat,2022-03-17
+2509,28,Perempuan,15618514,Deposito,Surabaya,2022-07-20
+2510,65,Laki-laki,22700843,Tabungan,Bandung,2022-08-13
+2511,37,Perempuan,9654565,Tabungan,Jakarta Pusat,2020-05-31
+2512,37,Laki-laki,3682356,Deposito,Surabaya,2021-10-01
+2513,46,Laki-laki,20048075,Deposito,Yogyakarta,2022-08-27
+2514,53,Perempuan,7114959,Deposito,Bandung,2020-04-05
+2515,56,Laki-laki,12511861,Tabungan,Surabaya,2020-06-08
+2516,51,Perempuan,27650242,Tabungan,Yogyakarta,2020-12-14
+2517,62,Laki-laki,20051233,Deposito,Bali,2022-10-21
+2518,24,Laki-laki,20776529,Tabungan,Bali,2022-01-09
+2519,50,Laki-laki,27818299,Deposito,Bandung,2020-03-01
+2520,36,Perempuan,7502499,Deposito,Jakarta Pusat,2022-07-20
+2521,47,Perempuan,5576712,Deposito,Yogyakarta,2021-08-31
+2522,42,Perempuan,16474342,Tabungan,Bali,2021-10-20
+2523,30,Perempuan,20353555,Deposito,Bandung,2021-09-01
+2524,21,Perempuan,28059493,Deposito,Bandung,2021-08-30
+2525,62,Laki-laki,4515682,Tabungan,Bali,2021-01-06
+2526,23,Laki-laki,6401080,Deposito,Yogyakarta,2020-11-07
+2527,22,Laki-laki,23400419,Deposito,Yogyakarta,2022-12-15
+2528,27,Laki-laki,10758475,Deposito,Surabaya,2020-06-17
+2529,32,Perempuan,24725885,Deposito,Bali,2020-06-19
+2530,58,Perempuan,1441435,Tabungan,Bandung,2020-07-08
+2531,23,Perempuan,11899933,Tabungan,Surabaya,2021-01-09
+2532,40,Perempuan,22646373,Tabungan,Surabaya,2022-12-15
+2533,66,Laki-laki,12218490,Deposito,Bandung,2022-09-06
+2534,36,Perempuan,14370142,Deposito,Jakarta Pusat,2020-07-20
+2535,24,Perempuan,5718997,Deposito,Bali,2022-02-19
+2536,55,Perempuan,15235268,Deposito,Surabaya,2021-07-25
+2537,27,Perempuan,2181557,Tabungan,Bali,2020-12-23
+2538,40,Perempuan,4568153,Tabungan,Bandung,2020-12-20
+2539,61,Laki-laki,1727963,Deposito,Jakarta Pusat,2021-08-31
+2540,40,Laki-laki,16583976,Deposito,Yogyakarta,2021-11-16
+2541,69,Perempuan,26348182,Tabungan,Surabaya,2020-10-21
+2542,48,Laki-laki,22085125,Tabungan,Surabaya,2020-05-20
+2543,35,Laki-laki,20897839,Deposito,Jakarta Pusat,2020-02-11
+2544,50,Laki-laki,10635535,Tabungan,Jakarta Pusat,2022-08-10
+2545,20,Perempuan,23941422,Tabungan,Surabaya,2021-12-21
+2546,54,Perempuan,19896503,Tabungan,Surabaya,2022-06-27
+2547,35,Perempuan,5412687,Deposito,Bandung,2020-05-18
+2548,25,Perempuan,13382658,Deposito,Yogyakarta,2020-11-07
+2549,43,Laki-laki,12842913,Tabungan,Jakarta Pusat,2021-05-07
+2550,32,Laki-laki,17972206,Deposito,Bali,2021-08-09
+2551,60,Perempuan,5454226,Deposito,Yogyakarta,2020-08-06
+2552,22,Laki-laki,1646979,Deposito,Jakarta Pusat,2021-01-15
+2553,68,Laki-laki,5965880,Tabungan,Jakarta Pusat,2020-09-27
+2554,54,Laki-laki,9059303,Tabungan,Surabaya,2022-08-23
+2555,21,Laki-laki,24712883,Deposito,Jakarta Pusat,2022-03-06
+2556,63,Perempuan,20177110,Deposito,Yogyakarta,2022-09-11
+2557,35,Laki-laki,5802224,Deposito,Bandung,2021-02-23
+2558,20,Perempuan,5366932,Tabungan,Jakarta Pusat,2022-10-30
+2559,39,Perempuan,29631633,Deposito,Surabaya,2022-09-24
+2560,54,Laki-laki,23527465,Tabungan,Bandung,2020-05-29
+2561,47,Perempuan,28544251,Tabungan,Jakarta Pusat,2021-12-27
+2562,54,Laki-laki,18522576,Deposito,Surabaya,2021-03-16
+2563,52,Laki-laki,3177933,Deposito,Yogyakarta,2020-10-22
+2564,24,Perempuan,17696718,Deposito,Bandung,2022-05-08
+2565,25,Laki-laki,19655756,Tabungan,Surabaya,2022-01-16
+2566,66,Perempuan,10312922,Tabungan,Yogyakarta,2020-11-01
+2567,66,Laki-laki,3930107,Deposito,Bali,2020-01-03
+2568,48,Laki-laki,28927522,Tabungan,Bali,2022-08-30
+2569,29,Laki-laki,3553926,Deposito,Bandung,2020-08-04
+2570,61,Perempuan,12772371,Deposito,Jakarta Pusat,2021-03-12
+2571,48,Perempuan,11676558,Deposito,Yogyakarta,2022-04-26
+2572,30,Perempuan,23913982,Tabungan,Bali,2021-06-21
+2573,65,Perempuan,27797039,Deposito,Bandung,2020-03-26
+2574,46,Perempuan,11520433,Deposito,Bandung,2020-09-10
+2575,37,Laki-laki,22364432,Tabungan,Bali,2022-04-21
+2576,38,Laki-laki,22762974,Deposito,Yogyakarta,2021-02-21
+2577,31,Laki-laki,10090105,Deposito,Yogyakarta,2022-10-18
+2578,44,Laki-laki,11401641,Deposito,Surabaya,2020-12-12
+2579,33,Perempuan,2262367,Deposito,Bali,2020-06-17
+2580,54,Perempuan,19311760,Tabungan,Bandung,2021-06-05
+2581,65,Perempuan,22403837,Tabungan,Surabaya,2020-09-24
+2582,25,Perempuan,22906168,Tabungan,Surabaya,2020-05-21
+2583,68,Laki-laki,14021458,Deposito,Bandung,2021-11-10
+2584,21,Perempuan,17743879,Deposito,Jakarta Pusat,2022-06-12
+2585,24,Perempuan,21854220,Deposito,Bali,2021-05-06
+2586,69,Perempuan,6943651,Deposito,Surabaya,2021-09-04
+2587,37,Perempuan,11060697,Tabungan,Bali,2021-03-19
+2588,51,Perempuan,1464357,Tabungan,Bandung,2022-08-24
+2589,33,Laki-laki,10085726,Deposito,Jakarta Pusat,2020-11-05
+2590,34,Laki-laki,7824357,Deposito,Yogyakarta,2021-06-12
+2591,21,Perempuan,16342605,Tabungan,Surabaya,2021-07-05
+2592,35,Laki-laki,4776307,Tabungan,Surabaya,2021-10-10
+2593,52,Laki-laki,14097660,Deposito,Jakarta Pusat,2020-06-29
+2594,36,Laki-laki,25474125,Tabungan,Jakarta Pusat,2020-12-11
+2595,40,Perempuan,15635106,Tabungan,Surabaya,2020-12-22
+2596,63,Perempuan,19070520,Tabungan,Surabaya,2020-11-03
+2597,24,Perempuan,7376026,Deposito,Bandung,2020-11-18
+2598,32,Perempuan,20541335,Deposito,Yogyakarta,2022-06-21
+2599,36,Laki-laki,28229338,Tabungan,Jakarta Pusat,2021-10-18
+2600,40,Laki-laki,17860102,Deposito,Bali,2020-11-02
+2601,59,Perempuan,11746003,Deposito,Yogyakarta,2021-07-10
+2602,38,Laki-laki,21431599,Deposito,Jakarta Pusat,2022-03-31
+2603,62,Laki-laki,21510804,Tabungan,Jakarta Pusat,2020-11-20
+2604,44,Laki-laki,12071743,Tabungan,Surabaya,2022-02-02
+2605,67,Laki-laki,24864719,Deposito,Jakarta Pusat,2021-01-06
+2606,53,Perempuan,21696737,Deposito,Yogyakarta,2021-07-27
+2607,68,Laki-laki,7287701,Deposito,Bandung,2021-08-25
+2608,37,Perempuan,22908406,Tabungan,Jakarta Pusat,2022-05-26
+2609,66,Perempuan,13941804,Deposito,Surabaya,2021-12-17
+2610,40,Laki-laki,19394208,Tabungan,Bandung,2022-12-19
+2611,45,Perempuan,28443619,Tabungan,Jakarta Pusat,2021-01-03
+2612,66,Laki-laki,2878235,Deposito,Surabaya,2021-02-15
+2613,38,Laki-laki,16721921,Deposito,Yogyakarta,2022-03-02
+2614,41,Perempuan,21417461,Deposito,Bandung,2020-05-05
+2615,31,Laki-laki,18745436,Tabungan,Surabaya,2020-04-30
+2616,23,Perempuan,9404164,Tabungan,Yogyakarta,2022-10-07
+2617,50,Laki-laki,7541007,Deposito,Bali,2021-12-07
+2618,57,Laki-laki,4950150,Tabungan,Bali,2020-11-27
+2619,42,Laki-laki,19783225,Deposito,Bandung,2021-01-30
+2620,38,Perempuan,23738550,Deposito,Jakarta Pusat,2022-12-01
+2621,46,Perempuan,25018420,Deposito,Yogyakarta,2020-01-20
+2622,45,Perempuan,28098144,Tabungan,Bali,2022-12-24
+2623,46,Perempuan,3460361,Deposito,Bandung,2022-03-31
+2624,29,Perempuan,12533759,Deposito,Bandung,2022-07-14
+2625,23,Laki-laki,9891265,Tabungan,Bali,2022-03-28
+2626,20,Laki-laki,29212971,Deposito,Yogyakarta,2020-06-26
+2627,63,Laki-laki,24971978,Deposito,Yogyakarta,2020-09-27
+2628,69,Laki-laki,17341445,Deposito,Surabaya,2020-09-14
+2629,53,Perempuan,28385371,Deposito,Bali,2020-08-02
+2630,43,Perempuan,19250720,Tabungan,Bandung,2020-12-20
+2631,52,Perempuan,2733944,Tabungan,Surabaya,2022-01-10
+2632,53,Perempuan,24469476,Tabungan,Surabaya,2022-06-18
+2633,42,Laki-laki,11225557,Deposito,Bandung,2022-01-21
+2634,32,Perempuan,6684112,Deposito,Jakarta Pusat,2021-04-27
+2635,45,Perempuan,21154474,Deposito,Bali,2021-01-02
+2636,49,Perempuan,9906943,Deposito,Surabaya,2022-07-30
+2637,54,Perempuan,6233686,Tabungan,Bali,2021-10-28
+2638,36,Perempuan,3002432,Tabungan,Bandung,2022-12-10
+2639,57,Laki-laki,23829828,Deposito,Jakarta Pusat,2022-07-20
+2640,21,Laki-laki,20018117,Deposito,Yogyakarta,2022-03-09
+2641,60,Perempuan,9660984,Tabungan,Surabaya,2021-03-05
+2642,27,Laki-laki,7603869,Tabungan,Surabaya,2021-06-18
+2643,46,Laki-laki,17151939,Deposito,Jakarta Pusat,2022-11-07
+2644,47,Laki-laki,25928832,Tabungan,Jakarta Pusat,2021-02-16
+2645,68,Perempuan,25846762,Tabungan,Surabaya,2021-03-18
+2646,46,Perempuan,6569796,Tabungan,Surabaya,2022-12-29
+2647,42,Perempuan,3078069,Deposito,Bandung,2021-04-09
+2648,49,Perempuan,29622411,Deposito,Yogyakarta,2022-05-21
+2649,35,Laki-laki,12606838,Tabungan,Jakarta Pusat,2021-08-11
+2650,29,Laki-laki,19005601,Deposito,Bali,2020-07-09
+2651,60,Perempuan,2382686,Deposito,Yogyakarta,2020-04-11
+2652,46,Laki-laki,21862958,Deposito,Jakarta Pusat,2020-11-03
+2653,52,Laki-laki,13341203,Tabungan,Jakarta Pusat,2021-02-09
+2654,68,Laki-laki,27867080,Tabungan,Surabaya,2022-06-02
+2655,32,Laki-laki,19347118,Deposito,Jakarta Pusat,2020-03-15
+2656,54,Perempuan,14736601,Deposito,Yogyakarta,2022-04-05
+2657,63,Laki-laki,26352160,Deposito,Bandung,2021-09-19
+2658,52,Perempuan,26513004,Tabungan,Jakarta Pusat,2022-03-14
+2659,59,Perempuan,15349627,Deposito,Surabaya,2020-12-04
+2660,63,Laki-laki,28997981,Tabungan,Bandung,2022-03-21
+2661,28,Perempuan,14551556,Tabungan,Jakarta Pusat,2021-05-13
+2662,43,Laki-laki,2193546,Deposito,Surabaya,2021-04-22
+2663,69,Laki-laki,28860671,Deposito,Yogyakarta,2022-02-01
+2664,68,Perempuan,27259202,Deposito,Bandung,2020-01-08
+2665,21,Laki-laki,21807422,Tabungan,Surabaya,2020-07-07
+2666,38,Perempuan,26776748,Tabungan,Yogyakarta,2020-10-02
+2667,60,Laki-laki,27350642,Deposito,Bali,2020-05-21
+2668,64,Laki-laki,16660923,Tabungan,Bali,2020-05-30
+2669,25,Laki-laki,5562733,Deposito,Bandung,2021-09-13
+2670,24,Perempuan,22681004,Deposito,Jakarta Pusat,2022-12-08
+2671,49,Perempuan,28482809,Deposito,Yogyakarta,2021-02-06
+2672,37,Perempuan,27822002,Tabungan,Bali,2022-07-05
+2673,26,Perempuan,10644598,Deposito,Bandung,2022-12-21
+2674,54,Perempuan,21749464,Deposito,Bandung,2022-09-03
+2675,36,Laki-laki,14862298,Tabungan,Bali,2021-03-26
+2676,49,Laki-laki,3368911,Deposito,Yogyakarta,2020-11-21
+2677,32,Laki-laki,13695776,Deposito,Yogyakarta,2021-01-29
+2678,40,Laki-laki,21273981,Deposito,Surabaya,2022-06-18
+2679,39,Perempuan,16771551,Deposito,Bali,2021-02-07
+2680,30,Perempuan,20353877,Tabungan,Bandung,2020-02-10
+2681,49,Perempuan,12655799,Tabungan,Surabaya,2020-11-29
+2682,54,Perempuan,4209705,Tabungan,Surabaya,2022-10-20
+2683,23,Laki-laki,29500707,Deposito,Bandung,2020-12-14
+2684,52,Perempuan,16640788,Deposito,Jakarta Pusat,2022-11-06
+2685,43,Perempuan,19245803,Deposito,Bali,2022-04-13
+2686,61,Perempuan,22115954,Deposito,Surabaya,2022-05-21
+2687,53,Perempuan,16780366,Tabungan,Bali,2021-06-05
+2688,38,Perempuan,23453448,Tabungan,Bandung,2021-01-16
+2689,51,Laki-laki,21388661,Deposito,Jakarta Pusat,2021-08-19
+2690,32,Laki-laki,29930215,Deposito,Yogyakarta,2020-01-22
+2691,50,Perempuan,11244104,Tabungan,Surabaya,2021-06-11
+2692,28,Laki-laki,16432202,Tabungan,Surabaya,2022-05-16
+2693,62,Laki-laki,24274303,Deposito,Jakarta Pusat,2022-05-08
+2694,31,Laki-laki,7691739,Tabungan,Jakarta Pusat,2022-12-14
+2695,32,Perempuan,18461316,Tabungan,Surabaya,2022-09-02
+2696,22,Perempuan,23032084,Tabungan,Surabaya,2022-03-28
+2697,36,Perempuan,6668091,Deposito,Bandung,2020-05-18
+2698,42,Perempuan,4438622,Deposito,Yogyakarta,2021-12-19
+2699,44,Laki-laki,15261621,Tabungan,Jakarta Pusat,2021-08-22
+2700,31,Laki-laki,14462813,Deposito,Bali,2022-12-13
+2701,65,Perempuan,5287798,Deposito,Yogyakarta,2022-07-11
+2702,67,Laki-laki,28313440,Deposito,Jakarta Pusat,2020-07-05
+2703,67,Laki-laki,9271084,Tabungan,Jakarta Pusat,2020-07-21
+2704,27,Laki-laki,22300823,Tabungan,Surabaya,2020-05-07
+2705,29,Laki-laki,28333918,Deposito,Jakarta Pusat,2022-05-20
+2706,45,Perempuan,23910643,Deposito,Yogyakarta,2021-12-06
+2707,68,Laki-laki,2427465,Deposito,Bandung,2022-12-13
+2708,36,Perempuan,1047667,Tabungan,Jakarta Pusat,2021-11-07
+2709,55,Perempuan,5992407,Deposito,Surabaya,2021-10-08
+2710,34,Laki-laki,23724336,Tabungan,Bandung,2021-01-24
+2711,45,Perempuan,18857380,Tabungan,Jakarta Pusat,2021-10-18
+2712,44,Laki-laki,2994005,Deposito,Surabaya,2022-08-24
+2713,59,Laki-laki,20569860,Deposito,Yogyakarta,2020-05-15
+2714,46,Perempuan,6001913,Deposito,Bandung,2022-04-09
+2715,58,Laki-laki,6187833,Tabungan,Surabaya,2022-05-30
+2716,24,Perempuan,7916403,Tabungan,Yogyakarta,2021-02-21
+2717,68,Laki-laki,2817932,Deposito,Bali,2022-08-29
+2718,58,Laki-laki,10054074,Tabungan,Bali,2022-10-12
+2719,54,Laki-laki,13763219,Deposito,Bandung,2021-07-28
+2720,48,Perempuan,5344614,Deposito,Jakarta Pusat,2022-08-02
+2721,68,Perempuan,19074086,Deposito,Yogyakarta,2022-11-05
+2722,31,Perempuan,28956713,Tabungan,Bali,2022-01-06
+2723,34,Perempuan,4358989,Deposito,Bandung,2020-03-31
+2724,31,Perempuan,11031552,Deposito,Bandung,2020-01-11
+2725,26,Laki-laki,8608286,Tabungan,Bali,2020-01-18
+2726,58,Laki-laki,26662261,Deposito,Yogyakarta,2021-11-22
+2727,62,Laki-laki,11408966,Deposito,Yogyakarta,2021-04-22
+2728,25,Laki-laki,18854042,Deposito,Surabaya,2022-07-06
+2729,43,Perempuan,19936598,Deposito,Bali,2021-03-14
+2730,46,Perempuan,16368730,Tabungan,Bandung,2021-12-05
+2731,29,Perempuan,12622833,Tabungan,Surabaya,2020-05-30
+2732,51,Perempuan,18000352,Tabungan,Surabaya,2021-12-16
+2733,69,Laki-laki,22338821,Deposito,Bandung,2022-09-04
+2734,22,Perempuan,28940891,Deposito,Jakarta Pusat,2022-08-02
+2735,49,Perempuan,22972207,Deposito,Bali,2022-06-01
+2736,26,Perempuan,29840766,Deposito,Surabaya,2022-04-30
+2737,44,Perempuan,5686116,Tabungan,Bali,2022-02-10
+2738,52,Perempuan,2575845,Tabungan,Bandung,2020-05-05
+2739,35,Laki-laki,16963311,Deposito,Jakarta Pusat,2020-03-12
+2740,67,Laki-laki,10417897,Deposito,Yogyakarta,2022-08-16
+2741,38,Perempuan,26665794,Tabungan,Surabaya,2021-12-15
+2742,26,Laki-laki,29361460,Tabungan,Surabaya,2021-01-26
+2743,43,Laki-laki,12253916,Deposito,Jakarta Pusat,2021-05-07
+2744,31,Laki-laki,14536813,Tabungan,Jakarta Pusat,2020-06-09
+2745,40,Perempuan,8610766,Tabungan,Surabaya,2022-07-30
+2746,63,Perempuan,29149772,Tabungan,Surabaya,2020-12-01
+2747,69,Perempuan,22714330,Deposito,Bandung,2020-08-16
+2748,50,Perempuan,13315893,Deposito,Yogyakarta,2022-07-15
+2749,53,Laki-laki,7498009,Tabungan,Jakarta Pusat,2021-05-07
+2750,57,Laki-laki,27237098,Deposito,Bali,2021-03-03
+2751,64,Perempuan,19721673,Deposito,Yogyakarta,2020-02-25
+2752,35,Laki-laki,11623320,Deposito,Jakarta Pusat,2021-12-26
+2753,49,Laki-laki,3516375,Tabungan,Jakarta Pusat,2021-04-12
+2754,66,Laki-laki,20006778,Tabungan,Surabaya,2020-08-21
+2755,50,Laki-laki,3207382,Deposito,Jakarta Pusat,2021-06-20
+2756,44,Perempuan,10764572,Deposito,Yogyakarta,2022-09-27
+2757,51,Laki-laki,21306825,Deposito,Bandung,2022-11-29
+2758,60,Perempuan,26913865,Tabungan,Jakarta Pusat,2022-06-16
+2759,23,Perempuan,15670501,Deposito,Surabaya,2020-11-28
+2760,25,Laki-laki,4196293,Tabungan,Bandung,2022-09-29
+2761,54,Perempuan,5677017,Tabungan,Jakarta Pusat,2021-04-27
+2762,60,Laki-laki,9137713,Deposito,Surabaya,2020-04-08
+2763,29,Laki-laki,22487979,Deposito,Yogyakarta,2022-03-22
+2764,39,Perempuan,22003884,Deposito,Bandung,2022-02-11
+2765,63,Laki-laki,29395416,Tabungan,Surabaya,2021-01-22
+2766,58,Perempuan,13483349,Tabungan,Yogyakarta,2021-07-21
+2767,39,Laki-laki,10477088,Deposito,Bali,2021-08-16
+2768,68,Laki-laki,23624148,Tabungan,Bali,2020-04-17
+2769,30,Laki-laki,7183154,Deposito,Bandung,2022-01-04
+2770,46,Perempuan,14176748,Deposito,Jakarta Pusat,2021-11-26
+2771,39,Perempuan,3680983,Deposito,Yogyakarta,2020-04-22
+2772,53,Perempuan,20319081,Tabungan,Bali,2022-11-23
+2773,37,Perempuan,17119216,Deposito,Bandung,2021-04-09
+2774,34,Perempuan,14176069,Deposito,Bandung,2021-04-27
+2775,56,Laki-laki,3319448,Tabungan,Bali,2021-06-28
+2776,69,Laki-laki,19149205,Deposito,Yogyakarta,2022-12-11
+2777,60,Laki-laki,13530935,Deposito,Yogyakarta,2021-06-11
+2778,37,Laki-laki,23464287,Deposito,Surabaya,2021-11-22
+2779,50,Perempuan,11127250,Deposito,Bali,2022-06-15
+2780,45,Perempuan,29697615,Tabungan,Bandung,2021-01-04
+2781,64,Perempuan,15850130,Tabungan,Surabaya,2022-04-22
+2782,26,Perempuan,21360029,Tabungan,Surabaya,2020-01-27
+2783,54,Laki-laki,12382248,Deposito,Bandung,2020-09-21
+2784,53,Perempuan,2528969,Deposito,Jakarta Pusat,2021-04-23
+2785,43,Perempuan,17548556,Deposito,Bali,2020-12-20
+2786,22,Perempuan,23964158,Deposito,Surabaya,2021-04-05
+2787,48,Perempuan,14132842,Tabungan,Bali,2020-02-24
+2788,44,Perempuan,25764247,Tabungan,Bandung,2021-12-23
+2789,24,Laki-laki,2855432,Deposito,Jakarta Pusat,2022-09-14
+2790,30,Laki-laki,12140068,Deposito,Yogyakarta,2020-02-22
+2791,49,Perempuan,7667817,Tabungan,Surabaya,2022-12-06
+2792,43,Laki-laki,5364010,Tabungan,Surabaya,2021-08-25
+2793,21,Laki-laki,2987718,Deposito,Jakarta Pusat,2022-10-16
+2794,65,Laki-laki,22958110,Tabungan,Jakarta Pusat,2022-06-13
+2795,41,Perempuan,26581951,Tabungan,Surabaya,2022-12-17
+2796,68,Perempuan,14322706,Tabungan,Surabaya,2021-12-26
+2797,36,Perempuan,4425225,Deposito,Bandung,2020-01-23
+2798,31,Perempuan,19310347,Deposito,Yogyakarta,2021-11-28
+2799,67,Laki-laki,14369678,Tabungan,Jakarta Pusat,2022-07-06
+2800,64,Laki-laki,4939979,Deposito,Bali,2021-05-27
+2801,66,Perempuan,22626686,Deposito,Yogyakarta,2022-02-18
+2802,21,Laki-laki,26606006,Deposito,Jakarta Pusat,2020-02-29
+2803,36,Laki-laki,2396783,Tabungan,Jakarta Pusat,2020-10-05
+2804,37,Laki-laki,9635424,Tabungan,Surabaya,2021-03-15
+2805,48,Laki-laki,22202103,Deposito,Jakarta Pusat,2022-04-07
+2806,57,Perempuan,24238824,Deposito,Yogyakarta,2022-06-08
+2807,56,Laki-laki,7814240,Deposito,Bandung,2022-09-12
+2808,23,Perempuan,2639666,Tabungan,Jakarta Pusat,2021-03-29
+2809,50,Perempuan,11102321,Deposito,Surabaya,2020-03-16
+2810,62,Laki-laki,11434169,Tabungan,Bandung,2022-04-07
+2811,61,Perempuan,27386319,Tabungan,Jakarta Pusat,2022-12-28
+2812,57,Laki-laki,16899882,Deposito,Surabaya,2022-02-07
+2813,38,Laki-laki,5691635,Deposito,Yogyakarta,2022-10-15
+2814,24,Perempuan,4831789,Deposito,Bandung,2022-06-23
+2815,64,Laki-laki,11300809,Tabungan,Surabaya,2022-06-26
+2816,28,Perempuan,11716620,Tabungan,Yogyakarta,2020-12-05
+2817,22,Laki-laki,2283592,Deposito,Bali,2020-08-20
+2818,61,Laki-laki,25546371,Tabungan,Bali,2022-01-20
+2819,65,Laki-laki,18614477,Deposito,Bandung,2020-04-14
+2820,54,Perempuan,26202211,Deposito,Jakarta Pusat,2020-10-17
+2821,46,Perempuan,11834469,Deposito,Yogyakarta,2021-01-13
+2822,57,Perempuan,17802461,Tabungan,Bali,2021-04-13
+2823,50,Perempuan,10871559,Deposito,Bandung,2022-08-07
+2824,39,Perempuan,13163953,Deposito,Bandung,2022-12-03
+2825,28,Laki-laki,15902323,Tabungan,Bali,2022-11-09
+2826,60,Laki-laki,28763372,Deposito,Yogyakarta,2021-04-12
+2827,43,Laki-laki,15866128,Deposito,Yogyakarta,2021-09-07
+2828,20,Laki-laki,24183616,Deposito,Surabaya,2021-04-03
+2829,43,Perempuan,22573180,Deposito,Bali,2021-09-02
+2830,31,Perempuan,28479620,Tabungan,Bandung,2022-06-27
+2831,43,Perempuan,2052936,Tabungan,Surabaya,2020-03-20
+2832,29,Perempuan,25055562,Tabungan,Surabaya,2020-07-09
+2833,42,Laki-laki,17016912,Deposito,Bandung,2022-08-05
+2834,31,Perempuan,2151117,Deposito,Jakarta Pusat,2022-06-17
+2835,38,Perempuan,3246593,Deposito,Bali,2022-04-21
+2836,35,Perempuan,24722961,Deposito,Surabaya,2020-05-04
+2837,35,Perempuan,23263019,Tabungan,Bali,2020-01-03
+2838,26,Perempuan,25500817,Tabungan,Bandung,2020-03-20
+2839,54,Laki-laki,28426819,Deposito,Jakarta Pusat,2021-06-11
+2840,28,Laki-laki,25958250,Deposito,Yogyakarta,2021-05-07
+2841,51,Perempuan,10406187,Tabungan,Surabaya,2022-01-31
+2842,26,Laki-laki,13919960,Tabungan,Surabaya,2020-11-03
+2843,44,Laki-laki,14955054,Deposito,Jakarta Pusat,2020-01-07
+2844,34,Laki-laki,6533755,Tabungan,Jakarta Pusat,2021-11-16
+2845,50,Perempuan,2974706,Tabungan,Surabaya,2021-02-19
+2846,44,Perempuan,6169402,Tabungan,Surabaya,2021-09-19
+2847,30,Perempuan,9203613,Deposito,Bandung,2020-03-04
+2848,41,Perempuan,1029955,Deposito,Yogyakarta,2022-11-20
+2849,35,Laki-laki,18161729,Tabungan,Jakarta Pusat,2021-09-12
+2850,55,Laki-laki,2973507,Deposito,Bali,2020-02-28
+2851,67,Perempuan,14526514,Deposito,Yogyakarta,2022-09-09
+2852,35,Laki-laki,4817342,Deposito,Jakarta Pusat,2021-03-18
+2853,39,Laki-laki,1521942,Tabungan,Jakarta Pusat,2020-12-10
+2854,49,Laki-laki,13274371,Tabungan,Surabaya,2020-08-15
+2855,56,Laki-laki,15517653,Deposito,Jakarta Pusat,2020-10-16
+2856,58,Perempuan,17962009,Deposito,Yogyakarta,2021-02-26
+2857,30,Laki-laki,19097915,Deposito,Bandung,2022-06-21
+2858,69,Perempuan,5810692,Tabungan,Jakarta Pusat,2021-09-08
+2859,48,Perempuan,4077696,Deposito,Surabaya,2022-02-18
+2860,30,Laki-laki,1235545,Tabungan,Bandung,2020-04-06
+2861,32,Perempuan,4900020,Tabungan,Jakarta Pusat,2021-04-07
+2862,54,Laki-laki,26072609,Deposito,Surabaya,2022-09-15
+2863,35,Laki-laki,16160370,Deposito,Yogyakarta,2020-05-21
+2864,49,Perempuan,20308850,Deposito,Bandung,2021-11-16
+2865,27,Laki-laki,6607687,Tabungan,Surabaya,2021-09-12
+2866,41,Perempuan,2731134,Tabungan,Yogyakarta,2022-04-07
+2867,25,Laki-laki,9868181,Deposito,Bali,2020-12-27
+2868,52,Laki-laki,5765832,Tabungan,Bali,2021-04-19
+2869,45,Laki-laki,18637138,Deposito,Bandung,2022-06-23
+2870,57,Perempuan,7485532,Deposito,Jakarta Pusat,2022-03-03
+2871,37,Perempuan,28333955,Deposito,Yogyakarta,2021-06-10
+2872,57,Perempuan,18558269,Tabungan,Bali,2021-10-01
+2873,68,Perempuan,10759815,Deposito,Bandung,2022-07-22
+2874,25,Perempuan,1605560,Deposito,Bandung,2022-10-20
+2875,20,Laki-laki,2238781,Tabungan,Bali,2020-07-11
+2876,64,Laki-laki,5896238,Deposito,Yogyakarta,2022-08-01
+2877,60,Laki-laki,21613369,Deposito,Yogyakarta,2020-12-08
+2878,38,Laki-laki,13996724,Deposito,Surabaya,2020-02-28
+2879,40,Perempuan,8847300,Deposito,Bali,2021-04-02
+2880,59,Perempuan,10699762,Tabungan,Bandung,2020-01-17
+2881,34,Perempuan,3283818,Tabungan,Surabaya,2021-12-23
+2882,21,Perempuan,5538669,Tabungan,Surabaya,2021-05-31
+2883,39,Laki-laki,27031108,Deposito,Bandung,2020-12-08
+2884,39,Perempuan,10199452,Deposito,Jakarta Pusat,2020-08-29
+2885,32,Perempuan,20690588,Deposito,Bali,2021-06-11
+2886,44,Perempuan,18458166,Deposito,Surabaya,2022-10-14
+2887,56,Perempuan,28434347,Tabungan,Bali,2021-01-31
+2888,40,Perempuan,29539810,Tabungan,Bandung,2022-07-04
+2889,20,Laki-laki,12657655,Deposito,Jakarta Pusat,2021-09-29
+2890,29,Laki-laki,19248991,Deposito,Yogyakarta,2021-07-14
+2891,50,Perempuan,6389052,Tabungan,Surabaya,2020-05-12
+2892,28,Laki-laki,6361735,Tabungan,Surabaya,2022-09-27
+2893,37,Laki-laki,27874796,Deposito,Jakarta Pusat,2022-11-21
+2894,21,Laki-laki,10842919,Tabungan,Jakarta Pusat,2021-09-26
+2895,56,Perempuan,29786467,Tabungan,Surabaya,2021-06-07
+2896,33,Perempuan,3330654,Tabungan,Surabaya,2021-07-02
+2897,48,Perempuan,21708649,Deposito,Bandung,2022-03-25
+2898,36,Perempuan,22850934,Deposito,Yogyakarta,2021-10-30
+2899,57,Laki-laki,3661736,Tabungan,Jakarta Pusat,2022-06-29
+2900,53,Laki-laki,21502454,Deposito,Bali,2021-04-05
+2901,27,Perempuan,6094003,Deposito,Yogyakarta,2021-01-10
+2902,24,Laki-laki,12603170,Deposito,Jakarta Pusat,2020-06-02
+2903,46,Laki-laki,11405463,Tabungan,Jakarta Pusat,2020-03-08
+2904,39,Laki-laki,28880651,Tabungan,Surabaya,2021-06-16
+2905,23,Laki-laki,12996506,Deposito,Jakarta Pusat,2020-03-13
+2906,26,Perempuan,12546783,Deposito,Yogyakarta,2022-11-06
+2907,44,Laki-laki,19978064,Deposito,Bandung,2021-04-02
+2908,48,Perempuan,29934602,Tabungan,Jakarta Pusat,2022-09-22
+2909,36,Perempuan,6456049,Deposito,Surabaya,2020-08-23
+2910,41,Laki-laki,24124136,Tabungan,Bandung,2021-03-07
+2911,45,Perempuan,23663509,Tabungan,Jakarta Pusat,2020-05-29
+2912,22,Laki-laki,9126778,Deposito,Surabaya,2022-12-09
+2913,50,Laki-laki,24255915,Deposito,Yogyakarta,2020-08-26
+2914,38,Perempuan,1961548,Deposito,Bandung,2022-10-18
+2915,42,Laki-laki,26537331,Tabungan,Surabaya,2021-04-13
+2916,69,Perempuan,11846187,Tabungan,Yogyakarta,2022-04-21
+2917,41,Laki-laki,25519086,Deposito,Bali,2022-12-16
+2918,32,Laki-laki,5249244,Tabungan,Bali,2022-11-16
+2919,43,Laki-laki,17056996,Deposito,Bandung,2020-06-12
+2920,53,Perempuan,6912645,Deposito,Jakarta Pusat,2020-07-12
+2921,25,Perempuan,12893293,Deposito,Yogyakarta,2022-07-11
+2922,60,Perempuan,18287199,Tabungan,Bali,2020-09-21
+2923,36,Perempuan,29717326,Deposito,Bandung,2021-03-20
+2924,57,Perempuan,28875885,Deposito,Bandung,2022-11-01
+2925,67,Laki-laki,10381354,Tabungan,Bali,2022-01-11
+2926,61,Laki-laki,22978962,Deposito,Yogyakarta,2021-03-05
+2927,50,Laki-laki,7424168,Deposito,Yogyakarta,2020-04-28
+2928,25,Laki-laki,8170170,Deposito,Surabaya,2020-09-19
+2929,51,Perempuan,1751482,Deposito,Bali,2021-08-07
+2930,20,Perempuan,7919360,Tabungan,Bandung,2020-10-01
+2931,33,Perempuan,27594115,Tabungan,Surabaya,2021-03-13
+2932,30,Perempuan,13498528,Tabungan,Surabaya,2020-06-07
+2933,52,Laki-laki,7929234,Deposito,Bandung,2021-08-09
+2934,20,Perempuan,4871861,Deposito,Jakarta Pusat,2020-04-22
+2935,51,Perempuan,12489137,Deposito,Bali,2020-11-20
+2936,57,Perempuan,6667140,Deposito,Surabaya,2021-10-07
+2937,21,Perempuan,3757161,Tabungan,Bali,2020-03-29
+2938,54,Perempuan,23172259,Tabungan,Bandung,2021-02-26
+2939,65,Laki-laki,18151621,Deposito,Jakarta Pusat,2021-04-05
+2940,69,Laki-laki,6705935,Deposito,Yogyakarta,2020-09-22
+2941,35,Perempuan,14426712,Tabungan,Surabaya,2021-03-27
+2942,60,Laki-laki,22970324,Tabungan,Surabaya,2020-02-04
+2943,33,Laki-laki,3941758,Deposito,Jakarta Pusat,2020-01-13
+2944,58,Laki-laki,25626465,Tabungan,Jakarta Pusat,2021-10-25
+2945,23,Perempuan,22481345,Tabungan,Surabaya,2020-04-13
+2946,24,Perempuan,13252475,Tabungan,Surabaya,2022-02-21
+2947,26,Perempuan,20288532,Deposito,Bandung,2020-07-20
+2948,63,Perempuan,19672096,Deposito,Yogyakarta,2022-08-25
+2949,37,Laki-laki,24919307,Tabungan,Jakarta Pusat,2022-07-31
+2950,49,Laki-laki,24828089,Deposito,Bali,2020-11-15
+2951,37,Perempuan,14650761,Deposito,Yogyakarta,2021-09-28
+2952,46,Laki-laki,17439460,Deposito,Jakarta Pusat,2020-04-25
+2953,54,Laki-laki,7829283,Tabungan,Jakarta Pusat,2020-03-30
+2954,62,Laki-laki,18842586,Tabungan,Surabaya,2021-02-07
+2955,23,Laki-laki,15581406,Deposito,Jakarta Pusat,2021-07-30
+2956,40,Perempuan,1567504,Deposito,Yogyakarta,2022-01-06
+2957,53,Laki-laki,2323837,Deposito,Bandung,2021-02-25
+2958,65,Perempuan,24056532,Tabungan,Jakarta Pusat,2022-04-06
+2959,27,Perempuan,4131697,Deposito,Surabaya,2022-02-18
+2960,30,Laki-laki,27226258,Tabungan,Bandung,2021-07-16
+2961,55,Perempuan,1954762,Tabungan,Jakarta Pusat,2021-05-05
+2962,60,Laki-laki,17581869,Deposito,Surabaya,2020-09-07
+2963,36,Laki-laki,24971192,Deposito,Yogyakarta,2020-12-20
+2964,63,Perempuan,22836738,Deposito,Bandung,2021-06-30
+2965,29,Laki-laki,2675846,Tabungan,Surabaya,2022-10-01
+2966,24,Perempuan,6786692,Tabungan,Yogyakarta,2020-07-16
+2967,51,Laki-laki,6349910,Deposito,Bali,2022-01-21
+2968,49,Laki-laki,19614693,Tabungan,Bali,2022-09-29
+2969,60,Laki-laki,22386866,Deposito,Bandung,2020-05-26
+2970,43,Perempuan,19955431,Deposito,Jakarta Pusat,2020-04-21
+2971,23,Perempuan,4336988,Deposito,Yogyakarta,2020-01-28
+2972,21,Perempuan,24492235,Tabungan,Bali,2022-01-04
+2973,53,Perempuan,27177258,Deposito,Bandung,2021-10-25
+2974,47,Perempuan,15687952,Deposito,Bandung,2020-01-07
+2975,65,Laki-laki,21131449,Tabungan,Bali,2021-03-28
+2976,21,Laki-laki,12177765,Deposito,Yogyakarta,2020-03-07
+2977,20,Laki-laki,4092054,Deposito,Yogyakarta,2021-01-22
+2978,39,Laki-laki,3926188,Deposito,Surabaya,2020-05-15
+2979,24,Perempuan,13210917,Deposito,Bali,2020-08-20
+2980,21,Perempuan,25214870,Tabungan,Bandung,2020-12-07
+2981,30,Perempuan,14518473,Tabungan,Surabaya,2022-09-15
+2982,37,Perempuan,21883277,Tabungan,Surabaya,2020-06-17
+2983,65,Laki-laki,1550409,Deposito,Bandung,2020-09-25
+2984,57,Perempuan,23999043,Deposito,Jakarta Pusat,2022-07-16
+2985,52,Perempuan,29799146,Deposito,Bali,2022-04-02
+2986,20,Perempuan,1557142,Deposito,Surabaya,2021-09-03
+2987,23,Perempuan,9847345,Tabungan,Bali,2020-06-05
+2988,40,Perempuan,12635350,Tabungan,Bandung,2020-10-19
+2989,60,Laki-laki,24151218,Deposito,Jakarta Pusat,2021-01-09
+2990,28,Laki-laki,12452733,Deposito,Yogyakarta,2020-03-16
+2991,38,Perempuan,10944936,Tabungan,Surabaya,2020-01-11
+2992,22,Laki-laki,17123487,Tabungan,Surabaya,2021-06-21
+2993,52,Laki-laki,20485246,Deposito,Jakarta Pusat,2021-10-27
+2994,45,Laki-laki,22819915,Tabungan,Jakarta Pusat,2022-06-04
+2995,65,Perempuan,18489743,Tabungan,Surabaya,2022-08-14
+2996,28,Perempuan,23276089,Tabungan,Surabaya,2021-09-09
+2997,20,Perempuan,16749825,Deposito,Bandung,2021-12-04
+2998,24,Perempuan,24005339,Deposito,Yogyakarta,2022-02-16
+2999,40,Laki-laki,13577590,Tabungan,Jakarta Pusat,2021-07-27
+3000,46,Laki-laki,21341153,Deposito,Bali,2020-07-07
+3001,68,Perempuan,21946917,Deposito,Yogyakarta,2020-12-24
+3002,59,Laki-laki,15307310,Deposito,Jakarta Pusat,2021-11-07
+3003,57,Laki-laki,8384845,Tabungan,Jakarta Pusat,2021-12-04
+3004,60,Laki-laki,6220011,Tabungan,Surabaya,2021-10-18
+3005,50,Laki-laki,16745282,Deposito,Jakarta Pusat,2022-12-02
+3006,56,Perempuan,23552181,Deposito,Yogyakarta,2021-12-16
+3007,57,Laki-laki,24431017,Deposito,Bandung,2021-03-12
+3008,47,Perempuan,17516964,Tabungan,Jakarta Pusat,2021-03-11
+3009,50,Perempuan,17620807,Deposito,Surabaya,2020-07-19
+3010,66,Laki-laki,22437543,Tabungan,Bandung,2020-01-09
+3011,27,Perempuan,4479310,Tabungan,Jakarta Pusat,2021-02-06
+3012,54,Laki-laki,18604463,Deposito,Surabaya,2021-10-06
+3013,65,Laki-laki,9961431,Deposito,Yogyakarta,2021-08-06
+3014,21,Perempuan,18544156,Deposito,Bandung,2020-02-18
+3015,27,Laki-laki,9680710,Tabungan,Surabaya,2021-12-31
+3016,23,Perempuan,27487786,Tabungan,Yogyakarta,2022-11-06
+3017,29,Laki-laki,5055465,Deposito,Bali,2022-03-05
+3018,67,Laki-laki,15474958,Tabungan,Bali,2022-10-23
+3019,49,Laki-laki,10442752,Deposito,Bandung,2022-10-03
+3020,56,Perempuan,26110965,Deposito,Jakarta Pusat,2022-10-03
+3021,28,Perempuan,17675345,Deposito,Yogyakarta,2021-06-11
+3022,49,Perempuan,7977332,Tabungan,Bali,2022-06-15
+3023,27,Perempuan,5631548,Deposito,Bandung,2020-08-01
+3024,30,Perempuan,4586136,Deposito,Bandung,2020-07-03
+3025,65,Laki-laki,4839547,Tabungan,Bali,2020-02-25
+3026,45,Laki-laki,28524859,Deposito,Yogyakarta,2020-08-06
+3027,59,Laki-laki,12455493,Deposito,Yogyakarta,2021-11-29
+3028,25,Laki-laki,22604691,Deposito,Surabaya,2021-05-22
+3029,35,Perempuan,10060368,Deposito,Bali,2022-03-05
+3030,67,Perempuan,16947801,Tabungan,Bandung,2022-02-21
+3031,67,Perempuan,17673560,Tabungan,Surabaya,2021-01-08
+3032,48,Perempuan,23214383,Tabungan,Surabaya,2022-12-24
+3033,69,Laki-laki,15861023,Deposito,Bandung,2020-05-23
+3034,38,Perempuan,13951001,Deposito,Jakarta Pusat,2020-09-04
+3035,41,Perempuan,7489440,Deposito,Bali,2021-08-26
+3036,35,Perempuan,17076751,Deposito,Surabaya,2021-11-06
+3037,25,Perempuan,9452697,Tabungan,Bali,2021-04-26
+3038,65,Perempuan,12791681,Tabungan,Bandung,2022-05-13
+3039,54,Laki-laki,13606183,Deposito,Jakarta Pusat,2021-10-20
+3040,47,Laki-laki,19979680,Deposito,Yogyakarta,2022-01-23
+3041,66,Perempuan,29309290,Tabungan,Surabaya,2020-01-24
+3042,65,Laki-laki,18351514,Tabungan,Surabaya,2020-12-24
+3043,67,Laki-laki,7382654,Deposito,Jakarta Pusat,2021-11-18
+3044,45,Laki-laki,4978250,Tabungan,Jakarta Pusat,2022-12-04
+3045,55,Perempuan,15167978,Tabungan,Surabaya,2021-08-14
+3046,68,Perempuan,18210654,Tabungan,Surabaya,2022-12-15
+3047,68,Perempuan,22594370,Deposito,Bandung,2022-06-16
+3048,24,Perempuan,27593002,Deposito,Yogyakarta,2020-02-10
+3049,51,Laki-laki,26140060,Tabungan,Jakarta Pusat,2020-06-16
+3050,24,Laki-laki,26353037,Deposito,Bali,2020-04-26
+3051,68,Perempuan,4562720,Deposito,Yogyakarta,2021-11-20
+3052,32,Laki-laki,4021093,Deposito,Jakarta Pusat,2020-11-23
+3053,55,Laki-laki,4078253,Tabungan,Jakarta Pusat,2021-04-03
+3054,59,Laki-laki,29965953,Tabungan,Surabaya,2022-12-10
+3055,25,Laki-laki,12517870,Deposito,Jakarta Pusat,2020-10-11
+3056,65,Perempuan,19611846,Deposito,Yogyakarta,2021-02-06
+3057,22,Laki-laki,6692760,Deposito,Bandung,2020-02-10
+3058,24,Perempuan,8587441,Tabungan,Jakarta Pusat,2022-12-30
+3059,31,Perempuan,2578796,Deposito,Surabaya,2020-11-24
+3060,62,Laki-laki,19670627,Tabungan,Bandung,2020-09-16
+3061,37,Perempuan,23548981,Tabungan,Jakarta Pusat,2020-05-11
+3062,35,Laki-laki,1320019,Deposito,Surabaya,2020-01-15
+3063,52,Laki-laki,13563872,Deposito,Yogyakarta,2020-01-07
+3064,66,Perempuan,19079266,Deposito,Bandung,2021-09-26
+3065,65,Laki-laki,25816119,Tabungan,Surabaya,2021-01-01
+3066,30,Perempuan,16451432,Tabungan,Yogyakarta,2022-01-17
+3067,67,Laki-laki,3915411,Deposito,Bali,2021-07-25
+3068,46,Laki-laki,8534289,Tabungan,Bali,2021-05-06
+3069,31,Laki-laki,12177303,Deposito,Bandung,2021-08-10
+3070,47,Perempuan,17565799,Deposito,Jakarta Pusat,2021-02-08
+3071,43,Perempuan,11405352,Deposito,Yogyakarta,2020-04-08
+3072,45,Perempuan,22370116,Tabungan,Bali,2020-11-14
+3073,50,Perempuan,5710735,Deposito,Bandung,2020-09-16
+3074,50,Perempuan,21911122,Deposito,Bandung,2020-05-31
+3075,21,Laki-laki,28846773,Tabungan,Bali,2021-02-04
+3076,33,Laki-laki,20327880,Deposito,Yogyakarta,2021-01-17
+3077,41,Laki-laki,8066211,Deposito,Yogyakarta,2022-07-05
+3078,31,Laki-laki,19019716,Deposito,Surabaya,2021-12-07
+3079,41,Perempuan,24696884,Deposito,Bali,2021-06-16
+3080,29,Perempuan,29257409,Tabungan,Bandung,2020-04-29
+3081,59,Perempuan,9577978,Tabungan,Surabaya,2021-12-04
+3082,63,Perempuan,7742740,Tabungan,Surabaya,2022-01-01
+3083,29,Laki-laki,27988982,Deposito,Bandung,2022-04-02
+3084,39,Perempuan,7583346,Deposito,Jakarta Pusat,2022-08-15
+3085,69,Perempuan,19142682,Deposito,Bali,2021-09-14
+3086,31,Perempuan,29919254,Deposito,Surabaya,2021-07-20
+3087,36,Perempuan,24949137,Tabungan,Bali,2022-07-24
+3088,41,Perempuan,13079257,Tabungan,Bandung,2022-03-12
+3089,56,Laki-laki,8951600,Deposito,Jakarta Pusat,2021-08-27
+3090,54,Laki-laki,14667361,Deposito,Yogyakarta,2021-11-09
+3091,42,Perempuan,9217663,Tabungan,Surabaya,2021-07-15
+3092,24,Laki-laki,3521520,Tabungan,Surabaya,2020-01-13
+3093,60,Laki-laki,24814063,Deposito,Jakarta Pusat,2020-06-11
+3094,28,Laki-laki,24715524,Tabungan,Jakarta Pusat,2020-11-20
+3095,53,Perempuan,27824899,Tabungan,Surabaya,2021-02-03
+3096,28,Perempuan,16660773,Tabungan,Surabaya,2022-03-03
+3097,45,Perempuan,1781451,Deposito,Bandung,2020-01-25
+3098,54,Perempuan,10953730,Deposito,Yogyakarta,2021-10-09
+3099,31,Laki-laki,5050957,Tabungan,Jakarta Pusat,2020-04-13
+3100,44,Laki-laki,2896224,Deposito,Bali,2021-02-10
+3101,26,Perempuan,10920777,Deposito,Yogyakarta,2022-10-02
+3102,69,Laki-laki,17345961,Deposito,Jakarta Pusat,2021-11-12
+3103,65,Laki-laki,23581542,Tabungan,Jakarta Pusat,2021-05-17
+3104,61,Laki-laki,21619432,Tabungan,Surabaya,2022-08-01
+3105,34,Laki-laki,26131827,Deposito,Jakarta Pusat,2022-10-10
+3106,66,Perempuan,6855024,Deposito,Yogyakarta,2020-06-19
+3107,52,Laki-laki,12873522,Deposito,Bandung,2022-06-09
+3108,44,Perempuan,2371223,Tabungan,Jakarta Pusat,2021-12-24
+3109,29,Perempuan,26130582,Deposito,Surabaya,2021-02-16
+3110,50,Laki-laki,22106137,Tabungan,Bandung,2020-09-29
+3111,68,Perempuan,3003404,Tabungan,Jakarta Pusat,2022-05-06
+3112,40,Laki-laki,28993349,Deposito,Surabaya,2020-10-07
+3113,58,Laki-laki,12476086,Deposito,Yogyakarta,2020-02-01
+3114,39,Perempuan,11567172,Deposito,Bandung,2020-12-28
+3115,51,Laki-laki,12569054,Tabungan,Surabaya,2022-08-12
+3116,31,Perempuan,17692100,Tabungan,Yogyakarta,2022-10-28
+3117,26,Laki-laki,21044825,Deposito,Bali,2022-04-11
+3118,50,Laki-laki,8942329,Tabungan,Bali,2021-01-08
+3119,21,Laki-laki,26450028,Deposito,Bandung,2022-01-17
+3120,22,Perempuan,24040671,Deposito,Jakarta Pusat,2021-06-24
+3121,51,Perempuan,19997779,Deposito,Yogyakarta,2021-10-18
+3122,51,Perempuan,28669109,Tabungan,Bali,2021-03-24
+3123,32,Perempuan,15704814,Deposito,Bandung,2022-04-15
+3124,30,Perempuan,24769400,Deposito,Bandung,2020-05-25
+3125,25,Laki-laki,26780237,Tabungan,Bali,2020-04-28
+3126,67,Laki-laki,28914117,Deposito,Yogyakarta,2021-12-23
+3127,30,Laki-laki,16141623,Deposito,Yogyakarta,2020-11-28
+3128,41,Laki-laki,14116965,Deposito,Surabaya,2022-08-31
+3129,63,Perempuan,19582138,Deposito,Bali,2022-05-01
+3130,52,Perempuan,18011005,Tabungan,Bandung,2021-12-27
+3131,32,Perempuan,3329334,Tabungan,Surabaya,2022-11-27
+3132,23,Perempuan,9956687,Tabungan,Surabaya,2020-01-02
+3133,21,Laki-laki,9160043,Deposito,Bandung,2021-09-10
+3134,21,Perempuan,12906628,Deposito,Jakarta Pusat,2022-07-31
+3135,53,Perempuan,17026659,Deposito,Bali,2021-07-19
+3136,53,Perempuan,6481884,Deposito,Surabaya,2022-05-27
+3137,45,Perempuan,17469007,Tabungan,Bali,2022-09-23
+3138,25,Perempuan,21989772,Tabungan,Bandung,2022-09-19
+3139,41,Laki-laki,14702108,Deposito,Jakarta Pusat,2020-01-22
+3140,55,Laki-laki,14816810,Deposito,Yogyakarta,2022-05-10
+3141,35,Perempuan,14940749,Tabungan,Surabaya,2022-09-20
+3142,55,Laki-laki,7989579,Tabungan,Surabaya,2020-01-25
+3143,60,Laki-laki,1581091,Deposito,Jakarta Pusat,2020-01-07
+3144,32,Laki-laki,14947286,Tabungan,Jakarta Pusat,2021-06-20
+3145,63,Perempuan,26609084,Tabungan,Surabaya,2022-03-23
+3146,61,Perempuan,1686050,Tabungan,Surabaya,2022-12-17
+3147,30,Perempuan,1855030,Deposito,Bandung,2020-02-11
+3148,65,Perempuan,6486464,Deposito,Yogyakarta,2021-06-23
+3149,55,Laki-laki,7310577,Tabungan,Jakarta Pusat,2021-05-09
+3150,23,Laki-laki,12466181,Deposito,Bali,2021-08-21
+3151,20,Perempuan,18693836,Deposito,Yogyakarta,2021-06-17
+3152,37,Laki-laki,21318609,Deposito,Jakarta Pusat,2020-10-06
+3153,69,Laki-laki,2941083,Tabungan,Jakarta Pusat,2020-06-21
+3154,41,Laki-laki,2863825,Tabungan,Surabaya,2020-05-29
+3155,60,Laki-laki,29533947,Deposito,Jakarta Pusat,2020-07-30
+3156,26,Perempuan,18153411,Deposito,Yogyakarta,2022-01-27
+3157,30,Laki-laki,27894612,Deposito,Bandung,2020-11-30
+3158,67,Perempuan,20725526,Tabungan,Jakarta Pusat,2021-09-04
+3159,35,Perempuan,1253424,Deposito,Surabaya,2022-02-14
+3160,27,Laki-laki,8280498,Tabungan,Bandung,2022-03-20
+3161,26,Perempuan,27493175,Tabungan,Jakarta Pusat,2020-06-01
+3162,26,Laki-laki,27086020,Deposito,Surabaya,2021-09-07
+3163,57,Laki-laki,24772281,Deposito,Yogyakarta,2022-04-14
+3164,48,Perempuan,26107606,Deposito,Bandung,2020-11-06
+3165,24,Laki-laki,21185898,Tabungan,Surabaya,2021-01-31
+3166,34,Perempuan,22226828,Tabungan,Yogyakarta,2022-07-26
+3167,43,Laki-laki,2622734,Deposito,Bali,2022-09-18
+3168,49,Laki-laki,3061995,Tabungan,Bali,2020-05-06
+3169,59,Laki-laki,8784988,Deposito,Bandung,2022-11-30
+3170,41,Perempuan,26553175,Deposito,Jakarta Pusat,2020-01-13
+3171,21,Perempuan,29134689,Deposito,Yogyakarta,2022-02-07
+3172,26,Perempuan,16288193,Tabungan,Bali,2022-05-31
+3173,66,Perempuan,11174008,Deposito,Bandung,2022-12-28
+3174,59,Perempuan,28720371,Deposito,Bandung,2021-05-10
+3175,21,Laki-laki,20387798,Tabungan,Bali,2022-06-08
+3176,65,Laki-laki,8528598,Deposito,Yogyakarta,2021-05-08
+3177,31,Laki-laki,18006733,Deposito,Yogyakarta,2020-05-22
+3178,30,Laki-laki,18098266,Deposito,Surabaya,2022-05-19
+3179,65,Perempuan,23418645,Deposito,Bali,2020-05-22
+3180,21,Perempuan,24895303,Tabungan,Bandung,2020-07-25
+3181,46,Perempuan,28920981,Tabungan,Surabaya,2020-03-24
+3182,20,Perempuan,20767062,Tabungan,Surabaya,2020-09-26
+3183,51,Laki-laki,22651119,Deposito,Bandung,2021-12-18
+3184,20,Perempuan,13934252,Deposito,Jakarta Pusat,2020-08-20
+3185,51,Perempuan,12095970,Deposito,Bali,2022-03-20
+3186,36,Perempuan,14669714,Deposito,Surabaya,2021-01-06
+3187,57,Perempuan,24755178,Tabungan,Bali,2020-01-11
+3188,46,Perempuan,29701996,Tabungan,Bandung,2020-07-07
+3189,62,Laki-laki,12408921,Deposito,Jakarta Pusat,2022-11-26
+3190,30,Laki-laki,17952879,Deposito,Yogyakarta,2020-05-26
+3191,69,Perempuan,20375460,Tabungan,Surabaya,2022-02-24
+3192,23,Laki-laki,15532169,Tabungan,Surabaya,2020-04-26
+3193,64,Laki-laki,18566157,Deposito,Jakarta Pusat,2020-07-25
+3194,34,Laki-laki,9644186,Tabungan,Jakarta Pusat,2020-08-10
+3195,67,Perempuan,10023277,Tabungan,Surabaya,2020-04-21
+3196,64,Perempuan,19636994,Tabungan,Surabaya,2022-11-29
+3197,27,Perempuan,22440605,Deposito,Bandung,2020-09-30
+3198,53,Perempuan,16712703,Deposito,Yogyakarta,2022-03-29
+3199,58,Laki-laki,8996514,Tabungan,Jakarta Pusat,2020-08-17
+3200,65,Laki-laki,2429725,Deposito,Bali,2022-08-11
+3201,46,Perempuan,11479102,Deposito,Yogyakarta,2022-03-05
+3202,24,Laki-laki,16254278,Deposito,Jakarta Pusat,2020-02-26
+3203,47,Laki-laki,1903926,Tabungan,Jakarta Pusat,2021-05-01
+3204,68,Laki-laki,9581932,Tabungan,Surabaya,2020-01-03
+3205,20,Laki-laki,10259426,Deposito,Jakarta Pusat,2022-05-12
+3206,57,Perempuan,5026884,Deposito,Yogyakarta,2020-05-17
+3207,26,Laki-laki,14557957,Deposito,Bandung,2020-10-10
+3208,31,Perempuan,10405352,Tabungan,Jakarta Pusat,2022-04-27
+3209,35,Perempuan,8079622,Deposito,Surabaya,2021-05-25
+3210,58,Laki-laki,22024842,Tabungan,Bandung,2022-02-25
+3211,65,Perempuan,8669057,Tabungan,Jakarta Pusat,2022-01-22
+3212,20,Laki-laki,24196254,Deposito,Surabaya,2022-04-23
+3213,41,Laki-laki,12085745,Deposito,Yogyakarta,2022-09-13
+3214,23,Perempuan,26517628,Deposito,Bandung,2021-07-28
+3215,44,Laki-laki,28804244,Tabungan,Surabaya,2020-05-23
+3216,46,Perempuan,2284187,Tabungan,Yogyakarta,2022-12-13
+3217,33,Laki-laki,20049644,Deposito,Bali,2022-05-05
+3218,65,Laki-laki,16087134,Tabungan,Bali,2022-07-19
+3219,43,Laki-laki,21204331,Deposito,Bandung,2021-06-29
+3220,21,Perempuan,4208354,Deposito,Jakarta Pusat,2020-11-26
+3221,29,Perempuan,2079625,Deposito,Yogyakarta,2020-12-25
+3222,42,Perempuan,29484113,Tabungan,Bali,2020-09-23
+3223,57,Perempuan,5035622,Deposito,Bandung,2022-10-26
+3224,33,Perempuan,28665907,Deposito,Bandung,2022-07-04
+3225,27,Laki-laki,29464312,Tabungan,Bali,2020-08-27
+3226,46,Laki-laki,12834343,Deposito,Yogyakarta,2020-03-06
+3227,39,Laki-laki,9427717,Deposito,Yogyakarta,2021-11-29
+3228,42,Laki-laki,19940884,Deposito,Surabaya,2022-10-14
+3229,24,Perempuan,19215772,Deposito,Bali,2021-06-23
+3230,30,Perempuan,11457479,Tabungan,Bandung,2021-11-01
+3231,34,Perempuan,19825320,Tabungan,Surabaya,2020-08-31
+3232,20,Perempuan,11112387,Tabungan,Surabaya,2022-02-15
+3233,34,Laki-laki,18400368,Deposito,Bandung,2020-12-30
+3234,64,Perempuan,25508765,Deposito,Jakarta Pusat,2020-12-05
+3235,26,Perempuan,16847443,Deposito,Bali,2021-09-15
+3236,22,Perempuan,1154588,Deposito,Surabaya,2022-03-16
+3237,67,Perempuan,29757868,Tabungan,Bali,2022-09-18
+3238,35,Perempuan,17180084,Tabungan,Bandung,2020-01-25
+3239,56,Laki-laki,12788584,Deposito,Jakarta Pusat,2021-11-02
+3240,54,Laki-laki,19001991,Deposito,Yogyakarta,2020-09-08
+3241,62,Perempuan,17665062,Tabungan,Surabaya,2022-10-01
+3242,65,Laki-laki,4995951,Tabungan,Surabaya,2021-08-11
+3243,60,Laki-laki,25734695,Deposito,Jakarta Pusat,2022-06-16
+3244,41,Laki-laki,8639727,Tabungan,Jakarta Pusat,2021-12-04
+3245,54,Perempuan,17459633,Tabungan,Surabaya,2020-01-02
+3246,21,Perempuan,13077467,Tabungan,Surabaya,2021-06-04
+3247,25,Perempuan,5286465,Deposito,Bandung,2022-02-02
+3248,66,Perempuan,6354587,Deposito,Yogyakarta,2020-03-16
+3249,51,Laki-laki,26326432,Tabungan,Jakarta Pusat,2020-02-27
+3250,26,Laki-laki,28582766,Deposito,Bali,2021-11-28
+3251,67,Perempuan,12613163,Deposito,Yogyakarta,2021-11-07
+3252,60,Laki-laki,16328844,Deposito,Jakarta Pusat,2022-08-24
+3253,22,Laki-laki,21628271,Tabungan,Jakarta Pusat,2021-09-25
+3254,58,Laki-laki,17149847,Tabungan,Surabaya,2021-06-18
+3255,24,Laki-laki,27651072,Deposito,Jakarta Pusat,2022-08-04
+3256,32,Perempuan,18020205,Deposito,Yogyakarta,2022-11-14
+3257,40,Laki-laki,23413742,Deposito,Bandung,2021-10-24
+3258,63,Perempuan,18046663,Tabungan,Jakarta Pusat,2021-09-15
+3259,55,Perempuan,15764983,Deposito,Surabaya,2021-08-28
+3260,53,Laki-laki,4160928,Tabungan,Bandung,2022-11-13
+3261,51,Perempuan,9296458,Tabungan,Jakarta Pusat,2022-11-24
+3262,42,Laki-laki,14398900,Deposito,Surabaya,2021-03-15
+3263,47,Laki-laki,16397536,Deposito,Yogyakarta,2020-05-27
+3264,52,Perempuan,15811297,Deposito,Bandung,2020-06-24
+3265,34,Laki-laki,22328115,Tabungan,Surabaya,2020-12-15
+3266,23,Perempuan,27864542,Tabungan,Yogyakarta,2021-05-16
+3267,39,Laki-laki,26408647,Deposito,Bali,2021-10-12
+3268,50,Laki-laki,29301693,Tabungan,Bali,2020-07-23
+3269,63,Laki-laki,23162392,Deposito,Bandung,2022-11-07
+3270,48,Perempuan,1314404,Deposito,Jakarta Pusat,2021-08-16
+3271,46,Perempuan,29759774,Deposito,Yogyakarta,2020-12-14
+3272,53,Perempuan,28476333,Tabungan,Bali,2022-05-01
+3273,45,Perempuan,2075901,Deposito,Bandung,2020-12-04
+3274,65,Perempuan,10546963,Deposito,Bandung,2022-08-04
+3275,39,Laki-laki,26943294,Tabungan,Bali,2022-03-08
+3276,33,Laki-laki,11289240,Deposito,Yogyakarta,2021-06-17
+3277,52,Laki-laki,14500178,Deposito,Yogyakarta,2022-08-02
+3278,49,Laki-laki,1483172,Deposito,Surabaya,2022-12-01
+3279,25,Perempuan,14564016,Deposito,Bali,2020-04-08
+3280,20,Perempuan,18723257,Tabungan,Bandung,2021-05-11
+3281,64,Perempuan,21729557,Tabungan,Surabaya,2022-08-21
+3282,36,Perempuan,29676153,Tabungan,Surabaya,2022-10-03
+3283,25,Laki-laki,24195924,Deposito,Bandung,2022-03-30
+3284,66,Perempuan,22040251,Deposito,Jakarta Pusat,2022-11-17
+3285,61,Perempuan,10806444,Deposito,Bali,2020-04-20
+3286,28,Perempuan,7203615,Deposito,Surabaya,2022-03-25
+3287,21,Perempuan,8392354,Tabungan,Bali,2020-07-01
+3288,54,Perempuan,5897098,Tabungan,Bandung,2021-11-22
+3289,37,Laki-laki,7653593,Deposito,Jakarta Pusat,2021-11-15
+3290,50,Laki-laki,20106999,Deposito,Yogyakarta,2022-05-09
+3291,63,Perempuan,18273337,Tabungan,Surabaya,2022-02-01
+3292,33,Laki-laki,12057551,Tabungan,Surabaya,2021-04-25
+3293,55,Laki-laki,15043590,Deposito,Jakarta Pusat,2021-04-19
+3294,42,Laki-laki,5817782,Tabungan,Jakarta Pusat,2022-10-14
+3295,25,Perempuan,21745332,Tabungan,Surabaya,2021-10-15
+3296,32,Perempuan,25838279,Tabungan,Surabaya,2022-03-03
+3297,47,Perempuan,22519308,Deposito,Bandung,2021-08-03
+3298,60,Perempuan,3918858,Deposito,Yogyakarta,2022-04-22
+3299,38,Laki-laki,3292742,Tabungan,Jakarta Pusat,2020-04-30
+3300,39,Laki-laki,25221508,Deposito,Bali,2021-02-03
+3301,33,Perempuan,4389962,Deposito,Yogyakarta,2020-09-23
+3302,61,Laki-laki,6021388,Deposito,Jakarta Pusat,2020-09-16
+3303,38,Laki-laki,29932746,Tabungan,Jakarta Pusat,2022-10-29
+3304,44,Laki-laki,11920467,Tabungan,Surabaya,2022-11-26
+3305,42,Laki-laki,25775907,Deposito,Jakarta Pusat,2021-11-18
+3306,54,Perempuan,25531737,Deposito,Yogyakarta,2022-01-09
+3307,66,Laki-laki,3732147,Deposito,Bandung,2021-08-04
+3308,43,Perempuan,7615689,Tabungan,Jakarta Pusat,2020-12-30
+3309,28,Perempuan,24497599,Deposito,Surabaya,2022-05-03
+3310,29,Laki-laki,12644613,Tabungan,Bandung,2021-06-26
+3311,32,Perempuan,21854422,Tabungan,Jakarta Pusat,2022-01-11
+3312,31,Laki-laki,3637865,Deposito,Surabaya,2021-11-25
+3313,29,Laki-laki,24531017,Deposito,Yogyakarta,2021-05-13
+3314,42,Perempuan,9360125,Deposito,Bandung,2022-05-18
+3315,24,Laki-laki,6939108,Tabungan,Surabaya,2020-12-03
+3316,48,Perempuan,22296157,Tabungan,Yogyakarta,2022-03-09
+3317,33,Laki-laki,1190678,Deposito,Bali,2020-08-22
+3318,68,Laki-laki,19275516,Tabungan,Bali,2021-08-10
+3319,66,Laki-laki,27739724,Deposito,Bandung,2020-02-02
+3320,44,Perempuan,1218034,Deposito,Jakarta Pusat,2021-06-08
+3321,25,Perempuan,17208641,Deposito,Yogyakarta,2021-02-16
+3322,35,Perempuan,3762456,Tabungan,Bali,2021-04-17
+3323,42,Perempuan,2108835,Deposito,Bandung,2020-09-04
+3324,46,Perempuan,18879049,Deposito,Bandung,2022-06-22
+3325,38,Laki-laki,18319687,Tabungan,Bali,2022-10-26
+3326,40,Laki-laki,17801259,Deposito,Yogyakarta,2020-02-08
+3327,58,Laki-laki,25802568,Deposito,Yogyakarta,2020-01-19
+3328,20,Laki-laki,23959696,Deposito,Surabaya,2021-09-14
+3329,23,Perempuan,26216681,Deposito,Bali,2022-08-12
+3330,20,Perempuan,18697973,Tabungan,Bandung,2022-01-19
+3331,40,Perempuan,22300025,Tabungan,Surabaya,2020-02-13
+3332,60,Perempuan,14052168,Tabungan,Surabaya,2021-04-07
+3333,46,Laki-laki,29644649,Deposito,Bandung,2021-10-10
+3334,30,Perempuan,5086501,Deposito,Jakarta Pusat,2021-06-13
+3335,56,Perempuan,16825920,Deposito,Bali,2021-04-14
+3336,25,Perempuan,8438774,Deposito,Surabaya,2020-11-11
+3337,42,Perempuan,13778794,Tabungan,Bali,2020-11-25
+3338,22,Perempuan,22048257,Tabungan,Bandung,2020-12-31
+3339,65,Laki-laki,19636573,Deposito,Jakarta Pusat,2020-06-17
+3340,53,Laki-laki,3641546,Deposito,Yogyakarta,2022-11-04
+3341,61,Perempuan,29771211,Tabungan,Surabaya,2021-11-30
+3342,61,Laki-laki,7288587,Tabungan,Surabaya,2021-04-25
+3343,47,Laki-laki,25358804,Deposito,Jakarta Pusat,2020-10-08
+3344,39,Laki-laki,5964233,Tabungan,Jakarta Pusat,2021-04-08
+3345,24,Perempuan,10486622,Tabungan,Surabaya,2021-04-07
+3346,34,Perempuan,9807698,Tabungan,Surabaya,2021-08-05
+3347,21,Perempuan,29025591,Deposito,Bandung,2020-06-20
+3348,40,Perempuan,9020098,Deposito,Yogyakarta,2021-12-14
+3349,66,Laki-laki,26197717,Tabungan,Jakarta Pusat,2020-05-30
+3350,65,Laki-laki,1751738,Deposito,Bali,2022-08-26
+3351,46,Perempuan,7748312,Deposito,Yogyakarta,2021-05-15
+3352,37,Laki-laki,17110004,Deposito,Jakarta Pusat,2022-03-18
+3353,33,Laki-laki,2343896,Tabungan,Jakarta Pusat,2020-11-25
+3354,25,Laki-laki,19342159,Tabungan,Surabaya,2021-10-12
+3355,62,Laki-laki,4534871,Deposito,Jakarta Pusat,2022-11-04
+3356,59,Perempuan,13781943,Deposito,Yogyakarta,2021-06-23
+3357,30,Laki-laki,18065734,Deposito,Bandung,2022-12-16
+3358,22,Perempuan,26445882,Tabungan,Jakarta Pusat,2020-04-27
+3359,65,Perempuan,19017095,Deposito,Surabaya,2021-11-08
+3360,61,Laki-laki,1095874,Tabungan,Bandung,2022-10-27
+3361,20,Perempuan,15315728,Tabungan,Jakarta Pusat,2022-12-22
+3362,50,Laki-laki,29191037,Deposito,Surabaya,2022-05-09
+3363,31,Laki-laki,25905715,Deposito,Yogyakarta,2021-12-02
+3364,43,Perempuan,28819963,Deposito,Bandung,2021-05-06
+3365,60,Laki-laki,18274098,Tabungan,Surabaya,2021-08-27
+3366,46,Perempuan,29344439,Tabungan,Yogyakarta,2022-02-15
+3367,43,Laki-laki,2390479,Deposito,Bali,2022-07-02
+3368,68,Laki-laki,21765333,Tabungan,Bali,2020-07-01
+3369,31,Laki-laki,28032851,Deposito,Bandung,2022-07-08
+3370,63,Perempuan,16453832,Deposito,Jakarta Pusat,2022-10-15
+3371,34,Perempuan,12165083,Deposito,Yogyakarta,2022-10-28
+3372,28,Perempuan,22160813,Tabungan,Bali,2020-04-09
+3373,34,Perempuan,20164857,Deposito,Bandung,2020-12-24
+3374,24,Perempuan,1503095,Deposito,Bandung,2020-06-17
+3375,39,Laki-laki,12834929,Tabungan,Bali,2021-07-19
+3376,21,Laki-laki,23771712,Deposito,Yogyakarta,2020-11-19
+3377,45,Laki-laki,29674153,Deposito,Yogyakarta,2022-01-27
+3378,68,Laki-laki,5776233,Deposito,Surabaya,2021-03-19
+3379,53,Perempuan,19022661,Deposito,Bali,2020-02-07
+3380,51,Perempuan,13766048,Tabungan,Bandung,2020-08-16
+3381,44,Perempuan,19883230,Tabungan,Surabaya,2021-06-15
+3382,29,Perempuan,19799300,Tabungan,Surabaya,2020-07-14
+3383,39,Laki-laki,9930404,Deposito,Bandung,2022-11-17
+3384,28,Perempuan,16380607,Deposito,Jakarta Pusat,2022-09-19
+3385,61,Perempuan,2930314,Deposito,Bali,2022-05-02
+3386,65,Perempuan,2125452,Deposito,Surabaya,2021-12-15
+3387,50,Perempuan,4834852,Tabungan,Bali,2020-10-22
+3388,46,Perempuan,12786041,Tabungan,Bandung,2021-12-13
+3389,36,Laki-laki,8510202,Deposito,Jakarta Pusat,2021-12-29
+3390,57,Laki-laki,2648663,Deposito,Yogyakarta,2022-01-08
+3391,67,Perempuan,11597619,Tabungan,Surabaya,2022-05-19
+3392,27,Laki-laki,2702354,Tabungan,Surabaya,2020-05-18
+3393,65,Laki-laki,12211559,Deposito,Jakarta Pusat,2021-03-08
+3394,40,Laki-laki,22751409,Tabungan,Jakarta Pusat,2020-02-01
+3395,49,Perempuan,25667119,Tabungan,Surabaya,2022-07-16
+3396,41,Perempuan,22979012,Tabungan,Surabaya,2022-01-14
+3397,54,Perempuan,16701643,Deposito,Bandung,2020-07-08
+3398,29,Perempuan,26964447,Deposito,Yogyakarta,2021-06-22
+3399,22,Laki-laki,12465095,Tabungan,Jakarta Pusat,2020-05-14
+3400,52,Laki-laki,6371330,Deposito,Bali,2021-12-17
